@@ -48,12 +48,11 @@ Classify every offer into one of these types (or hybrid of 2):
 
 | Archetype | Key signals in JD |
 |-----------|-------------------|
-| AI Platform / LLMOps | "observability", "evals", "pipelines", "monitoring", "reliability" |
-| Agentic / Automation | "agent", "HITL", "orchestration", "workflow", "multi-agent" |
-| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "product manager" |
-| AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
-| AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
-| AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Strategic Partnerships Leader | "partnerships", "partner program", "channel", "alliances", "ecosystem", "partner lifecycle" |
+| Business Development / GTM Leader | "business development", "enterprise sales", "pipeline", "GTM", "go-to-market", "revenue" |
+| Platform & Ecosystem Partnerships | "API", "integrations", "platform partnerships", "data partnerships", "technology alliances" |
+| AI/Tech Commercialization Lead | "commercialization", "product marketing", "sales enablement", "thought leadership", "positioning" |
+| Product Strategy / Growth | "product strategy", "roadmap", "product-market fit", "growth", "cross-functional" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 

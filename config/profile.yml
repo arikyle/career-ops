@@ -1,0 +1,78 @@
+# Career-Ops Profile Configuration
+
+candidate:
+  full_name: "Ari Kyle Levine"
+  email: "ari.kyle.levine@gmail.com"
+  phone: "+1-510-593-7215"
+  location: "Santa Monica, CA"
+  linkedin: "linkedin.com/in/arikyle"
+  portfolio_url: ""
+  github: ""
+  twitter: ""
+
+target_roles:
+  primary:
+    - "VP of Strategic Partnerships"
+    - "Head of Partnerships"
+    - "Director of Business Development"
+    - "VP of Business Development"
+    - "Head/VP of Product"
+    - "Director of Product"
+  archetypes:
+    - name: "Strategic Partnerships Leader"
+      level: "VP/Director"
+      fit: "primary"
+    - name: "Business Development / GTM Leader"
+      level: "VP/Director"
+      fit: "primary"
+    - name: "Platform & Ecosystem Partnerships"
+      level: "Director/VP"
+      fit: "primary"
+    - name: "Product Leader"
+      level: "Director/VP"
+      fit: "primary"
+    - name: "AI/Tech Commercialization Lead"
+      level: "Director/VP"
+      fit: "secondary"
+
+narrative:
+  headline: "Partnerships builder who creates revenue from zero — across SaaS, AI, retail media, and AdTech"
+  exit_story: "Built partnership functions from scratch at multiple companies, closed enterprise deals with global brands, and simultaneously founded ventures in proptech, aviation SaaS, and golf tech. Looking for a role where I can build, not just manage."
+  superpowers:
+    - "Zero-to-one partnership function builder (defined archetypes, onboarding, enablement, tracking at i2o, Profitero, Amobee)"
+    - "Enterprise deal closer — Nestlé, Reckitt, Speedo, Panasonic, Walmart Connect ecosystem"
+    - "Cross-functional operator — bridges Product, Engineering, Legal, Sales, and Marketing"
+    - "Product-minded BD — defines data contracts, shapes integration roadmaps, launches new data products"
+    - "Serial founder — proptech, aviation SaaS, golf SaaS, healthcare — builds from scratch"
+  proof_points:
+    - name: "RMRI (Retail Media Risk Index)"
+      url: ""
+      hero_metric: "Original industry benchmark — authored thesis, designed scoring models, led GTM"
+    - name: "i2o Retail ARR"
+      url: ""
+      hero_metric: "~$500K new ARR, $350K+ MRR pipeline, on pace to exceed annual target"
+    - name: "Profitero VAR Program"
+      url: ""
+      hero_metric: "$400K ARR, $3M+ pipeline in year one; retention from ~50% to ~90%"
+    - name: "Amobee PMP Strategy"
+      url: ""
+      hero_metric: "300% YoY PMP revenue growth; deal ID adoption 5% → 40%"
+    - name: "RealiFi Realty"
+      url: ""
+      hero_metric: "Seven-figure annual GCI; 2 utility patents (1 allowed); ~30 agents"
+    - name: "Music Career"
+      url: ""
+      hero_metric: "30M+ streams, Netflix sync (Selling Sunset), Universal/Sony/Warner releases"
+
+compensation:
+  target_range: "$300K+"
+  currency: "USD"
+  minimum: "$180K base"
+  location_flexibility: "LA or SF based, open to hybrid/remote"
+
+location:
+  country: "United States"
+  city: "Santa Monica"
+  timezone: "PST"
+  visa_status: "No sponsorship needed"
+  willing_to_relocate: "SF Bay Area only"
