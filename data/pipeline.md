@@ -1,0 +1,56 @@
+# Pipeline
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5175017008 | Anthropic | Ecosystem Lead, Claude Marketplace
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153588008 | Anthropic | Head of Programmatic Outcomes — Partners
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173031008 | Anthropic | Manager, Applied AI Solutions Architecture - Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146999008 | Anthropic | Manager of Solutions Architecture, Applied AI (Partnerships)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5131095008 | Anthropic | Startup Partnerships - France & Southern Europe
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7482840 | Intercom | Head of Global Partnerships
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8068841002 | Airtable | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5115139008 | RunPod | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5755137004 | Arize AI | Vice President of Revenue Operations
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5014558008 | Black Forest Labs | Senior Partnerships Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7683554003 | Celonis | VP GTM Operations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627021003 | Celonis | Partner Sales Director - US Public Sector
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7724246 | Contentful | Director, ISV & Marketplace Strategy
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7658593 | Contentful | Strategic Alliances Manager
+- [ ] https://getyourguide.careers/jobs/7761077 | GetYourGuide | Head of Marketplace Integrity
+- [ ] https://getyourguide.careers/jobs/7668008 | GetYourGuide | Senior Go-to-Market Manager, New Categories
+- [ ] https://careers.hellofresh.com/global/en/job/7582948 | HelloFresh | Head of Growth Partnerships
+- [ ] https://careers.hellofresh.com/global/en/job/7621514 | HelloFresh | Growth Lead - Commercial Partnerships
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822462101 | PolyAI | Senior Manager, ISV Partnerships & GTM
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822455101 | PolyAI | Senior Manager, Private Equity and Venture Capital Partnerships
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4784741101 | Parloa | GSI Partnerships Manager - Conversational AI & Agentic AI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4663833005 | Glean | GSI Consulting Partner Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673788005 | Glean | Private Equity Partnerships Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4665150005 | Glean | Sr. Cloud Partner Sales Manager
+- [ ] https://jobs.ashbyhq.com/dailypay/e6bc5ddd-a35d-48c9-8039-6b68bf74abef | DailyPay | VP of Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/jerry/bff33938-bf92-4ce0-92af-e8542a36ff1b/application | Jerry | VP, Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/decagon/0071b805-983e-4946-aa38-3017dac6ac30 | Decagon | Head of Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/montecarlodata/4d8b8f69-e806-4641-94f4-a0ac09f12578 | Monte Carlo | Senior Director, Strategic Partnerships & Alliances
+- [ ] https://jobs.ashbyhq.com/openai/3bff1081-2bc7-4ea0-b037-f0c2eb4af262 | OpenAI | Director, Partnerships - OpenAI for Government
+- [ ] https://jobs.ashbyhq.com/parabola-io/676eeafe-0d85-459d-b9af-ca20af377e90 | Parabola | Head of Business Development
+- [ ] https://jobs.ashbyhq.com/catena-labs/dd260d65-0072-49c4-8602-90c0c5219be6 | Catena Labs | Head of Business Development
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/fbba979d-2c33-46b8-8c13-45326c3ecfbb/application | Aleph Alpha | Head of Business Development
+- [ ] https://jobs.ashbyhq.com/openrouter/979d9bff-cfff-4ff2-8b76-52f2f6c57109 | OpenRouter | Head of Business Development
+- [ ] https://job-boards.greenhouse.io/audioeye/jobs/5494170004 | AudioEye | VP, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4656884005 | Spring Health | VP, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/entersekt/jobs/5588224004 | Entersekt | VP Partnerships (North America)
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8444091002 | Wellhub | Strategic Partnerships Director
+- [ ] https://jobs.lever.co/xero/836f9253-1e0f-444e-9563-8d49381170ca | Xero | VP, Partnerships
+- [ ] https://jobs.lever.co/sendoso/f8f0fb7d-6684-4fcf-b7e3-3e0973c2c3bd | Sendoso | Head of Partnerships/Alliances
+- [ ] https://jobs.lever.co/matchgroup/c7e9b34d-6b41-40b1-9def-20e271d11a3b | Match Group | VP, Business Development
+- [ ] https://jobs.lever.co/cognite/d586d093-65c5-4c3a-a78b-5c0279399b06 | Cognite | Director, Cloud Partner Business Development
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8422081002 | GitLab | Director of Product Management, AI Agents and Ecosystem
+- [ ] https://job-boards.greenhouse.io/commerceiq/jobs/7683923003 | CommerceIQ | Director of Product Management - AI
+- [ ] https://jobs.ashbyhq.com/Jasper%20AI/1ba3b0f5-c4e4-46b3-9a72-f42c1e7aa7fc | Jasper | Head of GTM Strategy and Operations
+- [ ] https://jobs.ashbyhq.com/weave-grid/8a8dd4df-9d01-4eb4-9152-763d1558ddbb | WeaveGrid | Head of Go-to-Market (GTM)
+- [ ] https://jobs.ashbyhq.com/socure/2faa24b8-6ed1-491a-a31b-5a10dce78af2/application | Socure | Head of Go-to-Market (GTM), Fintech & Payments
+- [ ] https://jobs.ashbyhq.com/ironcladhq/a3b050b3-cbf1-446d-83f1-aafb0c65d080 | Ironclad | Vice President, GTM Operations
+- [ ] https://job-boards.greenhouse.io/apolloio/jobs/5532738004 | Apollo.io | Director, Head of GTM Strategy and Operations
+- [ ] https://job-boards.greenhouse.io/align/jobs/8317696002 | A-LIGN | Vice President of GTM Operations
+- [ ] https://jobs.ashbyhq.com/glia/e4e7a847-8c0d-4634-981b-a23488fe2df4 | Glia | Head of AI - Product Leader
+- [ ] https://jobs.ashbyhq.com/pareto-ai/78fae5b5-2e6b-4136-a66a-f66817e148be | Pareto.AI | Head of Product
+

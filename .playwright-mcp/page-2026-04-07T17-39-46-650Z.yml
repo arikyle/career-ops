@@ -1,0 +1,486 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "PolyAI Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://poly.ai
+        - img "PolyAI Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/polyai
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Senior Manager, ISV Partnerships & GTM" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: United States
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - paragraph [ref=e24]:
+            - superscript [ref=e26]: PolyAI automates customer service through lifelike voice assistants that let customers lead a conversation. Our voice assistants make it possible for businesses to deliver outstanding customer service that rivals their human agents. Our customers, which include the world’s leading logos, are expanding how they use our platform, driving automation of critical customer service operations and integrating PolyAI into their daily customer service workflows.
+          - generic [ref=e27]:
+            - paragraph [ref=e28]:
+              - subscript [ref=e30]: PolyAI is seeking a Senior Manager, ISV Partnerships & GTM to drive revenue growth by building and scaling partnerships with Independent Software Vendors. This is a business development role at its core — you will identify ISV partners whose products and customer base create natural distribution channels for PolyAI, structure partnerships that get PolyAI bundled or integrated into their offerings, and execute joint go-to-market strategies that generate measurable pipeline and bookings.
+            - paragraph [ref=e31]:
+              - subscript [ref=e33]: "You will own a portfolio of 5–10 ISV partnerships across up to five verticals. Some of these verticals are established — hospitality, fintech, and banking — where PolyAI has proven traction and named enterprise customers. Others are greenfield: verticals where voice AI has clear applicability but PolyAI has not yet built a partner-led presence. A major part of this role is identifying which new verticals to pursue, validating the opportunity through ISV partnerships, and building the go-to-market playbook from scratch."
+            - paragraph [ref=e34]:
+              - subscript [ref=e36]:
+                - text: This is a quota-carrying role. You will report to the
+                - strong [ref=e37]: VP of Alliances
+                - text: .
+            - heading "What You’ll Do" [level=2] [ref=e38]:
+              - subscript [ref=e40]:
+                - strong [ref=e41]: What You’ll Do
+            - heading "ISV Partner Acquisition & Business Development" [level=3] [ref=e42]:
+              - subscript [ref=e44]:
+                - strong [ref=e45]: ISV Partner Acquisition & Business Development
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - subscript [ref=e49]: Source, evaluate, and recruit ISV partners whose products and customer base align with PolyAI’s voice AI platform — across both proven and emerging verticals
+              - listitem [ref=e50]:
+                - subscript [ref=e52]: "Build the business case for each partnership: how PolyAI integrates into the ISV’s product, what the joint value proposition looks like for the end customer, and where the revenue opportunity sits"
+              - listitem [ref=e53]:
+                - subscript [ref=e55]: Negotiate partnership terms including co-sell frameworks, referral structures, integration commitments, and joint success metrics
+              - listitem [ref=e56]:
+                - subscript [ref=e58]: Develop multi-threaded relationships across ISV organizations — from product and engineering teams to sales leadership and executive sponsors
+            - heading "Go-to-Market Strategy & Execution" [level=3] [ref=e59]:
+              - subscript [ref=e61]:
+                - strong [ref=e62]: Go-to-Market Strategy & Execution
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - subscript [ref=e66]: Develop and execute joint GTM plans with each ISV partner, including co-selling motions, demand generation campaigns, joint events, and co-branded content
+              - listitem [ref=e67]:
+                - subscript [ref=e69]: Work with ISV partner sales teams to drive pipeline creation, deal acceleration, and closed revenue through co-sell and referral activity
+              - listitem [ref=e70]:
+                - subscript [ref=e72]: Collaborate with PolyAI Marketing to build joint value propositions, case studies, and campaign assets that support partner-led pipeline generation
+              - listitem [ref=e73]:
+                - subscript [ref=e75]: Manage pipeline and booking targets directly tied to ISV partner activity
+            - heading "Vertical Expansion & Market Development" [level=3] [ref=e76]:
+              - subscript [ref=e78]:
+                - strong [ref=e79]: Vertical Expansion & Market Development
+            - list [ref=e80]:
+              - listitem [ref=e81]:
+                - subscript [ref=e83]: Analyze market dynamics, customer pain points, and competitive landscape to identify new verticals where voice AI creates compelling value and ISV partnerships provide the fastest path to market
+              - listitem [ref=e84]:
+                - subscript [ref=e86]: Validate new vertical opportunities through targeted ISV outreach, early partnerships, and pilot engagements that prove demand before committing to full-scale GTM investment
+              - listitem [ref=e87]:
+                - subscript [ref=e89]: Build repeatable vertical playbooks — including target ISV profiles, integration patterns, and sales enablement materials — that scale across the partner ecosystem
+            - heading "Integration Support & Partner Enablement" [level=3] [ref=e90]:
+              - subscript [ref=e92]:
+                - strong [ref=e93]: Integration Support & Partner Enablement
+            - list [ref=e94]:
+              - listitem [ref=e95]:
+                - subscript [ref=e97]: Work with PolyAI’s Solutions Engineering and Product teams to support ISV integration and onboarding, ensuring technical quality and a smooth path to production
+              - listitem [ref=e98]:
+                - subscript [ref=e100]: Enable ISV partner teams on PolyAI’s platform capabilities, use cases, and competitive positioning so they can sell effectively alongside or on behalf of PolyAI
+              - listitem [ref=e101]:
+                - subscript [ref=e103]: Provide feedback from ISV partners to Product and Engineering on integration requirements, feature gaps, and roadmap priorities that would unlock new partnership opportunities
+            - heading "Performance Management & Reporting" [level=3] [ref=e104]:
+              - subscript [ref=e106]:
+                - strong [ref=e107]: Performance Management & Reporting
+            - list [ref=e108]:
+              - listitem [ref=e109]:
+                - subscript [ref=e111]: Track partner-sourced pipeline, influenced revenue, and closed bookings across the ISV portfolio
+              - listitem [ref=e112]:
+                - subscript [ref=e114]: Run regular business reviews with ISV partners and internal stakeholders to assess performance, refine strategy, and identify growth opportunities
+              - listitem [ref=e115]:
+                - subscript [ref=e117]: Deliver accurate forecasting and pipeline reporting to leadership
+            - heading "The Ideal Candidate" [level=2] [ref=e118]:
+              - subscript [ref=e120]:
+                - strong [ref=e121]: The Ideal Candidate
+            - list [ref=e122]:
+              - listitem [ref=e123]:
+                - subscript [ref=e125]: 6–8 years of experience in ISV partnerships, channel sales, business development, or alliances — with a track record of sourcing and closing partnership deals that drove measurable revenue
+              - listitem [ref=e126]:
+                - subscript [ref=e128]: "Quota-carrying experience: you have owned a number and consistently hit it through partner-led or partner-influenced pipeline"
+              - listitem [ref=e129]:
+                - subscript [ref=e131]: Builder mentality — you have stood up new partnerships, new verticals, or new GTM motions from scratch, not just inherited an existing book of business
+              - listitem [ref=e132]:
+                - subscript [ref=e134]: "Strong business development instincts: comfortable with outbound prospecting into ISV organizations, navigating complex deal structures, and presenting to executive leadership"
+              - listitem [ref=e135]:
+                - subscript [ref=e137]: Ability to understand technology products at a level sufficient to evaluate integration fit, participate in technical scoping conversations, and credibly represent PolyAI’s platform to ISV product and engineering teams
+              - listitem [ref=e138]:
+                - subscript [ref=e140]: Experience in SaaS, enterprise software, or technology partnerships — ideally in contact center, CX, voice, or AI-adjacent markets
+              - listitem [ref=e141]:
+                - subscript [ref=e143]: "Direct experience in at least one of PolyAI’s established verticals: hospitality, fintech, or financial services"
+              - listitem [ref=e144]:
+                - subscript [ref=e146]: Highly organized with strong CRM discipline (Salesforce preferred) and a data-driven approach to pipeline management
+              - listitem [ref=e147]:
+                - subscript [ref=e149]: Self-directed and comfortable operating with significant autonomy in a fast-paced, high-growth environment
+            - heading "What Will Make You Stand Out" [level=2] [ref=e150]:
+              - subscript [ref=e152]:
+                - strong [ref=e153]: What Will Make You Stand Out
+            - list [ref=e154]:
+              - listitem [ref=e155]:
+                - subscript [ref=e157]: Experience building ISV or technology partner programs at a high-growth SaaS company where the partner ecosystem was still being defined
+              - listitem [ref=e158]:
+                - subscript [ref=e160]: Background in conversational AI, voice AI, contact center technology, or adjacent enterprise software categories
+              - listitem [ref=e161]:
+                - subscript [ref=e163]: Existing relationships with ISV executives in hospitality technology, fintech, banking software, or other vertical SaaS markets
+              - listitem [ref=e164]:
+                - subscript [ref=e166]: Experience evaluating and entering new vertical markets through partnership-led GTM strategies
+              - listitem [ref=e167]:
+                - subscript [ref=e169]: "Familiarity with enterprise integration patterns: APIs, SIP/PSTN telephony, CCaaS platforms, and CRM system interconnection"
+            - paragraph [ref=e170]:
+              - subscript [ref=e172]:
+                - text: We provide a competitive salary range for this role - which is
+                - strong [ref=e173]: $190,000-$230,000 OTE
+                - text: "- depending on level and experience. Please note this range is intended as a guide, not a guarantee. Final compensation will be based on individual qualifications, relevant experience, and the scope of the role."
+            - paragraph [ref=e174]:
+              - subscript [ref=e176]: In addition to salary, this position includes equity in the business, giving you the opportunity to share in the company’s long-term success.
+            - separator [ref=e177]
+            - paragraph [ref=e178]:
+              - subscript [ref=e180]:
+                - strong [ref=e181]: Benefits
+            - paragraph [ref=e182]:
+              - subscript [ref=e184]: 💰 Participation in the company’s employee share options plan
+            - paragraph [ref=e185]:
+              - subscript [ref=e187]: 🏥 100% of Single Cost (employee) and 70% of Dependent for medical, dental & vision
+            - paragraph [ref=e188]:
+              - subscript [ref=e190]: 👪 Life Insurance
+            - paragraph [ref=e191]:
+              - subscript [ref=e193]: ◻️ STD and LTD
+            - paragraph [ref=e194]:
+              - subscript [ref=e196]: 💰 The opportunity to contribute to the company's 401k plan
+            - paragraph [ref=e197]:
+              - subscript [ref=e199]: 🏝 Flexible PTO policy + 11 designated company holidays
+            - paragraph [ref=e200]:
+              - subscript [ref=e202]: 📚 Annual learning and development allowance
+            - paragraph [ref=e203]:
+              - subscript [ref=e205]: 🏡 We’re all about making WFH work for you - that’s why we offer a one-off WFH allowance when you join. Offering perks like noise-cancelling headphones or a comfortable desk chair to boost your comfort and focus!
+            - paragraph [ref=e206]:
+              - subscript [ref=e208]: 🧡 Enhanced parental leave
+            - paragraph [ref=e209]:
+              - subscript [ref=e211]:
+                - link "👨‍👩‍👧" [ref=e212] [cursor=pointer]:
+                  - /url: https://emojipedia.org/family-man-woman-girl/
+                - text: Company-funded fertility and family-forming programmes
+            - paragraph [ref=e213]:
+              - subscript [ref=e215]:
+                - link "🌸" [ref=e216] [cursor=pointer]:
+                  - /url: https://emojipedia.org/cherry-blossom/
+                - text: Menopause care programme with Maven
+          - generic [ref=e217]:
+            - separator [ref=e218]
+            - paragraph [ref=e219]:
+              - superscript [ref=e221]: At PolyAI, we take great pride in our values - they guide everything we do. We believe that a strong culture leads to meaningful work and lasting impact.
+            - paragraph [ref=e222]:
+              - superscript [ref=e224]: "Our core values are:"
+            - paragraph [ref=e225]:
+              - superscript [ref=e227]:
+                - strong [ref=e228]:
+                  - img ":only-the-best:" [ref=e229]
+                - strong [ref=e230]: Only the best
+                - text: We expect the best from our people, we hire people that expect the best from themselves, and we nurture this drive for excellence.
+            - paragraph [ref=e231]:
+              - superscript [ref=e233]:
+                - strong [ref=e234]:
+                  - img ":ownership:" [ref=e235]
+                - strong [ref=e236]: Ownership
+                - text: We care deeply about what we do. We take ownership of our initiatives, decisions and outcomes.
+            - paragraph [ref=e237]:
+              - superscript [ref=e239]:
+                - strong [ref=e240]:
+                  - img ":relentlessly-improve:" [ref=e241]
+                - strong [ref=e242]: Relentlessly improve
+                - text: We demand more from ourselves and are always evolving. Continuous, obsessive improvement is the only way we will transform the world of conversational AI.
+            - paragraph [ref=e243]:
+              - superscript [ref=e245]:
+                - strong [ref=e246]:
+                  - img ":bias-for-action:" [ref=e247]
+                - strong [ref=e248]: Bias for action
+                - text: Our world moves quickly and so do we. We take calculated risks and we deliver impact fast.
+            - paragraph [ref=e249]:
+              - superscript [ref=e251]:
+                - strong [ref=e252]:
+                  - img ":disagree-and-commit:" [ref=e253]
+                  - text: Disagree and commit
+                - text: We are all working toward the same goal. If we donʼt agree with something, we work hard to understand it and when a decision is made, we accept it and give it our all.
+                - strong
+            - paragraph [ref=e254]:
+              - superscript [ref=e256]:
+                - strong [ref=e257]:
+                  - img ":build-for-people:" [ref=e258]
+                  - text: Build for people
+                - text: We want the world to enjoy the experiences they have with us. We are building for a future that prefers automation.
+            - separator [ref=e259]
+            - paragraph [ref=e260]:
+              - superscript [ref=e262]:
+                - emphasis [ref=e264]: PolyAI is proud to be an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All employment decisions at PolyAI will be based on the business needs without attention to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, neurodiversity status or disability status.
+            - separator [ref=e265]
+            - paragraph [ref=e266]:
+              - superscript [ref=e268]:
+                - emphasis [ref=e270]:
+                  - text: Kindly find the Privacy Notice for our recruitment process by following the link
+                  - link "here" [ref=e271] [cursor=pointer]:
+                    - /url: https://polyai.notion.site/Recruitment-Privacy-Notice-1b5097db17f7802ead64dd6daf159ded
+                  - text: . This document provides important information regarding how we handle your personal data throughout the recruitment journey.
+        - generic [ref=e272]:
+          - img [ref=e273]
+          - generic [ref=e275]:
+            - paragraph [ref=e276]: Create a Job Alert
+            - paragraph [ref=e277]: Interested in building your career at PolyAI? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e278] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=polyai&source=job_alert_post
+      - separator [ref=e279]
+      - generic [ref=e280]:
+        - generic [ref=e281]:
+          - generic [ref=e282]:
+            - heading "Apply for this job" [level=2] [ref=e284]
+            - generic [ref=e285]:
+              - paragraph [ref=e287]: "*"
+              - paragraph [ref=e288]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e291] [cursor=pointer]
+        - generic [ref=e292]:
+          - generic [ref=e293]:
+            - generic [ref=e296]:
+              - generic [ref=e297]: First Name*
+              - textbox "First Name" [ref=e298]
+            - generic [ref=e301]:
+              - generic [ref=e302]: Last Name*
+              - textbox "Last Name" [ref=e303]
+            - generic [ref=e306]:
+              - generic [ref=e307]: Email*
+              - textbox "Email" [ref=e308]
+            - group "Phone" [ref=e310]:
+              - generic [ref=e311]: Phone
+              - generic [ref=e314]:
+                - generic [ref=e315]: Country*
+                - generic [ref=e316]:
+                  - log [ref=e318]
+                  - generic [ref=e320]:
+                    - combobox "Country" [ref=e323]
+                    - button "Toggle flyout" [ref=e325] [cursor=pointer]:
+                      - img [ref=e326]
+                  - textbox
+              - generic [ref=e330]:
+                - generic [ref=e331]: Phone*
+                - textbox "Phone" [ref=e333]
+            - group "Resume/CV*" [ref=e335]:
+              - generic [ref=e336]: Resume/CV*
+              - generic [ref=e338]:
+                - generic [ref=e340]:
+                  - button "Attach" [ref=e341] [cursor=pointer]
+                  - generic [ref=e342]: Attach
+                  - button "Attach" [ref=e343]
+                - button "Dropbox" [ref=e345] [cursor=pointer]
+                - button "Google Drive" [ref=e347] [cursor=pointer]
+                - generic [ref=e349]:
+                  - button "Enter manually" [ref=e350] [cursor=pointer]
+                  - generic [ref=e351]: Enter manually
+                - paragraph [ref=e352]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e354]:
+              - generic [ref=e355]: Cover Letter
+              - generic [ref=e357]:
+                - generic [ref=e359]:
+                  - button "Attach" [ref=e360] [cursor=pointer]
+                  - generic [ref=e361]: Attach
+                  - button "Attach" [ref=e362]
+                - button "Dropbox" [ref=e364] [cursor=pointer]
+                - button "Google Drive" [ref=e366] [cursor=pointer]
+                - generic [ref=e368]:
+                  - button "Enter manually" [ref=e369] [cursor=pointer]
+                  - generic [ref=e370]: Enter manually
+                - paragraph [ref=e371]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e372]:
+            - generic [ref=e373]:
+              - separator [ref=e374]
+              - paragraph [ref=e376]: Education
+              - generic [ref=e378]:
+                - generic [ref=e379]: School
+                - generic [ref=e380]:
+                  - log [ref=e382]
+                  - generic [ref=e384]:
+                    - generic [ref=e385]:
+                      - generic [ref=e386]: Select...
+                      - combobox "School" [ref=e388]
+                    - button "Toggle flyout" [ref=e390] [cursor=pointer]:
+                      - img [ref=e391]
+              - generic [ref=e394]:
+                - generic [ref=e395]: Degree
+                - generic [ref=e396]:
+                  - log [ref=e398]
+                  - generic [ref=e400]:
+                    - generic [ref=e401]:
+                      - generic [ref=e402]: Select...
+                      - combobox "Degree" [ref=e404]
+                    - button "Toggle flyout" [ref=e406] [cursor=pointer]:
+                      - img [ref=e407]
+              - generic [ref=e410]:
+                - generic [ref=e411]: Discipline
+                - generic [ref=e412]:
+                  - log [ref=e414]
+                  - generic [ref=e416]:
+                    - generic [ref=e417]:
+                      - generic [ref=e418]: Select...
+                      - combobox "Discipline" [ref=e420]
+                    - button "Toggle flyout" [ref=e422] [cursor=pointer]:
+                      - img [ref=e423]
+              - generic [ref=e425]:
+                - generic [ref=e426]:
+                  - generic [ref=e428]:
+                    - generic [ref=e429]: Start date month
+                    - generic [ref=e430]:
+                      - log [ref=e432]
+                      - generic [ref=e434]:
+                        - generic [ref=e435]:
+                          - generic [ref=e436]: Select...
+                          - combobox "Start date month" [ref=e438]
+                        - button "Toggle flyout" [ref=e440] [cursor=pointer]:
+                          - img [ref=e441]
+                  - generic [ref=e444]:
+                    - generic [ref=e445]: Start date year
+                    - spinbutton "Start date year" [ref=e446]
+                - generic [ref=e447]:
+                  - generic [ref=e449]:
+                    - generic [ref=e450]: End date month
+                    - generic [ref=e451]:
+                      - log [ref=e453]
+                      - generic [ref=e455]:
+                        - generic [ref=e456]:
+                          - generic [ref=e457]: Select...
+                          - combobox "End date month" [ref=e459]
+                        - button "Toggle flyout" [ref=e461] [cursor=pointer]:
+                          - img [ref=e462]
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: End date year
+                    - spinbutton "End date year" [ref=e467]
+            - button "Add another" [ref=e468] [cursor=pointer]
+          - generic [ref=e469]:
+            - separator [ref=e470]
+            - generic [ref=e473]:
+              - generic [ref=e474]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e475]
+            - generic [ref=e478]:
+              - generic [ref=e479]: What are your salary expectations for this role?*
+              - textbox "What are your salary expectations for this role?" [ref=e480]
+            - generic [ref=e483]:
+              - generic [ref=e484]: What is your current notice period?*
+              - textbox "What is your current notice period?" [ref=e485]
+            - generic [ref=e488]:
+              - generic [ref=e489]: This role does not offer visa sponsorship at this time. Do you currently require sponsorship to work in the United States?*
+              - generic [ref=e490]:
+                - log [ref=e492]
+                - generic [ref=e494]:
+                  - generic [ref=e495]:
+                    - generic [ref=e496]: Select...
+                    - combobox "This role does not offer visa sponsorship at this time. Do you currently require sponsorship to work in the United States?" [ref=e498]
+                  - button "Toggle flyout" [ref=e500] [cursor=pointer]:
+                    - img [ref=e501]
+                - textbox
+            - generic [ref=e505]:
+              - generic [ref=e506]: Where are you located? *
+              - textbox "Where are you located?" [ref=e507]
+          - generic [ref=e508]:
+            - separator [ref=e509]
+            - generic [ref=e510]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e511]
+              - paragraph [ref=e512]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e513]: As set forth in PolyAI’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e516]:
+              - generic [ref=e517]: Gender
+              - generic [ref=e518]:
+                - log [ref=e520]
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - generic [ref=e524]: Select...
+                    - combobox "Gender" [ref=e526]
+                  - button "Toggle flyout" [ref=e528] [cursor=pointer]:
+                    - img [ref=e529]
+            - generic [ref=e531]:
+              - generic [ref=e533]:
+                - generic [ref=e534]: Are you Hispanic/Latino?
+                - generic [ref=e535]:
+                  - log [ref=e537]
+                  - generic [ref=e539]:
+                    - generic [ref=e540]:
+                      - generic [ref=e541]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e543]
+                    - button "Toggle flyout" [ref=e545] [cursor=pointer]:
+                      - img [ref=e546]
+              - link "Race & Ethnicity Definitions" [ref=e548] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e549]:
+              - paragraph [ref=e550]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e551]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e552]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e553]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e554]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e557]:
+              - generic [ref=e558]: Veteran Status
+              - generic [ref=e559]:
+                - log [ref=e561]
+                - generic [ref=e563]:
+                  - generic [ref=e564]:
+                    - generic [ref=e565]: Select...
+                    - combobox "Veteran Status" [ref=e567]
+                  - button "Toggle flyout" [ref=e569] [cursor=pointer]:
+                    - img [ref=e570]
+            - separator [ref=e572]
+            - generic [ref=e573]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e574]
+              - generic [ref=e575]:
+                - generic [ref=e576]:
+                  - generic [ref=e577]: Form CC-305
+                  - generic [ref=e578]: Page 1 of 1
+                - generic [ref=e579]:
+                  - generic [ref=e580]: OMB Control Number 1250-0005
+                  - generic [ref=e581]: Expires 04/30/2026
+              - strong [ref=e582]: Why are you being asked to complete this form?
+              - paragraph [ref=e583]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e584]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e585] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e586]: How do you know if you have a disability?
+              - paragraph [ref=e587]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e588]: "Disabilities include, but are not limited to:"
+              - list [ref=e589]:
+                - listitem [ref=e590]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e591]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e592]: Blind or low vision
+                - listitem [ref=e593]: Cancer (past or present)
+                - listitem [ref=e594]: Cardiovascular or heart disease
+                - listitem [ref=e595]: Celiac disease
+                - listitem [ref=e596]: Cerebral palsy
+                - listitem [ref=e597]: Deaf or serious difficulty hearing
+                - listitem [ref=e598]: Diabetes
+                - listitem [ref=e599]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e600]: Epilepsy or other seizure disorder
+                - listitem [ref=e601]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e602]: Intellectual or developmental disability
+                - listitem [ref=e603]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e604]: Missing limbs or partially missing limbs
+                - listitem [ref=e605]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e606]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e607]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e608]: Partial or complete paralysis (any cause)
+                - listitem [ref=e609]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e610]: Short stature (dwarfism)
+                - listitem [ref=e611]: Traumatic brain injury
+            - generic [ref=e614]:
+              - generic [ref=e615]: Disability Status
+              - generic [ref=e616]:
+                - log [ref=e618]
+                - generic [ref=e620]:
+                  - generic [ref=e621]:
+                    - generic [ref=e622]: Select...
+                    - combobox "Disability Status" [ref=e624]
+                  - button "Toggle flyout" [ref=e626] [cursor=pointer]:
+                    - img [ref=e627]
+            - paragraph [ref=e630]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e632] [cursor=pointer]
+  - contentinfo [ref=e633]:
+    - generic [ref=e634]:
+      - paragraph [ref=e635]: Powered by
+      - link "Greenhouse logo" [ref=e636] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e637]
+  - iframe [ref=e651]:
+    - generic [ref=f9e6]:
+      - text: protected by
+      - strong [ref=f9e7]: reCAPTCHA

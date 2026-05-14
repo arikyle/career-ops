@@ -1,0 +1,277 @@
+- generic [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Contentful Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://www.contentful.com/careers/
+        - img "Contentful Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/contentful
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Director, ISV & Marketplace Strategy" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Denver, Colorado, United States
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - heading "About the opportunity" [level=2] [ref=e24]
+            - paragraph [ref=e25]: Contentful is seeking a director-level leader to own and scale our marketplace and ecosystem strategy within the Corporate Development & Strategy organization. Reporting into our VP of Corporate Development & Strategy, this role will focus on aligning our ISV partner strategy with our broader Product and GTM strategy, building and growing the ISV partner ecosystem, and making it easier for customers and the field to realize value from our ecosystem.
+            - paragraph [ref=e26]: You will partner closely with Product, Product Marketing, and the Field to define where ISVs add the most value, recruit and enable the right partners, and ensure our marketplace becomes a meaningful differentiator in customer evaluations and expansion.
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: This is a hybrid role where office attendance in Denver is expected 2-3 days per week.
+            - heading "What to expect?" [level=2] [ref=e29]
+            - paragraph [ref=e30]:
+              - strong [ref=e31]: ISV partner ecosystem leadership
+            - list [ref=e32]:
+              - listitem [ref=e33]: Develop and execute a strategy to grow and optimize the ISV partner ecosystem, with clear priorities by use case, segment, and region.
+              - listitem [ref=e34]: Recruit, evaluate, and onboard independent software vendors into the Contentful app marketplace.
+              - listitem [ref=e35]: "Operate and continuously improve a technology partner program that includes:"
+              - list [ref=e36]:
+                - listitem [ref=e37]: Outbound partner marketing and recruitment motions to attract ISVs.
+                - listitem [ref=e38]: Business development motions focused on getting target ISVs engaged and building.
+                - listitem [ref=e39]: Solutions architecture / developer support in partnership with Product and SEs to help ISVs ship high-quality integrations quickly.
+                - listitem [ref=e40]: Commercial constructs that support mutual growth (e.g., lead sharing, joint marketing, co-selling, and appropriate economic structures).
+              - listitem [ref=e41]: Partner with Product Management and Partner Marketing to identify, recruit, and enable high-impact ISVs aligned to Contentful’s roadmap and key customer needs.
+              - listitem [ref=e42]: Identify and prioritize ISVs in key verticals (e.g., retail / commerce, financial services, media) where Contentful sees strong demand.
+              - listitem [ref=e43]: Run outbound campaigns in partnership with Marketing and the Field to engage and onboard top vertical ISVs into the marketplace.
+              - listitem [ref=e44]: Ensure vertical ISV solutions are packaged and positioned in a way that’s easy for Sales and customers to understand and adopt.
+              - listitem [ref=e45]: Drive building out GTM motions for strategic ISV partners (e.g., co-sell / re-sell) from identification through to launch (hand off to Partnership org for execution)
+            - paragraph [ref=e46]:
+              - strong [ref=e47]: App marketplace growth
+            - list [ref=e48]:
+              - listitem [ref=e49]: Own marketplace health and growth metrics (e.g., app coverage by use case, install / adoption rates, usage by segment).
+              - listitem [ref=e50]: "Collaborate with Product Marketing and Partner Marketing to:"
+              - list [ref=e51]:
+                - listitem [ref=e52]: Launch and promote priority integrations and solution bundles.
+                - listitem [ref=e53]: Build customer-facing stories and case studies that feature key apps and marketplaces use cases.
+              - listitem [ref=e54]: "Partner with Customer Success, Sales, and Solution Engineering to:"
+              - list [ref=e55]:
+                - listitem [ref=e56]: Make it easy for account teams to understand which apps matter, when, and why.
+                - listitem [ref=e57]: Incorporate marketplace solutions into sales plays and customer success motions.
+              - listitem [ref=e58]: Use data to show how marketplace usage correlates with customer value, satisfaction, and retention, and recommend iterative improvements.
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: Team and stakeholder leadership
+            - list [ref=e61]:
+              - listitem [ref=e62]: Lead and mentor a small team focused on ISV and marketplace success (e.g., technology alliance managers and/or product ecosystem roles).
+              - listitem [ref=e63]:
+                - text: "Drive tight alignment with:"
+                - list [ref=e64]:
+                  - listitem [ref=e65]: Product and Engineering on integration standards, roadmap fit, and technical quality.
+                  - listitem [ref=e66]: Product Marketing and Marketing on messaging, launch plans, and campaigns.
+                  - listitem [ref=e67]: Sales, Customer Success, and Solution Engineering on where and how to use ISVs to win and expand deals.
+                  - listitem [ref=e68]: Partnership org for execution of strategic partnerships
+                  - listitem [ref=e69]: Represent Contentful’s marketplace and ISV ecosystem with partners and at select industry events, helping strengthen our position with key platforms and alliances.
+            - paragraph [ref=e70]:
+              - strong [ref=e71]: Expected outcomes
+            - paragraph [ref=e72]: "Within 12–18 months in role, success looks like:"
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - list [ref=e75]:
+                  - listitem [ref=e76]: A refreshed ISV and marketplace program that is clearly understood internally and externally (who we target, what we offer, how we work with partners).
+                  - listitem [ref=e77]:
+                    - text: "Material growth in:"
+                    - list [ref=e78]:
+                      - listitem [ref=e79]: Number of high-quality apps in the marketplace in priority categories.
+                      - listitem [ref=e80]: Adoption and usage of those apps by customers.
+                      - listitem [ref=e81]: Contribution of ISV-influenced and ISV-sourced opportunities to pipeline and revenue.
+                  - listitem [ref=e82]: Clear, repeatable patterns for how the Field uses ISVs and apps to differentiate Contentful and solve customer problems.
+                  - listitem [ref=e83]: Strong, durable relationships with a core set of strategic ISVs that see Contentful as a priority platform.
+            - paragraph [ref=e84]:
+              - strong [ref=e85]: Required competencies
+            - list [ref=e86]:
+              - listitem [ref=e87]: "Program and ecosystem leadership:"
+              - list [ref=e88]:
+                - listitem [ref=e89]: Experience building or scaling a partner program (ideally ISV / marketplace) in a SaaS or enterprise technology company.
+                - listitem [ref=e90]: "Ability to balance strategy and execution: defining the model while also running day-to-day partner motions."
+              - listitem [ref=e91]: "Sales and business development:"
+              - list [ref=e92]:
+                - listitem [ref=e93]: Track record of recruiting partners and building a healthy partner pipeline.
+                - listitem [ref=e94]: Comfort engaging with partner sales and GTM leaders to align on joint go-to-market plans.
+              - listitem [ref=e95]: "Cross-functional leadership:"
+              - list [ref=e96]:
+                - listitem [ref=e97]: Demonstrated ability to work across Product, Marketing, Sales, and Customer Success to land and scale partnership initiatives.
+                - listitem [ref=e98]: Strong stakeholder management and communication skills, including with senior leaders and external executives.
+              - listitem [ref=e99]: "Strategic ecosystem thinking:"
+              - list [ref=e100]:
+                - listitem [ref=e101]: Ability to understand where partners add the most value across the customer lifecycle and prioritize accordingly.
+                - listitem [ref=e102]: Experience using data and customer feedback to refine partner and marketplace strategy.
+            - heading "What do you need to be successful?" [level=2] [ref=e103]
+            - list [ref=e104]:
+              - listitem [ref=e105]: 8+ years of experience in technology partnerships, business development, or ecosystem roles in SaaS or enterprise software.
+              - listitem [ref=e106]: Direct experience working with independent software vendors and/or app marketplaces (e.g., recruiting, enabling, and growing ISV relationships).
+              - listitem [ref=e107]: Experience working closely with Product and Engineering teams on integration requirements and partner enablement.
+              - listitem [ref=e108]: Experience partnering with Product Marketing, Marketing, and Field teams on joint messaging, launches, and go-to-market plays.
+              - listitem [ref=e109]: Comfortable operating in a fast-moving environment, with the ability to iterate quickly based on partner, customer, and internal feedback.
+              - listitem [ref=e110]: Strong written and verbal communication skills and the ability to represent Contentful externally with partners and customers.
+              - listitem [ref=e111]: Bachelor’s degree in business, technology, or a related field (or equivalent practical experience).
+            - heading "What's in it for you?" [level=2] [ref=e112]
+            - list [ref=e113]:
+              - listitem [ref=e114]: Join an ambitious tech company reshaping the way people build digital experiences
+              - listitem [ref=e115]: Full-time employees receive Stock Options for the opportunity to share in the success of our company
+              - listitem [ref=e116]: Comprehensive healthcare package covering 100% of monthly health premiums for employees and 85% of costs for your dependents.
+              - listitem [ref=e117]: Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.
+              - listitem [ref=e118]:
+                - text: We value
+                - strong [ref=e119]: Work-Life balance
+                - text: and
+                - strong [ref=e120]: You Time
+                - text: "!"
+                - strong [ref=e121]
+                - text: A generous amount of paid time off, including vacation days, sick days, compassion days for loss, education days, and volunteer days
+              - listitem [ref=e122]:
+                - strong [ref=e123]: Company paid parental leave
+                - text: to care for and focus on your growing family
+              - listitem [ref=e124]: Use your personal annual education budget to improve your skills and grow in your career
+              - listitem [ref=e125]: Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties
+              - listitem [ref=e126]: An annual wellbeing stipend to care for your physical, financial, or emotional health
+              - listitem [ref=e127]: A monthly communication stipend and phone hardware upgrade reimbursement.
+              - listitem [ref=e128]: New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.
+            - paragraph [ref=e129]:
+              - emphasis [ref=e130]: This role will need to be conducted in a state in which we are currently registered to do business. In addition, this position is
+              - strong [ref=e131]:
+                - emphasis [ref=e132]: not
+              - emphasis [ref=e133]: eligible for visa sponsorship. Applicants must be authorized to work without the need for visa sponsorship by the start date of employment.
+            - paragraph [ref=e134]: This position is eligible for equity awards in accordance with the terms of Contentful’s equity plans.
+            - paragraph [ref=e135]: The application deadline is 05/17/2026
+            - paragraph [ref=e136]: "Colorado Salary Statement: The salary range displayed is specifically for those potential hires who will work or reside in the state of Colorado if selected for the role. Any offered salary is determined based on internal equity, internal salary ranges, market data/ranges, applicant's skills and prior relevant experience, certain degrees and certifications (e.g. JD/technology), for example."
+            - paragraph [ref=e137]: "Colorado Salary: $240,000- $276,000"
+          - generic [ref=e138]:
+            - heading "Who are we?" [level=2] [ref=e139]:
+              - strong [ref=e140]: Who are we?
+            - paragraph [ref=e141]:
+              - text: Contentful is a leading
+              - strong [ref=e142]: digital experience platform
+              - text: that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native
+              - strong [ref=e143]: AI
+              - text: capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than
+              - strong [ref=e144]: 700 people
+              - text: from more than
+              - strong [ref=e145]: 70 nations
+              - text: contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.
+            - heading "Everyone is welcome here!" [level=2] [ref=e146]:
+              - strong [ref=e147]: Everyone is welcome here!
+            - paragraph [ref=e148]:
+              - generic [ref=e149]:
+                - strong [ref=e150]: “Everyone is welcome here”
+                - text: is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!
+            - paragraph [ref=e151]: If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.
+            - paragraph [ref=e152]:
+              - emphasis [ref=e154]:
+                - text: Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at
+                - link "security-esk@contentful.com" [ref=e155] [cursor=pointer]:
+                  - /url: mailto:security-esk@contentful.com
+              - emphasis [ref=e157]: with any information you may have.
+            - paragraph [ref=e158]:
+              - text: By clicking “Apply for this job,” I acknowledge that I have read the “
+              - link "Contentful’s Candidate Privacy Notice" [ref=e159] [cursor=pointer]:
+                - /url: https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/
+              - text: ” and hereby consent to the collection, processing, use, and storage of my personal information as described therein.
+      - separator [ref=e160]
+      - generic [ref=e161]:
+        - generic [ref=e163]:
+          - heading "Apply for this job" [level=2] [ref=e165]
+          - generic [ref=e166]:
+            - paragraph [ref=e168]: "*"
+            - paragraph [ref=e169]: indicates a required field
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: First Name*
+              - textbox "First Name" [ref=e176]: Ari
+            - generic [ref=e179]:
+              - generic [ref=e180]: Last Name*
+              - textbox "Last Name" [ref=e181]: Levine
+            - generic [ref=e184]:
+              - generic [ref=e185]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e186]: Ari
+            - generic [ref=e189]:
+              - generic [ref=e190]: Email*
+              - textbox "Email" [ref=e191]: ari.kyle.levine@gmail.com
+            - group "Phone" [ref=e193]:
+              - generic [ref=e194]: Phone
+              - generic [ref=e197]:
+                - generic [ref=e198]: Country*
+                - generic [ref=e199]:
+                  - log [ref=e201]
+                  - generic [ref=e203]:
+                    - generic [ref=e204]:
+                      - generic [ref=e816]: "+1"
+                      - combobox "Country" [ref=e206]
+                    - button "Toggle flyout" [ref=e208] [cursor=pointer]:
+                      - img [ref=e209]
+              - generic [ref=e213]:
+                - generic [ref=e214]: Phone*
+                - textbox "Phone" [ref=e216]: (510) 593-7215
+            - generic [ref=e217]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: Location (City)*
+                - generic [ref=e221]:
+                  - log [ref=e223]
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - generic [ref=e829]: Santa Monica, California, United States
+                      - combobox "Location (City)" [ref=e228]
+                    - button "Clear selections" [ref=e832] [cursor=pointer]:
+                      - img [ref=e833]
+              - button "Locate me" [ref=e229] [cursor=pointer]
+            - group "Resume/CV*" [ref=e231]:
+              - generic [ref=e232]: Resume/CV*
+              - generic [ref=e234]:
+                - generic [ref=e236]:
+                  - button "Attach" [ref=e237] [cursor=pointer]
+                  - generic [ref=e238]: Attach
+                  - button "Attach" [ref=e239]
+                - button "Dropbox" [ref=e241] [cursor=pointer]
+                - button "Google Drive" [ref=e243] [cursor=pointer]
+                - generic [ref=e245]:
+                  - button "Enter manually" [ref=e246] [cursor=pointer]
+                  - generic [ref=e247]: Enter manually
+                - paragraph [ref=e248]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e250]:
+              - generic [ref=e251]: Cover Letter
+              - generic [ref=e253]:
+                - generic [ref=e255]:
+                  - button "Attach" [ref=e256] [cursor=pointer]
+                  - generic [ref=e257]: Attach
+                  - button "Attach" [ref=e258]
+                - button "Dropbox" [ref=e260] [cursor=pointer]
+                - button "Google Drive" [ref=e262] [cursor=pointer]
+                - generic [ref=e264]:
+                  - button "Enter manually" [ref=e265] [cursor=pointer]
+                  - generic [ref=e266]: Enter manually
+                - paragraph [ref=e267]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e268]:
+            - separator [ref=e269]
+            - generic [ref=e272]:
+              - generic [ref=e273]: Are you eligible to work in the country you have applied to?*
+              - generic [ref=e274]:
+                - log [ref=e276]: Yes, 1 of 1.1 result available for search term Yes.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+                - generic [ref=e278]:
+                  - combobox "Are you eligible to work in the country you have applied to?" [expanded] [active] [ref=e282]: "Yes"
+                  - button "Toggle flyout" [ref=e284] [cursor=pointer]:
+                    - img [ref=e285]
+                - listbox [ref=e836]:
+                  - option "Yes" [ref=e837]
+                - textbox
+            - generic [ref=e289]:
+              - generic [ref=e290]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e291]: https://linkedin.com/in/arikyle
+            - generic [ref=e294]:
+              - generic [ref=e295]: Website
+              - textbox "Website" [ref=e296]
+          - button "Submit application" [ref=e298] [cursor=pointer]
+  - contentinfo [ref=e299]:
+    - generic [ref=e300]:
+      - paragraph [ref=e301]: Powered by
+      - link "Greenhouse logo" [ref=e302] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e303]
+  - iframe [ref=e317]:
+    - generic [ref=f3e6]:
+      - text: protected by
+      - strong [ref=f3e7]: reCAPTCHA

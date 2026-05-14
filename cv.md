@@ -13,7 +13,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 
 - First partnerships hire responsible for designing and executing i2o's partner strategy across agencies, platforms, and technology ecosystem partners.
 - Built the partnerships function from zero, including partner archetypes, onboarding frameworks, enablement, incentives, and partner-influenced revenue tracking.
-- Created the Retail Media Risk Index (RMRI), an original industry benchmark that scores brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Authored the thesis, designed scoring models (v1 and v2), and led go-to-market strategy including website redesign, white paper, and sales enablement materials.
+- Created the Retail Media Risk Index (RMRI™), an original industry benchmark that scores brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Authored the thesis, designed scoring models (v1 and v2), and led go-to-market strategy including website redesign, white paper, and sales enablement materials.
 - Closed ~$500K in new ARR across enterprise accounts including Nestlé, Speedo, Jabra, Owl Labs, and VacuVin. Launched first-ever zip-code-level pricing product with Nestlé ($15K/mo).
 - Generated $350K+ in MRR pipeline; on pace to exceed annual new-business target in 2026.
 - Led platform and API integrations with leading retail media and analytics platforms (e.g., Skai, Pacvue), enabling real-time data flows to inform media optimization and marketplace decisioning.
@@ -28,10 +28,9 @@ Product and partnerships leader with 10+ years of experience building and scalin
 **Koqi / RealiFi Realty (PropTech / AI Platform / Real Estate Brokerage)**
 - Founded and led product strategy for an AI-driven real estate platform focused on crowdsourced property valuation, agent matching, transaction intelligence, and CRM automation.
 - Architected multi-tenant platform with explainable scoring models, adaptive search, and workflow automation for agents and brokerages.
-- First-named inventor on two utility patent filings, including one allowed by the USPTO and one pending.
-- Launched and scaled an affiliated real estate brokerage (RealiFi Realty) to seven-figure annual gross commission revenue, validating platform economics and go-to-market model.
+- First-named inventor on two utility patent filings (filed pro se), including one allowed by the USPTO and one pending.
+- Co-founded and scaled RealiFi Realty, a licensed California real estate brokerage, to seven-figure annual gross commission revenue with ~30 agents — validating the platform's economics and go-to-market model as an owner-operator (not an agent).
 - Secured early external funding and a competitive grant from the Hedera (HBAR) Foundation.
-- ~30 agents targeting $10M revenue in 3-5 years.
 
 **Skyra Labs (Aviation SaaS / Enterprise Software)**
 - Co-founded a fleet management and scheduling platform for flight schools and aviation clubs. Leading product architecture, customer discovery, and monetization strategy.
@@ -96,8 +95,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 ## Additional
 
 - Private Pilot License with Instrument Rating (~300 flight hours)
-- California Real Estate Brokerage Owner (RealiFi Realty)
-- Yes/No Capital TerminaL: Prediction market arbitrage bot (Kalshi-Polymarket). ML stack includes LightGBM ensemble, Venn-ABERS calibration, fair value estimator.
+- Yes/No Capital: Quantitative prediction market platform with proprietary ML pricing engine (LightGBM ensemble, Venn-ABERS calibration, fair value estimation) for real-time arbitrage across event contract exchanges.
 - Co-owns and manages a luxury short-term rental in Big Sky, Montana
 
 ## Skills

@@ -22,7 +22,7 @@
 | Partnerships / Alliances | Zero-to-one builder (i2o, Profitero), enterprise deal closer, partner program architect | cv.md: i2o, Profitero |
 | Business Development / GTM | $500K ARR closed, $350K+ pipeline, retention improvement, Walmart Connect | cv.md: i2o, It'sRapid, Profitero |
 | Platform / Ecosystem | API integrations (Skai, Pacvue), data contracts, platform distribution strategy | cv.md: i2o, Amobee |
-| AI/Tech Commercialization | RMRI framework, AI-powered products (Koqi, Weight MD), GenAI ecosystem fluency | cv.md: i2o, ventures |
+| AI/Tech Commercialization | RMRI™ framework, AI-powered products (Koqi, Weight MD), GenAI ecosystem fluency | cv.md: i2o, ventures |
 | Product Leader | Product roadmap influence at i2o, multi-tenant platform architecture (Koqi, SkySuite), full product lifecycle as founder (5+ ventures), UX/data architecture/GTM | cv.md: ventures, i2o |
 
 ## Your Exit Narrative
@@ -40,7 +40,7 @@ Use this narrative to frame ALL content:
 
 Frame profile as **"Builder who creates partnership functions and revenue from zero"** — not a relationship manager who inherited a book of business. The founder ventures prove he builds entire systems, not just closes deals.
 
-Secondary angle: **Technical fluency** — works directly in code (Next.js, React, Python, Azure), specs ML architectures, designs UI/UX, architects SaaS platforms. Can talk to Product and Engineering as a peer, not a translator.
+Secondary angle: **Product-builder fluency** -- specs product architectures, designs systems and UX, builds functional prototypes using AI-assisted development, and ships real products (multiple SaaS platforms, ML-powered tools, enterprise software). Can talk to Product and Engineering as a peer because he understands how things get built, not because he's an engineer.
 
 ## Your Comp Targets
 

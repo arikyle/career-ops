@@ -1,0 +1,395 @@
+- generic [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - img "Intercom Logo" [ref=e7]
+      - generic [ref=e8]:
+        - link "Back to jobs" [ref=e9] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/intercom
+          - img [ref=e10]
+          - text: Back to jobs
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Head of Global Partnerships" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: San Francisco, California
+          - button "Apply" [ref=e20] [cursor=pointer]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - paragraph [ref=e23]: Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.
+            - paragraph [ref=e24]: Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.
+            - paragraph [ref=e25]: Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.
+          - generic [ref=e26]:
+            - heading "What's the opportunity?" [level=2] [ref=e27]
+            - paragraph [ref=e28]: We’re hiring a Head of Global Partnerships to lead, scale, and evolve this function. This role owns the end-to-end partnerships charter, including ecosystem strategy, partner acquisition and enablement, go-to-market execution, and revenue impact. You will report to the SVP of Sales, be a key member of the GTM leadership team, and work cross-functionally with senior leaders in Product, Sales, Marketing, and Customer Success.
+            - paragraph [ref=e29]: This is a unique opportunity to build a category-defining partner ecosystem that fuels both Intercom’s and our partners’ success. This role is pivotal to how Intercom scales with and through the ecosystem. You’ll play a critical role in shaping our go-to-market future, unlocking new revenue channels, and amplifying our product and brand in the market. You’ll lead a strategic function with executive visibility, operate at the intersection of GTM and product, and help define what best-in-class partnerships look like in the AI-first customer service era.
+            - heading "What will I be doing?" [level=2] [ref=e30]
+            - heading "Executive Leadership & Organizational Scale" [level=4] [ref=e31]
+            - list [ref=e32]:
+              - listitem [ref=e33]: Lead, mentor, and grow the global partnerships organization across Solutions, Technology, and Strategic partnerships.
+              - listitem [ref=e34]: Establish a clear operating model, org structure, and growth strategy to evolve the evolution of Intercom’s partner ecosystem.
+              - listitem [ref=e35]: Build deep alignment with Sales, Marketing, Product, Engineering, and Customer Success to embed partnerships into the broader GTM engine.
+              - listitem [ref=e36]: Represent Partnerships at the executive level, providing strategic recommendations, business insights, and market intelligence.
+            - heading "Partnership Strategy & Ecosystem Design" [level=4] [ref=e37]
+            - list [ref=e38]:
+              - listitem [ref=e39]: Define and own Intercom’s global partnership strategy, ensuring clear priorities, execution focus, and measurable outcomes across all partner categories.
+              - listitem [ref=e40]: Articulate a differentiated and scalable ecosystem vision aligned to Intercom’s long-term growth priorities.
+              - listitem [ref=e41]: Evaluate market trends and competitive landscapes to identify new partnership categories, ecosystem opportunities, and strategic alliances.
+            - heading "Program Development & Scalable Infrastructure" [level=4] [ref=e42]
+            - list [ref=e43]:
+              - listitem [ref=e44]: Design and operationalize scalable partner programs including onboarding, enablement, certification, incentives, and co-selling frameworks.
+              - listitem [ref=e45]: Build the infrastructure (systems, tools, partner portal, analytics) to support consistent, high-impact partner engagement at scale.
+              - listitem [ref=e46]: Establish partner tiering, accountability frameworks, and performance metrics to drive sustained results.
+            - heading "Partner Acquisition, Management & Revenue Growth" [level=4] [ref=e47]
+            - list [ref=e48]:
+              - listitem [ref=e49]: "Source, evaluate, and secure high-impact partners across all segments: Solutions, Technology, and Strategic partners."
+              - listitem [ref=e50]: Lead executive-level relationships with top partners to unlock co-selling, co-marketing, and integration opportunities to drive ARR.
+              - listitem [ref=e51]: Develop and scale repeatable partner motions that integrate partners into the sales cycle and influence product strategy.
+              - listitem [ref=e52]: Drive measurable business outcomes through partner-sourced and partner-influenced revenue.
+            - heading "What skills do I need?" [level=2] [ref=e53]
+            - list [ref=e54]:
+              - listitem [ref=e55]: 12+ years experience in Partnerships, Business Development, Alliances, or Ecosystem Leadership within SaaS or enterprise technology.
+              - listitem [ref=e56]: Proven success building and scaling a global partnerships organization, including hiring, team design, and performance management.
+              - listitem [ref=e57]: "Experience developing and operationalizing partner programs across multiple partner types: Solutions, Technology, and Strategic."
+              - listitem [ref=e58]: Strong operational mindset. Able to design processes, define KPIs, build systems, and implement scalable partner motions.
+              - listitem [ref=e59]: Track record of delivering revenue impact through partner-sourced and partner-influenced pipeline.
+              - listitem [ref=e60]: Excellent executive presence with the ability to influence senior stakeholders internally and externally.
+              - listitem [ref=e61]: Exceptional relationship-building and negotiation skills.
+            - heading "Benefits" [level=2] [ref=e62]
+            - paragraph [ref=e63]: We are a well-treated bunch, with awesome benefits! If there’s something important to you that’s not on this list, talk to us!
+            - list [ref=e64]:
+              - listitem [ref=e65]: Competitive salary and meaningful equity
+              - listitem [ref=e66]: Comprehensive medical, dental, and vision coverage
+              - listitem [ref=e67]: Regular compensation reviews - great work is rewarded!
+              - listitem [ref=e68]: Flexible paid time off policy
+              - listitem [ref=e69]: Paid Parental Leave Program
+              - listitem [ref=e70]: 401k plan & match
+              - listitem [ref=e71]: In-office bicycle storage
+              - listitem [ref=e72]: Fun events for Intercomrades, friends, and family!
+            - paragraph [ref=e73]: The OTE range for candidates within the San Francisco Bay Area is $399,600-$477,300. Actual base pay will depend on a variety of factors such as education, skills, experience, location, etc. The base pay range is subject to change and may be modified in the future. All regular employees may also be eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+            - paragraph [ref=e74]: "#LI-Hybrid"
+          - generic [ref=e75]:
+            - paragraph [ref=e76]:
+              - strong [ref=e77]: Policies
+            - paragraph [ref=e78]: Intercom has a hybrid working policy. We believe that working in person helps us stay connected, collaborate easier and create a great culture while still providing flexibility to work from home. We expect employees to be in the office at least three days per week.
+            - paragraph [ref=e79]:
+              - text: We have a radically open and accepting culture at Intercom. We avoid spending time on divisive subjects to foster a safe and cohesive work environment for everyone. As an organization, our policy is to not advocate on behalf of the company or our employees on any social or political topics out of our internal or external communications. We respect personal opinion and expression on these topics on personal social platforms on personal time, and do not challenge or confront anyone for their views on non-work related topics. Our goal is to focus on doing incredible work to achieve our goals and unite the company through our
+              - link "core values" [ref=e80] [cursor=pointer]:
+                - /url: https://www.intercom.com/careers
+              - text: .
+            - paragraph [ref=e81]: Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.
+        - generic [ref=e82]:
+          - img [ref=e83]
+          - generic [ref=e85]:
+            - paragraph [ref=e86]: Create a Job Alert
+            - paragraph [ref=e87]: Interested in building your career at Intercom? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e88] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=intercom&source=job_alert_post
+      - separator [ref=e89]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - heading "Apply for this job" [level=2] [ref=e94]
+            - generic [ref=e95]:
+              - paragraph [ref=e97]: "*"
+              - paragraph [ref=e98]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e101] [cursor=pointer]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e106]:
+              - generic [ref=e107]: First Name*
+              - textbox "First Name" [ref=e108]: Ari
+            - generic [ref=e111]:
+              - generic [ref=e112]: Last Name*
+              - textbox "Last Name" [ref=e113]: Levine
+            - generic [ref=e116]:
+              - generic [ref=e117]: Email*
+              - textbox "Email" [ref=e118]: ari.kyle.levine@gmail.com
+            - group "Phone" [ref=e120]:
+              - generic [ref=e121]: Phone
+              - generic [ref=e124]:
+                - generic [ref=e125]: Country*
+                - generic [ref=e126]:
+                  - log [ref=e128]
+                  - generic [ref=e130]:
+                    - generic [ref=e131]:
+                      - generic [ref=e992]: "+1"
+                      - combobox "Country" [ref=e133]
+                    - button "Toggle flyout" [ref=e135] [cursor=pointer]:
+                      - img [ref=e136]
+              - generic [ref=e140]:
+                - generic [ref=e141]: Phone*
+                - textbox "Phone" [ref=e143]: (510) 593-7215
+            - generic [ref=e144]:
+              - generic [ref=e146]:
+                - generic [ref=e147]: Location (City)
+                - generic [ref=e148]:
+                  - log [ref=e150]
+                  - combobox "Location (City)" [ref=e155]
+              - button "Locate me" [ref=e156] [cursor=pointer]
+            - group "Resume/CV*" [ref=e158]:
+              - generic [ref=e159]: Resume/CV*
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - button "Attach" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Attach
+                  - button "Attach" [ref=e166]
+                - button "Dropbox" [ref=e168] [cursor=pointer]
+                - button "Google Drive" [ref=e170] [cursor=pointer]
+                - generic [ref=e172]:
+                  - button "Enter manually" [ref=e173] [cursor=pointer]
+                  - generic [ref=e174]: Enter manually
+                - paragraph [ref=e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - paragraph [ref=e999]: Resume/CV is required.
+            - group "Cover Letter" [ref=e177]:
+              - generic [ref=e178]: Cover Letter
+              - generic [ref=e180]:
+                - generic [ref=e182]:
+                  - button "Attach" [ref=e183] [cursor=pointer]
+                  - generic [ref=e184]: Attach
+                  - button "Attach" [ref=e185]
+                - button "Dropbox" [ref=e187] [cursor=pointer]
+                - button "Google Drive" [ref=e189] [cursor=pointer]
+                - generic [ref=e191]:
+                  - button "Enter manually" [ref=e192] [cursor=pointer]
+                  - generic [ref=e193]: Enter manually
+                - paragraph [ref=e194]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e195]:
+            - separator [ref=e196]
+            - generic [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e200]: Are you authorised to work in the country in which this role is located? (Intercom sponsors immigration for some roles so we encourage you to still apply if you require sponsorship.)*
+                - generic [ref=e201]:
+                  - log [ref=e203]
+                  - generic [ref=e205]:
+                    - generic [ref=e206]:
+                      - generic [ref=e1007]: Select...
+                      - combobox "Are you authorised to work in the country in which this role is located? (Intercom sponsors immigration for some roles so we encourage you to still apply if you require sponsorship.)" [ref=e209]
+                    - button "Toggle flyout" [ref=e211] [cursor=pointer]:
+                      - img [ref=e212]
+                  - textbox
+              - paragraph [ref=e1000]: This field is required.
+            - generic [ref=e214]:
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - generic [ref=e217]: Current Location*
+                  - generic [ref=e218]:
+                    - log [ref=e220]
+                    - generic [ref=e222]:
+                      - generic [ref=e223]:
+                        - generic [ref=e1042]: Select...
+                        - combobox "Current Location" [ref=e226]
+                      - button "Toggle flyout" [ref=e228] [cursor=pointer]:
+                        - img [ref=e229]
+                    - textbox
+                - paragraph [ref=e1001]: This field is required.
+              - paragraph [ref=e233]:
+                - strong [ref=e234]: NOTE
+                - text: "for US locations : A \"Metro\" selection means that you live 75 miles (straight line radius) from the metropolitan geographic city center zip code."
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - generic [ref=e238]: Are you willing to relocate?*
+                - generic [ref=e239]:
+                  - log [ref=e241]: option Yes, selected.
+                  - generic [ref=e243]:
+                    - generic [ref=e244]:
+                      - generic [ref=e1047]: "Yes"
+                      - combobox "Are you willing to relocate?" [active] [ref=e247]
+                    - generic [ref=e248]:
+                      - button "Clear selections" [ref=e1049] [cursor=pointer]:
+                        - img [ref=e1050]
+                      - button "Toggle flyout" [ref=e249] [cursor=pointer]:
+                        - img [ref=e250]
+              - paragraph [ref=e1002]: This field is required.
+            - generic [ref=e254]:
+              - generic [ref=e255]: Current or most recent company?*
+              - textbox "Current or most recent company?" [ref=e256]: i2o Retail
+            - generic [ref=e258]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: Have you previously worked for Intercom?*
+                - generic [ref=e261]:
+                  - log [ref=e263]
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: Select...
+                      - combobox "Have you previously worked for Intercom?" [ref=e269]
+                    - button "Toggle flyout" [ref=e271] [cursor=pointer]:
+                      - img [ref=e272]
+                  - textbox
+              - paragraph [ref=e1003]: This field is required.
+            - generic [ref=e276]:
+              - generic [ref=e277]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e278]: https://linkedin.com/in/arikyle
+            - generic [ref=e281]:
+              - generic [ref=e282]: Website
+              - textbox "Website" [ref=e283]
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: How did you hear about this job?*
+                - generic [ref=e288]:
+                  - log [ref=e290]
+                  - generic [ref=e292]:
+                    - generic [ref=e293]:
+                      - generic [ref=e294]: Select...
+                      - combobox "How did you hear about this job?" [ref=e296]
+                    - button "Toggle flyout" [ref=e298] [cursor=pointer]:
+                      - img [ref=e299]
+                  - textbox
+              - paragraph [ref=e1004]: This field is required.
+            - generic [ref=e303]:
+              - generic [ref=e304]: What excites you most about this opportunity?
+              - textbox "What excites you most about this opportunity?" [ref=e305]: "The chance to build a category-defining partner ecosystem at an AI-first company. I've built partnerships functions from zero three times (i2o Retail, Profitero, Amobee), and each time the challenge was the same: how do you turn partner relationships into a reliable, scalable revenue channel? Intercom's Fin agent changes the game for customer service, and the partner ecosystem needs to match that ambition. I want to be the person who designs that system: the operating model, the tiering, the enablement, the co-selling motions that make Intercom's partners as effective as your direct team. The executive visibility and cross-functional scope of this role is exactly where I do my best work."
+            - generic [ref=e308]:
+              - generic [ref=e309]: Which Intercom value resonates most with you and why? (Our values can be found on our Careers Page)
+              - textbox "Which Intercom value resonates most with you and why? (Our values can be found on our Careers Page)" [ref=e310]: "\"We go further together.\" Every partnership function I've built has been about multiplying impact through other people and organizations. At i2o, I didn't just close deals; I designed a system where partners could independently drive adoption and revenue. At Profitero, the VAR program turned agency partners into the delivery layer that fixed our retention problem (50% to 90%). The best partnerships work is fundamentally collaborative: you succeed by making your partners successful. That's going further together in practice."
+            - generic [ref=e312]:
+              - generic [ref=e313]:
+                - generic [ref=e314]: We work under a hybrid in-office model. Are you willing to work from our office location 3 days per week?*
+                - generic [ref=e315]:
+                  - log [ref=e317]
+                  - generic [ref=e319]:
+                    - generic [ref=e320]:
+                      - generic [ref=e321]: Select...
+                      - combobox "We work under a hybrid in-office model. Are you willing to work from our office location 3 days per week?" [ref=e323]
+                    - button "Toggle flyout" [ref=e325] [cursor=pointer]:
+                      - img [ref=e326]
+                  - textbox
+              - paragraph [ref=e1005]: This field is required.
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - generic [ref=e331]: Please email me about future job openings *
+                - generic [ref=e332]:
+                  - log [ref=e334]
+                  - generic [ref=e336]:
+                    - generic [ref=e337]:
+                      - generic [ref=e338]: Select...
+                      - combobox "Please email me about future job openings" [ref=e340]
+                    - button "Toggle flyout" [ref=e342] [cursor=pointer]:
+                      - img [ref=e343]
+                  - textbox
+              - paragraph [ref=e1006]: This field is required.
+            - generic [ref=e345]:
+              - group "Point of Data Transfer *" [ref=e346]:
+                - generic [ref=e347]: Point of Data Transfer *
+                - generic [ref=e348]:
+                  - generic [ref=e349]:
+                    - checkbox "Acknowledge" [checked] [ref=e350]
+                    - img
+                  - generic [ref=e351]: Acknowledge
+              - paragraph [ref=e354]:
+                - text: Please click on the following link to view our
+                - link "Candidate Data Protection Notice" [ref=e355] [cursor=pointer]:
+                  - /url: https://www.dropbox.com/scl/fi/fbqie59qahocmz0r1e1qw/Candidate-Data-Protection-Notice-Eff.-11.20.2024.pdf?rlkey=vw68jinxrzw9eamp3uoje40r9&e=1&st=kyik579m&dl=0
+                - text: .
+          - generic [ref=e356]:
+            - separator [ref=e357]
+            - generic [ref=e358]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e359]
+              - paragraph [ref=e360]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e361]: As set forth in Intercom’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e364]:
+              - generic [ref=e365]: Gender
+              - generic [ref=e366]:
+                - log [ref=e368]
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: Select...
+                    - combobox "Gender" [ref=e374]
+                  - button "Toggle flyout" [ref=e376] [cursor=pointer]:
+                    - img [ref=e377]
+            - generic [ref=e379]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: Are you Hispanic/Latino?
+                - generic [ref=e383]:
+                  - log [ref=e385]
+                  - generic [ref=e387]:
+                    - generic [ref=e388]:
+                      - generic [ref=e389]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e391]
+                    - button "Toggle flyout" [ref=e393] [cursor=pointer]:
+                      - img [ref=e394]
+              - link "Race & Ethnicity Definitions" [ref=e396] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e397]:
+              - paragraph [ref=e398]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e399]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e400]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e401]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e402]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e405]:
+              - generic [ref=e406]: Veteran Status
+              - generic [ref=e407]:
+                - log [ref=e409]
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: Select...
+                    - combobox "Veteran Status" [ref=e415]
+                  - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                    - img [ref=e418]
+            - separator [ref=e420]
+            - generic [ref=e421]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e422]
+              - generic [ref=e423]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: Form CC-305
+                  - generic [ref=e426]: Page 1 of 1
+                - generic [ref=e427]:
+                  - generic [ref=e428]: OMB Control Number 1250-0005
+                  - generic [ref=e429]: Expires 04/30/2026
+              - strong [ref=e430]: Why are you being asked to complete this form?
+              - paragraph [ref=e431]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e432]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e434]: How do you know if you have a disability?
+              - paragraph [ref=e435]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e436]: "Disabilities include, but are not limited to:"
+              - list [ref=e437]:
+                - listitem [ref=e438]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e439]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e440]: Blind or low vision
+                - listitem [ref=e441]: Cancer (past or present)
+                - listitem [ref=e442]: Cardiovascular or heart disease
+                - listitem [ref=e443]: Celiac disease
+                - listitem [ref=e444]: Cerebral palsy
+                - listitem [ref=e445]: Deaf or serious difficulty hearing
+                - listitem [ref=e446]: Diabetes
+                - listitem [ref=e447]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e448]: Epilepsy or other seizure disorder
+                - listitem [ref=e449]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e450]: Intellectual or developmental disability
+                - listitem [ref=e451]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e452]: Missing limbs or partially missing limbs
+                - listitem [ref=e453]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e454]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e455]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e456]: Partial or complete paralysis (any cause)
+                - listitem [ref=e457]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e458]: Short stature (dwarfism)
+                - listitem [ref=e459]: Traumatic brain injury
+            - generic [ref=e462]:
+              - generic [ref=e463]: Disability Status
+              - generic [ref=e464]:
+                - log [ref=e466]
+                - generic [ref=e468]:
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: Select...
+                    - combobox "Disability Status" [ref=e472]
+                  - button "Toggle flyout" [ref=e474] [cursor=pointer]:
+                    - img [ref=e475]
+            - paragraph [ref=e478]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e480] [cursor=pointer]
+  - contentinfo [ref=e481]:
+    - generic [ref=e482]:
+      - paragraph [ref=e483]: Powered by
+      - link "Greenhouse logo" [ref=e484] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e485]
+  - iframe [ref=e499]:
+    - generic [ref=f7e6]:
+      - text: protected by
+      - strong [ref=f7e7]: reCAPTCHA

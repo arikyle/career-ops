@@ -1,0 +1,622 @@
+- generic [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - img "Intercom Logo" [ref=e7]
+      - generic [ref=e8]:
+        - link "Back to jobs" [ref=e9] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/intercom
+          - img [ref=e10]
+          - text: Back to jobs
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - heading "Head of Global Partnerships" [level=1] [ref=e15]
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: San Francisco, California
+          - button "Apply" [ref=e20] [cursor=pointer]
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - paragraph [ref=e23]: Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.
+            - paragraph [ref=e24]: Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.
+            - paragraph [ref=e25]: Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.
+          - generic [ref=e26]:
+            - heading "What's the opportunity?" [level=2] [ref=e27]
+            - paragraph [ref=e28]: We’re hiring a Head of Global Partnerships to lead, scale, and evolve this function. This role owns the end-to-end partnerships charter, including ecosystem strategy, partner acquisition and enablement, go-to-market execution, and revenue impact. You will report to the SVP of Sales, be a key member of the GTM leadership team, and work cross-functionally with senior leaders in Product, Sales, Marketing, and Customer Success.
+            - paragraph [ref=e29]: This is a unique opportunity to build a category-defining partner ecosystem that fuels both Intercom’s and our partners’ success. This role is pivotal to how Intercom scales with and through the ecosystem. You’ll play a critical role in shaping our go-to-market future, unlocking new revenue channels, and amplifying our product and brand in the market. You’ll lead a strategic function with executive visibility, operate at the intersection of GTM and product, and help define what best-in-class partnerships look like in the AI-first customer service era.
+            - heading "What will I be doing?" [level=2] [ref=e30]
+            - heading "Executive Leadership & Organizational Scale" [level=4] [ref=e31]
+            - list [ref=e32]:
+              - listitem [ref=e33]: Lead, mentor, and grow the global partnerships organization across Solutions, Technology, and Strategic partnerships.
+              - listitem [ref=e34]: Establish a clear operating model, org structure, and growth strategy to evolve the evolution of Intercom’s partner ecosystem.
+              - listitem [ref=e35]: Build deep alignment with Sales, Marketing, Product, Engineering, and Customer Success to embed partnerships into the broader GTM engine.
+              - listitem [ref=e36]: Represent Partnerships at the executive level, providing strategic recommendations, business insights, and market intelligence.
+            - heading "Partnership Strategy & Ecosystem Design" [level=4] [ref=e37]
+            - list [ref=e38]:
+              - listitem [ref=e39]: Define and own Intercom’s global partnership strategy, ensuring clear priorities, execution focus, and measurable outcomes across all partner categories.
+              - listitem [ref=e40]: Articulate a differentiated and scalable ecosystem vision aligned to Intercom’s long-term growth priorities.
+              - listitem [ref=e41]: Evaluate market trends and competitive landscapes to identify new partnership categories, ecosystem opportunities, and strategic alliances.
+            - heading "Program Development & Scalable Infrastructure" [level=4] [ref=e42]
+            - list [ref=e43]:
+              - listitem [ref=e44]: Design and operationalize scalable partner programs including onboarding, enablement, certification, incentives, and co-selling frameworks.
+              - listitem [ref=e45]: Build the infrastructure (systems, tools, partner portal, analytics) to support consistent, high-impact partner engagement at scale.
+              - listitem [ref=e46]: Establish partner tiering, accountability frameworks, and performance metrics to drive sustained results.
+            - heading "Partner Acquisition, Management & Revenue Growth" [level=4] [ref=e47]
+            - list [ref=e48]:
+              - listitem [ref=e49]: "Source, evaluate, and secure high-impact partners across all segments: Solutions, Technology, and Strategic partners."
+              - listitem [ref=e50]: Lead executive-level relationships with top partners to unlock co-selling, co-marketing, and integration opportunities to drive ARR.
+              - listitem [ref=e51]: Develop and scale repeatable partner motions that integrate partners into the sales cycle and influence product strategy.
+              - listitem [ref=e52]: Drive measurable business outcomes through partner-sourced and partner-influenced revenue.
+            - heading "What skills do I need?" [level=2] [ref=e53]
+            - list [ref=e54]:
+              - listitem [ref=e55]: 12+ years experience in Partnerships, Business Development, Alliances, or Ecosystem Leadership within SaaS or enterprise technology.
+              - listitem [ref=e56]: Proven success building and scaling a global partnerships organization, including hiring, team design, and performance management.
+              - listitem [ref=e57]: "Experience developing and operationalizing partner programs across multiple partner types: Solutions, Technology, and Strategic."
+              - listitem [ref=e58]: Strong operational mindset. Able to design processes, define KPIs, build systems, and implement scalable partner motions.
+              - listitem [ref=e59]: Track record of delivering revenue impact through partner-sourced and partner-influenced pipeline.
+              - listitem [ref=e60]: Excellent executive presence with the ability to influence senior stakeholders internally and externally.
+              - listitem [ref=e61]: Exceptional relationship-building and negotiation skills.
+            - heading "Benefits" [level=2] [ref=e62]
+            - paragraph [ref=e63]: We are a well-treated bunch, with awesome benefits! If there’s something important to you that’s not on this list, talk to us!
+            - list [ref=e64]:
+              - listitem [ref=e65]: Competitive salary and meaningful equity
+              - listitem [ref=e66]: Comprehensive medical, dental, and vision coverage
+              - listitem [ref=e67]: Regular compensation reviews - great work is rewarded!
+              - listitem [ref=e68]: Flexible paid time off policy
+              - listitem [ref=e69]: Paid Parental Leave Program
+              - listitem [ref=e70]: 401k plan & match
+              - listitem [ref=e71]: In-office bicycle storage
+              - listitem [ref=e72]: Fun events for Intercomrades, friends, and family!
+            - paragraph [ref=e73]: The OTE range for candidates within the San Francisco Bay Area is $399,600-$477,300. Actual base pay will depend on a variety of factors such as education, skills, experience, location, etc. The base pay range is subject to change and may be modified in the future. All regular employees may also be eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+            - paragraph [ref=e74]: "#LI-Hybrid"
+          - generic [ref=e75]:
+            - paragraph [ref=e76]:
+              - strong [ref=e77]: Policies
+            - paragraph [ref=e78]: Intercom has a hybrid working policy. We believe that working in person helps us stay connected, collaborate easier and create a great culture while still providing flexibility to work from home. We expect employees to be in the office at least three days per week.
+            - paragraph [ref=e79]:
+              - text: We have a radically open and accepting culture at Intercom. We avoid spending time on divisive subjects to foster a safe and cohesive work environment for everyone. As an organization, our policy is to not advocate on behalf of the company or our employees on any social or political topics out of our internal or external communications. We respect personal opinion and expression on these topics on personal social platforms on personal time, and do not challenge or confront anyone for their views on non-work related topics. Our goal is to focus on doing incredible work to achieve our goals and unite the company through our
+              - link "core values" [ref=e80] [cursor=pointer]:
+                - /url: https://www.intercom.com/careers
+              - text: .
+            - paragraph [ref=e81]: Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.
+        - generic [ref=e82]:
+          - img [ref=e83]
+          - generic [ref=e85]:
+            - paragraph [ref=e86]: Create a Job Alert
+            - paragraph [ref=e87]: Interested in building your career at Intercom? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e88] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=intercom&source=job_alert_post
+      - separator [ref=e89]
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - heading "Apply for this job" [level=2] [ref=e94]
+            - generic [ref=e95]:
+              - paragraph [ref=e97]: "*"
+              - paragraph [ref=e98]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e101] [cursor=pointer]
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e106]:
+              - generic [ref=e107]: First Name*
+              - textbox "First Name" [ref=e108]: Ari
+            - generic [ref=e111]:
+              - generic [ref=e112]: Last Name*
+              - textbox "Last Name" [ref=e113]: Levine
+            - generic [ref=e116]:
+              - generic [ref=e117]: Email*
+              - textbox "Email" [ref=e118]: ari.kyle.levine@gmail.com
+            - group "Phone" [ref=e120]:
+              - generic [ref=e121]: Phone
+              - generic [ref=e124]:
+                - generic [ref=e125]: Country*
+                - generic [ref=e126]:
+                  - log [ref=e128]: United States +1, 1 of 244.244 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+                  - generic [ref=e130]:
+                    - combobox "Country" [expanded] [active] [ref=e133]
+                    - button "Toggle flyout" [ref=e135] [cursor=pointer]:
+                      - img [ref=e136]
+                  - listbox [ref=e501]:
+                    - option "United States +1" [ref=e502]: United States +1
+                    - option "Afghanistan +93" [ref=e504]: Afghanistan +93
+                    - option "Åland Islands +358" [ref=e506]: Åland Islands +358
+                    - option "Albania +355" [ref=e508]: Albania +355
+                    - option "Algeria +213" [ref=e510]: Algeria +213
+                    - option "American Samoa +1" [ref=e512]: American Samoa +1
+                    - option "Andorra +376" [ref=e514]: Andorra +376
+                    - option "Angola +244" [ref=e516]: Angola +244
+                    - option "Anguilla +1" [ref=e518]: Anguilla +1
+                    - option "Antigua & Barbuda +1" [ref=e520]: Antigua & Barbuda +1
+                    - option "Argentina +54" [ref=e522]: Argentina +54
+                    - option "Armenia +374" [ref=e524]: Armenia +374
+                    - option "Aruba +297" [ref=e526]: Aruba +297
+                    - option "Ascension Island +247" [ref=e528]: Ascension Island +247
+                    - option "Australia +61" [ref=e530]: Australia +61
+                    - option "Austria +43" [ref=e532]: Austria +43
+                    - option "Azerbaijan +994" [ref=e534]: Azerbaijan +994
+                    - option "Bahamas +1" [ref=e536]: Bahamas +1
+                    - option "Bahrain +973" [ref=e538]: Bahrain +973
+                    - option "Bangladesh +880" [ref=e540]: Bangladesh +880
+                    - option "Barbados +1" [ref=e542]: Barbados +1
+                    - option "Belarus +375" [ref=e544]: Belarus +375
+                    - option "Belgium +32" [ref=e546]: Belgium +32
+                    - option "Belize +501" [ref=e548]: Belize +501
+                    - option "Benin +229" [ref=e550]: Benin +229
+                    - option "Bermuda +1" [ref=e552]: Bermuda +1
+                    - option "Bhutan +975" [ref=e554]: Bhutan +975
+                    - option "Bolivia +591" [ref=e556]: Bolivia +591
+                    - option "Bosnia & Herzegovina +387" [ref=e558]: Bosnia & Herzegovina +387
+                    - option "Botswana +267" [ref=e560]: Botswana +267
+                    - option "Brazil +55" [ref=e562]: Brazil +55
+                    - option "British Indian Ocean Territory +246" [ref=e564]: British Indian Ocean Territory +246
+                    - option "British Virgin Islands +1" [ref=e566]: British Virgin Islands +1
+                    - option "Brunei +673" [ref=e568]: Brunei +673
+                    - option "Bulgaria +359" [ref=e570]: Bulgaria +359
+                    - option "Burkina Faso +226" [ref=e572]: Burkina Faso +226
+                    - option "Burundi +257" [ref=e574]: Burundi +257
+                    - option "Cambodia +855" [ref=e576]: Cambodia +855
+                    - option "Cameroon +237" [ref=e578]: Cameroon +237
+                    - option "Canada +1" [ref=e580]: Canada +1
+                    - option "Cape Verde +238" [ref=e582]: Cape Verde +238
+                    - option "Caribbean Netherlands +599" [ref=e584]: Caribbean Netherlands +599
+                    - option "Cayman Islands +1" [ref=e586]: Cayman Islands +1
+                    - option "Central African Republic +236" [ref=e588]: Central African Republic +236
+                    - option "Chad +235" [ref=e590]: Chad +235
+                    - option "Chile +56" [ref=e592]: Chile +56
+                    - option "China +86" [ref=e594]: China +86
+                    - option "Christmas Island +61" [ref=e596]: Christmas Island +61
+                    - option "Cocos (Keeling) Islands +61" [ref=e598]: Cocos (Keeling) Islands +61
+                    - option "Colombia +57" [ref=e600]: Colombia +57
+                    - option "Comoros +269" [ref=e602]: Comoros +269
+                    - option "Congo - Brazzaville +242" [ref=e604]: Congo - Brazzaville +242
+                    - option "Congo - Kinshasa +243" [ref=e606]: Congo - Kinshasa +243
+                    - option "Cook Islands +682" [ref=e608]: Cook Islands +682
+                    - option "Costa Rica +506" [ref=e610]: Costa Rica +506
+                    - option "Côte d’Ivoire +225" [ref=e612]: Côte d’Ivoire +225
+                    - option "Croatia +385" [ref=e614]: Croatia +385
+                    - option "Cuba +53" [ref=e616]: Cuba +53
+                    - option "Curaçao +599" [ref=e618]: Curaçao +599
+                    - option "Cyprus +357" [ref=e620]: Cyprus +357
+                    - option "Czechia +420" [ref=e622]: Czechia +420
+                    - option "Denmark +45" [ref=e624]: Denmark +45
+                    - option "Djibouti +253" [ref=e626]: Djibouti +253
+                    - option "Dominica +1" [ref=e628]: Dominica +1
+                    - option "Dominican Republic +1" [ref=e630]: Dominican Republic +1
+                    - option "Ecuador +593" [ref=e632]: Ecuador +593
+                    - option "Egypt +20" [ref=e634]: Egypt +20
+                    - option "El Salvador +503" [ref=e636]: El Salvador +503
+                    - option "Equatorial Guinea +240" [ref=e638]: Equatorial Guinea +240
+                    - option "Eritrea +291" [ref=e640]: Eritrea +291
+                    - option "Estonia +372" [ref=e642]: Estonia +372
+                    - option "Eswatini +268" [ref=e644]: Eswatini +268
+                    - option "Ethiopia +251" [ref=e646]: Ethiopia +251
+                    - option "Falkland Islands +500" [ref=e648]: Falkland Islands +500
+                    - option "Faroe Islands +298" [ref=e650]: Faroe Islands +298
+                    - option "Fiji +679" [ref=e652]: Fiji +679
+                    - option "Finland +358" [ref=e654]: Finland +358
+                    - option "France +33" [ref=e656]: France +33
+                    - option "French Guiana +594" [ref=e658]: French Guiana +594
+                    - option "French Polynesia +689" [ref=e660]: French Polynesia +689
+                    - option "Gabon +241" [ref=e662]: Gabon +241
+                    - option "Gambia +220" [ref=e664]: Gambia +220
+                    - option "Georgia +995" [ref=e666]: Georgia +995
+                    - option "Germany +49" [ref=e668]: Germany +49
+                    - option "Ghana +233" [ref=e670]: Ghana +233
+                    - option "Gibraltar +350" [ref=e672]: Gibraltar +350
+                    - option "Greece +30" [ref=e674]: Greece +30
+                    - option "Greenland +299" [ref=e676]: Greenland +299
+                    - option "Grenada +1" [ref=e678]: Grenada +1
+                    - option "Guadeloupe +590" [ref=e680]: Guadeloupe +590
+                    - option "Guam +1" [ref=e682]: Guam +1
+                    - option "Guatemala +502" [ref=e684]: Guatemala +502
+                    - option "Guernsey +44" [ref=e686]: Guernsey +44
+                    - option "Guinea +224" [ref=e688]: Guinea +224
+                    - option "Guinea-Bissau +245" [ref=e690]: Guinea-Bissau +245
+                    - option "Guyana +592" [ref=e692]: Guyana +592
+                    - option "Haiti +509" [ref=e694]: Haiti +509
+                    - option "Honduras +504" [ref=e696]: Honduras +504
+                    - option "Hong Kong SAR China +852" [ref=e698]: Hong Kong SAR China +852
+                    - option "Hungary +36" [ref=e700]: Hungary +36
+                    - option "Iceland +354" [ref=e702]: Iceland +354
+                    - option "India +91" [ref=e704]: India +91
+                    - option "Indonesia +62" [ref=e706]: Indonesia +62
+                    - option "Iran +98" [ref=e708]: Iran +98
+                    - option "Iraq +964" [ref=e710]: Iraq +964
+                    - option "Ireland +353" [ref=e712]: Ireland +353
+                    - option "Isle of Man +44" [ref=e714]: Isle of Man +44
+                    - option "Israel +972" [ref=e716]: Israel +972
+                    - option "Italy +39" [ref=e718]: Italy +39
+                    - option "Jamaica +1" [ref=e720]: Jamaica +1
+                    - option "Japan +81" [ref=e722]: Japan +81
+                    - option "Jersey +44" [ref=e724]: Jersey +44
+                    - option "Jordan +962" [ref=e726]: Jordan +962
+                    - option "Kazakhstan +7" [ref=e728]: Kazakhstan +7
+                    - option "Kenya +254" [ref=e730]: Kenya +254
+                    - option "Kiribati +686" [ref=e732]: Kiribati +686
+                    - option "Kosovo +383" [ref=e734]: Kosovo +383
+                    - option "Kuwait +965" [ref=e736]: Kuwait +965
+                    - option "Kyrgyzstan +996" [ref=e738]: Kyrgyzstan +996
+                    - option "Laos +856" [ref=e740]: Laos +856
+                    - option "Latvia +371" [ref=e742]: Latvia +371
+                    - option "Lebanon +961" [ref=e744]: Lebanon +961
+                    - option "Lesotho +266" [ref=e746]: Lesotho +266
+                    - option "Liberia +231" [ref=e748]: Liberia +231
+                    - option "Libya +218" [ref=e750]: Libya +218
+                    - option "Liechtenstein +423" [ref=e752]: Liechtenstein +423
+                    - option "Lithuania +370" [ref=e754]: Lithuania +370
+                    - option "Luxembourg +352" [ref=e756]: Luxembourg +352
+                    - option "Macao SAR China +853" [ref=e758]: Macao SAR China +853
+                    - option "Madagascar +261" [ref=e760]: Madagascar +261
+                    - option "Malawi +265" [ref=e762]: Malawi +265
+                    - option "Malaysia +60" [ref=e764]: Malaysia +60
+                    - option "Maldives +960" [ref=e766]: Maldives +960
+                    - option "Mali +223" [ref=e768]: Mali +223
+                    - option "Malta +356" [ref=e770]: Malta +356
+                    - option "Marshall Islands +692" [ref=e772]: Marshall Islands +692
+                    - option "Martinique +596" [ref=e774]: Martinique +596
+                    - option "Mauritania +222" [ref=e776]: Mauritania +222
+                    - option "Mauritius +230" [ref=e778]: Mauritius +230
+                    - option "Mayotte +262" [ref=e780]: Mayotte +262
+                    - option "Mexico +52" [ref=e782]: Mexico +52
+                    - option "Micronesia +691" [ref=e784]: Micronesia +691
+                    - option "Moldova +373" [ref=e786]: Moldova +373
+                    - option "Monaco +377" [ref=e788]: Monaco +377
+                    - option "Mongolia +976" [ref=e790]: Mongolia +976
+                    - option "Montenegro +382" [ref=e792]: Montenegro +382
+                    - option "Montserrat +1" [ref=e794]: Montserrat +1
+                    - option "Morocco +212" [ref=e796]: Morocco +212
+                    - option "Mozambique +258" [ref=e798]: Mozambique +258
+                    - option "Myanmar (Burma) +95" [ref=e800]: Myanmar (Burma) +95
+                    - option "Namibia +264" [ref=e802]: Namibia +264
+                    - option "Nauru +674" [ref=e804]: Nauru +674
+                    - option "Nepal +977" [ref=e806]: Nepal +977
+                    - option "Netherlands +31" [ref=e808]: Netherlands +31
+                    - option "New Caledonia +687" [ref=e810]: New Caledonia +687
+                    - option "New Zealand +64" [ref=e812]: New Zealand +64
+                    - option "Nicaragua +505" [ref=e814]: Nicaragua +505
+                    - option "Niger +227" [ref=e816]: Niger +227
+                    - option "Nigeria +234" [ref=e818]: Nigeria +234
+                    - option "Niue +683" [ref=e820]: Niue +683
+                    - option "Norfolk Island +672" [ref=e822]: Norfolk Island +672
+                    - option "North Korea +850" [ref=e824]: North Korea +850
+                    - option "North Macedonia +389" [ref=e826]: North Macedonia +389
+                    - option "Northern Mariana Islands +1" [ref=e828]: Northern Mariana Islands +1
+                    - option "Norway +47" [ref=e830]: Norway +47
+                    - option "Oman +968" [ref=e832]: Oman +968
+                    - option "Pakistan +92" [ref=e834]: Pakistan +92
+                    - option "Palau +680" [ref=e836]: Palau +680
+                    - option "Palestinian Territories +970" [ref=e838]: Palestinian Territories +970
+                    - option "Panama +507" [ref=e840]: Panama +507
+                    - option "Papua New Guinea +675" [ref=e842]: Papua New Guinea +675
+                    - option "Paraguay +595" [ref=e844]: Paraguay +595
+                    - option "Peru +51" [ref=e846]: Peru +51
+                    - option "Philippines +63" [ref=e848]: Philippines +63
+                    - option "Poland +48" [ref=e850]: Poland +48
+                    - option "Portugal +351" [ref=e852]: Portugal +351
+                    - option "Puerto Rico +1" [ref=e854]: Puerto Rico +1
+                    - option "Qatar +974" [ref=e856]: Qatar +974
+                    - option "Réunion +262" [ref=e858]: Réunion +262
+                    - option "Romania +40" [ref=e860]: Romania +40
+                    - option "Russia +7" [ref=e862]: Russia +7
+                    - option "Rwanda +250" [ref=e864]: Rwanda +250
+                    - option "Samoa +685" [ref=e866]: Samoa +685
+                    - option "San Marino +378" [ref=e868]: San Marino +378
+                    - option "São Tomé & Príncipe +239" [ref=e870]: São Tomé & Príncipe +239
+                    - option "Saudi Arabia +966" [ref=e872]: Saudi Arabia +966
+                    - option "Senegal +221" [ref=e874]: Senegal +221
+                    - option "Serbia +381" [ref=e876]: Serbia +381
+                    - option "Seychelles +248" [ref=e878]: Seychelles +248
+                    - option "Sierra Leone +232" [ref=e880]: Sierra Leone +232
+                    - option "Singapore +65" [ref=e882]: Singapore +65
+                    - option "Sint Maarten +1" [ref=e884]: Sint Maarten +1
+                    - option "Slovakia +421" [ref=e886]: Slovakia +421
+                    - option "Slovenia +386" [ref=e888]: Slovenia +386
+                    - option "Solomon Islands +677" [ref=e890]: Solomon Islands +677
+                    - option "Somalia +252" [ref=e892]: Somalia +252
+                    - option "South Africa +27" [ref=e894]: South Africa +27
+                    - option "South Korea +82" [ref=e896]: South Korea +82
+                    - option "South Sudan +211" [ref=e898]: South Sudan +211
+                    - option "Spain +34" [ref=e900]: Spain +34
+                    - option "Sri Lanka +94" [ref=e902]: Sri Lanka +94
+                    - option "St. Barthélemy +590" [ref=e904]: St. Barthélemy +590
+                    - option "St. Helena +290" [ref=e906]: St. Helena +290
+                    - option "St. Kitts & Nevis +1" [ref=e908]: St. Kitts & Nevis +1
+                    - option "St. Lucia +1" [ref=e910]: St. Lucia +1
+                    - option "St. Martin +590" [ref=e912]: St. Martin +590
+                    - option "St. Pierre & Miquelon +508" [ref=e914]: St. Pierre & Miquelon +508
+                    - option "St. Vincent & Grenadines +1" [ref=e916]: St. Vincent & Grenadines +1
+                    - option "Sudan +249" [ref=e918]: Sudan +249
+                    - option "Suriname +597" [ref=e920]: Suriname +597
+                    - option "Svalbard & Jan Mayen +47" [ref=e922]: Svalbard & Jan Mayen +47
+                    - option "Sweden +46" [ref=e924]: Sweden +46
+                    - option "Switzerland +41" [ref=e926]: Switzerland +41
+                    - option "Syria +963" [ref=e928]: Syria +963
+                    - option "Taiwan +886" [ref=e930]: Taiwan +886
+                    - option "Tajikistan +992" [ref=e932]: Tajikistan +992
+                    - option "Tanzania +255" [ref=e934]: Tanzania +255
+                    - option "Thailand +66" [ref=e936]: Thailand +66
+                    - option "Timor-Leste +670" [ref=e938]: Timor-Leste +670
+                    - option "Togo +228" [ref=e940]: Togo +228
+                    - option "Tokelau +690" [ref=e942]: Tokelau +690
+                    - option "Tonga +676" [ref=e944]: Tonga +676
+                    - option "Trinidad & Tobago +1" [ref=e946]: Trinidad & Tobago +1
+                    - option "Tunisia +216" [ref=e948]: Tunisia +216
+                    - option "Turkey +90" [ref=e950]: Turkey +90
+                    - option "Turkmenistan +993" [ref=e952]: Turkmenistan +993
+                    - option "Turks & Caicos Islands +1" [ref=e954]: Turks & Caicos Islands +1
+                    - option "Tuvalu +688" [ref=e956]: Tuvalu +688
+                    - option "U.S. Virgin Islands +1" [ref=e958]: U.S. Virgin Islands +1
+                    - option "Uganda +256" [ref=e960]: Uganda +256
+                    - option "Ukraine +380" [ref=e962]: Ukraine +380
+                    - option "United Arab Emirates +971" [ref=e964]: United Arab Emirates +971
+                    - option "United Kingdom +44" [ref=e966]: United Kingdom +44
+                    - option "Uruguay +598" [ref=e968]: Uruguay +598
+                    - option "Uzbekistan +998" [ref=e970]: Uzbekistan +998
+                    - option "Vanuatu +678" [ref=e972]: Vanuatu +678
+                    - option "Vatican City +39" [ref=e974]: Vatican City +39
+                    - option "Venezuela +58" [ref=e976]: Venezuela +58
+                    - option "Vietnam +84" [ref=e978]: Vietnam +84
+                    - option "Wallis & Futuna +681" [ref=e980]: Wallis & Futuna +681
+                    - option "Western Sahara +212" [ref=e982]: Western Sahara +212
+                    - option "Yemen +967" [ref=e984]: Yemen +967
+                    - option "Zambia +260" [ref=e986]: Zambia +260
+                    - option "Zimbabwe +263" [ref=e988]: Zimbabwe +263
+                  - textbox
+              - generic [ref=e140]:
+                - generic [ref=e141]: Phone*
+                - textbox "Phone" [ref=e143]: "5105937215"
+            - generic [ref=e144]:
+              - generic [ref=e146]:
+                - generic [ref=e147]: Location (City)
+                - generic [ref=e148]:
+                  - log [ref=e150]
+                  - combobox "Location (City)" [ref=e155]
+              - button "Locate me" [ref=e156] [cursor=pointer]
+            - group "Resume/CV*" [ref=e158]:
+              - generic [ref=e159]: Resume/CV*
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - button "Attach" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Attach
+                  - button "Attach" [ref=e166]
+                - button "Dropbox" [ref=e168] [cursor=pointer]
+                - button "Google Drive" [ref=e170] [cursor=pointer]
+                - generic [ref=e172]:
+                  - button "Enter manually" [ref=e173] [cursor=pointer]
+                  - generic [ref=e174]: Enter manually
+                - paragraph [ref=e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e177]:
+              - generic [ref=e178]: Cover Letter
+              - generic [ref=e180]:
+                - generic [ref=e182]:
+                  - button "Attach" [ref=e183] [cursor=pointer]
+                  - generic [ref=e184]: Attach
+                  - button "Attach" [ref=e185]
+                - button "Dropbox" [ref=e187] [cursor=pointer]
+                - button "Google Drive" [ref=e189] [cursor=pointer]
+                - generic [ref=e191]:
+                  - button "Enter manually" [ref=e192] [cursor=pointer]
+                  - generic [ref=e193]: Enter manually
+                - paragraph [ref=e194]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e195]:
+            - separator [ref=e196]
+            - generic [ref=e199]:
+              - generic [ref=e200]: Are you authorised to work in the country in which this role is located? (Intercom sponsors immigration for some roles so we encourage you to still apply if you require sponsorship.)*
+              - generic [ref=e201]:
+                - log [ref=e203]
+                - generic [ref=e205]:
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: Select...
+                    - combobox "Are you authorised to work in the country in which this role is located? (Intercom sponsors immigration for some roles so we encourage you to still apply if you require sponsorship.)" [ref=e209]
+                  - button "Toggle flyout" [ref=e211] [cursor=pointer]:
+                    - img [ref=e212]
+                - textbox
+            - generic [ref=e214]:
+              - generic [ref=e216]:
+                - generic [ref=e217]: Current Location*
+                - generic [ref=e218]:
+                  - log [ref=e220]
+                  - generic [ref=e222]:
+                    - generic [ref=e223]:
+                      - generic [ref=e224]: Select...
+                      - combobox "Current Location" [ref=e226]
+                    - button "Toggle flyout" [ref=e228] [cursor=pointer]:
+                      - img [ref=e229]
+                  - textbox
+              - paragraph [ref=e233]:
+                - strong [ref=e234]: NOTE
+                - text: "for US locations : A \"Metro\" selection means that you live 75 miles (straight line radius) from the metropolitan geographic city center zip code."
+            - generic [ref=e237]:
+              - generic [ref=e238]: Are you willing to relocate?*
+              - generic [ref=e239]:
+                - log [ref=e241]
+                - generic [ref=e243]:
+                  - generic [ref=e244]:
+                    - generic [ref=e245]: Select...
+                    - combobox "Are you willing to relocate?" [ref=e247]
+                  - button "Toggle flyout" [ref=e249] [cursor=pointer]:
+                    - img [ref=e250]
+                - textbox
+            - generic [ref=e254]:
+              - generic [ref=e255]: Current or most recent company?*
+              - textbox "Current or most recent company?" [ref=e256]: i2o Retail
+            - generic [ref=e259]:
+              - generic [ref=e260]: Have you previously worked for Intercom?*
+              - generic [ref=e261]:
+                - log [ref=e263]
+                - generic [ref=e265]:
+                  - generic [ref=e266]:
+                    - generic [ref=e267]: Select...
+                    - combobox "Have you previously worked for Intercom?" [ref=e269]
+                  - button "Toggle flyout" [ref=e271] [cursor=pointer]:
+                    - img [ref=e272]
+                - textbox
+            - generic [ref=e276]:
+              - generic [ref=e277]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e278]: https://linkedin.com/in/arikyle
+            - generic [ref=e281]:
+              - generic [ref=e282]: Website
+              - textbox "Website" [ref=e283]
+            - generic [ref=e286]:
+              - generic [ref=e287]: How did you hear about this job?*
+              - generic [ref=e288]:
+                - log [ref=e290]
+                - generic [ref=e292]:
+                  - generic [ref=e293]:
+                    - generic [ref=e294]: Select...
+                    - combobox "How did you hear about this job?" [ref=e296]
+                  - button "Toggle flyout" [ref=e298] [cursor=pointer]:
+                    - img [ref=e299]
+                - textbox
+            - generic [ref=e303]:
+              - generic [ref=e304]: What excites you most about this opportunity?
+              - textbox "What excites you most about this opportunity?" [ref=e305]: "The chance to build a category-defining partner ecosystem at an AI-first company. I've built partnerships functions from zero three times (i2o Retail, Profitero, Amobee), and each time the challenge was the same: how do you turn partner relationships into a reliable, scalable revenue channel? Intercom's Fin agent changes the game for customer service, and the partner ecosystem needs to match that ambition. I want to be the person who designs that system: the operating model, the tiering, the enablement, the co-selling motions that make Intercom's partners as effective as your direct team. The executive visibility and cross-functional scope of this role is exactly where I do my best work."
+            - generic [ref=e308]:
+              - generic [ref=e309]: Which Intercom value resonates most with you and why? (Our values can be found on our Careers Page)
+              - textbox "Which Intercom value resonates most with you and why? (Our values can be found on our Careers Page)" [ref=e310]: "\"We go further together.\" Every partnership function I've built has been about multiplying impact through other people and organizations. At i2o, I didn't just close deals; I designed a system where partners could independently drive adoption and revenue. At Profitero, the VAR program turned agency partners into the delivery layer that fixed our retention problem (50% to 90%). The best partnerships work is fundamentally collaborative: you succeed by making your partners successful. That's going further together in practice."
+            - generic [ref=e313]:
+              - generic [ref=e314]: We work under a hybrid in-office model. Are you willing to work from our office location 3 days per week?*
+              - generic [ref=e315]:
+                - log [ref=e317]
+                - generic [ref=e319]:
+                  - generic [ref=e320]:
+                    - generic [ref=e321]: Select...
+                    - combobox "We work under a hybrid in-office model. Are you willing to work from our office location 3 days per week?" [ref=e323]
+                  - button "Toggle flyout" [ref=e325] [cursor=pointer]:
+                    - img [ref=e326]
+                - textbox
+            - generic [ref=e330]:
+              - generic [ref=e331]: Please email me about future job openings *
+              - generic [ref=e332]:
+                - log [ref=e334]
+                - generic [ref=e336]:
+                  - generic [ref=e337]:
+                    - generic [ref=e338]: Select...
+                    - combobox "Please email me about future job openings" [ref=e340]
+                  - button "Toggle flyout" [ref=e342] [cursor=pointer]:
+                    - img [ref=e343]
+                - textbox
+            - generic [ref=e345]:
+              - group "Point of Data Transfer *" [ref=e346]:
+                - generic [ref=e347]: Point of Data Transfer *
+                - generic [ref=e348]:
+                  - generic [ref=e349]:
+                    - checkbox "Acknowledge" [checked] [ref=e350]
+                    - img
+                  - generic [ref=e351]: Acknowledge
+              - paragraph [ref=e354]:
+                - text: Please click on the following link to view our
+                - link "Candidate Data Protection Notice" [ref=e355] [cursor=pointer]:
+                  - /url: https://www.dropbox.com/scl/fi/fbqie59qahocmz0r1e1qw/Candidate-Data-Protection-Notice-Eff.-11.20.2024.pdf?rlkey=vw68jinxrzw9eamp3uoje40r9&e=1&st=kyik579m&dl=0
+                - text: .
+          - generic [ref=e356]:
+            - separator [ref=e357]
+            - generic [ref=e358]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e359]
+              - paragraph [ref=e360]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e361]: As set forth in Intercom’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e364]:
+              - generic [ref=e365]: Gender
+              - generic [ref=e366]:
+                - log [ref=e368]
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: Select...
+                    - combobox "Gender" [ref=e374]
+                  - button "Toggle flyout" [ref=e376] [cursor=pointer]:
+                    - img [ref=e377]
+            - generic [ref=e379]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: Are you Hispanic/Latino?
+                - generic [ref=e383]:
+                  - log [ref=e385]
+                  - generic [ref=e387]:
+                    - generic [ref=e388]:
+                      - generic [ref=e389]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e391]
+                    - button "Toggle flyout" [ref=e393] [cursor=pointer]:
+                      - img [ref=e394]
+              - link "Race & Ethnicity Definitions" [ref=e396] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e397]:
+              - paragraph [ref=e398]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e399]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e400]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e401]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e402]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e405]:
+              - generic [ref=e406]: Veteran Status
+              - generic [ref=e407]:
+                - log [ref=e409]
+                - generic [ref=e411]:
+                  - generic [ref=e412]:
+                    - generic [ref=e413]: Select...
+                    - combobox "Veteran Status" [ref=e415]
+                  - button "Toggle flyout" [ref=e417] [cursor=pointer]:
+                    - img [ref=e418]
+            - separator [ref=e420]
+            - generic [ref=e421]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e422]
+              - generic [ref=e423]:
+                - generic [ref=e424]:
+                  - generic [ref=e425]: Form CC-305
+                  - generic [ref=e426]: Page 1 of 1
+                - generic [ref=e427]:
+                  - generic [ref=e428]: OMB Control Number 1250-0005
+                  - generic [ref=e429]: Expires 04/30/2026
+              - strong [ref=e430]: Why are you being asked to complete this form?
+              - paragraph [ref=e431]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e432]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e434]: How do you know if you have a disability?
+              - paragraph [ref=e435]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e436]: "Disabilities include, but are not limited to:"
+              - list [ref=e437]:
+                - listitem [ref=e438]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e439]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e440]: Blind or low vision
+                - listitem [ref=e441]: Cancer (past or present)
+                - listitem [ref=e442]: Cardiovascular or heart disease
+                - listitem [ref=e443]: Celiac disease
+                - listitem [ref=e444]: Cerebral palsy
+                - listitem [ref=e445]: Deaf or serious difficulty hearing
+                - listitem [ref=e446]: Diabetes
+                - listitem [ref=e447]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e448]: Epilepsy or other seizure disorder
+                - listitem [ref=e449]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e450]: Intellectual or developmental disability
+                - listitem [ref=e451]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e452]: Missing limbs or partially missing limbs
+                - listitem [ref=e453]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e454]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e455]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e456]: Partial or complete paralysis (any cause)
+                - listitem [ref=e457]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e458]: Short stature (dwarfism)
+                - listitem [ref=e459]: Traumatic brain injury
+            - generic [ref=e462]:
+              - generic [ref=e463]: Disability Status
+              - generic [ref=e464]:
+                - log [ref=e466]
+                - generic [ref=e468]:
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: Select...
+                    - combobox "Disability Status" [ref=e472]
+                  - button "Toggle flyout" [ref=e474] [cursor=pointer]:
+                    - img [ref=e475]
+            - paragraph [ref=e478]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e480] [cursor=pointer]
+  - contentinfo [ref=e481]:
+    - generic [ref=e482]:
+      - paragraph [ref=e483]: Powered by
+      - link "Greenhouse logo" [ref=e484] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e485]
+  - iframe [ref=e499]:
+    - generic [ref=f7e6]:
+      - text: protected by
+      - strong [ref=f7e7]: reCAPTCHA

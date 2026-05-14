@@ -1,0 +1,297 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Airtable Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://airtable.com
+        - img "Airtable Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/airtable
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Head of Partnerships" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Remote - US
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - paragraph [ref=e22]: Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.
+          - generic [ref=e23]:
+            - paragraph [ref=e24]: Services and alliance partners are a critical part of the Airtable customer journey, helping clients drive business transformation with Airtable through discovery, solution design, implementation, change management, project management, integrations, training and ongoing support. They are instrumental in unlocking the full potential of the Airtable platform for existing and potential customers.
+            - paragraph [ref=e25]: As the Head of Partnerships, you will be guiding delivery partner strategy, leading a partnership team, overseeing the global partner ecosystem, and collaborating with cross-functional teams to drive partner success.
+            - heading "What you'll do" [level=2] [ref=e26]
+            - list [ref=e27]:
+              - listitem [ref=e28]: Build and scale a global ecosystem of consulting partners and System Integrators (SIs) with the right strategic, technical and service capabilities to drive customer projects in the Enterprise
+              - listitem [ref=e29]: Develop and nurture strategic alliances with key ISV’s and Hyperscalers
+              - listitem [ref=e30]: Define and communicate the long-term vision and strategy for the partner & alliance organization
+              - listitem [ref=e31]: Develop systematic, AI-centric processes to develop an end-to-end partner program with a focus on partner identification, partner qualification, enablement/training, certification, partner success, client success and partner capability expansion (i.e. partners that enable customers to become agentic enterprises)
+              - listitem [ref=e32]: Develop regional partner plans, with a list of target consulting partners and tech alliances based upon customer and Airtable needs, capabilities and Airtable capacity
+              - listitem [ref=e33]: Collaborate with Marketing to promote customer engagements and consulting/alliance partners
+              - listitem [ref=e34]: Partner closely with Sales, Customer Success and Services on customer opportunities aligning the right partner for specific engagements
+              - listitem [ref=e35]: Build and oversee partner consultant delivery oversight, subcontracting, and collaborate with the Services team on engagement models
+              - listitem [ref=e36]: Maintain quality assurance oversight to ensure ongoing partner technical build success
+              - listitem [ref=e37]: Develop and refine partner tiering structures, certification programs, and co-selling initiatives to ensure high quality
+              - listitem [ref=e38]: Lead a team of regional partner managers to ensure consistent execution of partner strategies globally
+              - listitem [ref=e39]: Inform partner onboarding and enablement initiatives, in coordination with the Services enablement team, to include training, certifications, and QA
+            - heading "Who you are" [level=2] [ref=e40]
+            - list [ref=e41]:
+              - listitem [ref=e42]: 5-10+ years leadership experience in partnerships or professional services, with an emphasis on managing services / solutions / alliance partnerships across B2B SaaS and/or AI-native platforms
+              - listitem [ref=e43]: Experience managing a global partner ecosystem for companies with at least $100M ARR
+              - listitem [ref=e44]: Ability to think strategically while executing operationally in a fast-paced environment
+              - listitem [ref=e45]: Can navigate highly strategic and complex partnerships and drive co-selling with our internal teams with a track record of cross functional coordination and alignment
+              - listitem [ref=e46]: Ability to prioritize based on both quantitative and qualitative analysis
+              - listitem [ref=e47]: Ability to build and drive partner plans on an ongoing cadence to achieve business goals
+              - listitem [ref=e48]: Experience fostering and implementing strategic SI partnerships within Big-5 consulting
+              - listitem [ref=e49]: Systems thinker who leverages AI to develop end-to-end processes that focus on achieving optimal outcomes, versus simply adding human headcount
+            - paragraph [ref=e50]:
+              - text: Airtable is an equal opportunity employer. We embrace diversity and strive to create a workplace where everyone has an equal opportunity to thrive. We welcome people of different backgrounds, experiences, abilities, and perspectives. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or any characteristic protected by applicable federal and state laws, regulations and ordinances. Learn more about your
+              - link "EEO rights as an applicant" [ref=e51] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1jAj2by1bto5g8Xqn9hWNAwPOMGNd_fM6/view?usp=sharing
+              - strong [ref=e52]: .
+            - paragraph [ref=e53]: VEVRAA-Federal Contractor
+            - paragraph [ref=e54]:
+              - text: If you have a medical condition, disability, or religious belief/practice which inhibits your ability to participate in any part of the application or interview process, please complete our
+              - link "Accommodations Request Form" [ref=e55] [cursor=pointer]:
+                - /url: https://airtable.com/shrq13fCV8h1sx2t8
+              - text: and let us know how we may assist you. Airtable is committed to participating in the interactive process and providing reasonable accommodations to qualified applicants.
+            - paragraph [ref=e56]: "#LI-Remote"
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - generic [ref=e61]:
+                - paragraph [ref=e62]: Compensation awarded to successful candidates will vary based on their work location, relevant skills, and experience.
+                - paragraph [ref=e63]:
+                  - generic [ref=e66]: Our total compensation package also includes the opportunity to receive benefits, restricted stock units, and may include incentive compensation.
+                  - generic [ref=e69]: To learn more about our comprehensive benefit offerings, please check out
+                  - link "Life at Airtable" [ref=e70] [cursor=pointer]:
+                    - /url: https://airtable.com/careers/life-at-airtable
+                    - generic [ref=e72]: Life at Airtable
+                  - generic [ref=e74]: .
+              - paragraph [ref=e75]: "For work locations in the San Francisco Bay Area, Seattle, Los Angeles, and New York, the on-target earnings range for this role is:"
+              - paragraph [ref=e76]: $300,000 - $425,000 USD
+            - generic [ref=e77]:
+              - paragraph [ref=e78]: "For all other work locations (including remote), the on-target earnings range for this role is:"
+              - paragraph [ref=e79]: $270,000 - $383,000 USD
+          - generic [ref=e80]:
+            - paragraph [ref=e81]:
+              - text: Please see our Privacy Notice for details regarding Airtable’s collection and use of personal data relating to the application and recruitment process by clicking
+              - link "here" [ref=e82] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1fKEf0G59m8RT2ZaOJyxoqQ3kW3oUaxhZ/view
+              - text: .
+              - text: For applicants that live in or have a link to Australia, please see this
+              - link "Privacy Collection Statement" [ref=e83] [cursor=pointer]:
+                - /url: https://www.airtable.com/company/job-application-privacy-statement
+              - text: for details regarding Airtable's collection and use of personal data relating to the application and recruitment process.
+            - paragraph [ref=e84]:
+              - text: 🔒
+              - strong [ref=e85]: Stay Safe from Job Scams
+              - text: All official Airtable communication will come from an
+              - strong [ref=e86]: "@airtable.com"
+              - text: email address. We will never ask you to share sensitive information or purchase equipment during the hiring process. If in doubt, contact us at
+              - link "hr@airtable.com" [ref=e87] [cursor=pointer]:
+                - /url: mailto:hr@airtable.com
+              - text: . Learn more about avoiding job scams
+              - link "here" [ref=e88] [cursor=pointer]:
+                - /url: https://consumer.ftc.gov/consumer-alerts/2022/05/want-work-home-spot-scams-first
+              - text: .
+        - generic [ref=e89]:
+          - img [ref=e90]
+          - generic [ref=e92]:
+            - paragraph [ref=e93]: Create a Job Alert
+            - paragraph [ref=e94]: Interested in building your career at Airtable? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e95] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=airtable&source=job_alert_post
+      - separator [ref=e96]
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - heading "Apply for this job" [level=2] [ref=e101]
+            - generic [ref=e102]:
+              - paragraph [ref=e104]: "*"
+              - paragraph [ref=e105]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e108] [cursor=pointer]
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e113]:
+              - generic [ref=e114]: First Name*
+              - textbox "First Name" [ref=e115]: Ari
+            - generic [ref=e118]:
+              - generic [ref=e119]: Last Name*
+              - textbox "Last Name" [ref=e120]: Levine
+            - generic [ref=e123]:
+              - generic [ref=e124]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e125]: Ari
+            - generic [ref=e128]:
+              - generic [ref=e129]: Email*
+              - textbox "Email" [ref=e130]: ari.kyle.levine@gmail.com
+            - group "Phone" [ref=e132]:
+              - generic [ref=e133]: Phone
+              - generic [ref=e136]:
+                - generic [ref=e137]: Country
+                - generic [ref=e138]:
+                  - log [ref=e140]
+                  - generic [ref=e142]:
+                    - generic [ref=e143]:
+                      - generic [ref=e865]: "+1"
+                      - combobox "Country" [ref=e145]
+                    - button "Toggle flyout" [ref=e147] [cursor=pointer]:
+                      - img [ref=e148]
+              - generic [ref=e152]:
+                - generic [ref=e153]: Phone
+                - textbox "Phone" [ref=e155]: (510) 593-7215
+            - group "Resume/CV*" [ref=e157]:
+              - generic [ref=e158]: Resume/CV*
+              - generic [ref=e866]:
+                - img [ref=e867]
+                - paragraph [ref=e871]: cv-ari-airtable-2026-04-07.pdf
+                - button "Remove file" [ref=e872] [cursor=pointer]:
+                  - img [ref=e873]
+            - group "Cover Letter" [ref=e176]:
+              - generic [ref=e177]: Cover Letter
+              - generic [ref=e179]:
+                - generic [ref=e181]:
+                  - button "Attach" [ref=e182] [cursor=pointer]
+                  - generic [ref=e183]: Attach
+                  - button "Attach" [ref=e184]
+                - button "Dropbox" [ref=e186] [cursor=pointer]
+                - button "Google Drive" [ref=e188] [cursor=pointer]
+                - generic [ref=e190]:
+                  - button "Enter manually" [ref=e191] [cursor=pointer]
+                  - generic [ref=e192]: Enter manually
+                - paragraph [ref=e193]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e194]:
+            - separator [ref=e195]
+            - generic [ref=e198]:
+              - generic [ref=e199]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e200]: https://linkedin.com/in/arikyle
+            - generic [ref=e201]:
+              - generic [ref=e203]:
+                - generic [ref=e204]: How are you using AI today in your current role? If applicable, show us your last AI experiment.*
+                - textbox "How are you using AI today in your current role? If applicable, show us your last AI experiment." [ref=e205]: "AI is central to how I work today, both in my day job and in the products I build. At i2o Retail, I designed the Retail Media Risk Index (RMRI), an AI-powered scoring framework that benchmarks brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. I authored the thesis, designed the scoring models (v1 and v2), and led the go-to-market strategy. It started as a partner enablement tool and became a standalone data product. On the product side, I've built multiple AI-powered platforms: a real estate valuation platform with explainable scoring models and adaptive search (two utility patents filed pro se, one allowed by the USPTO, one pending); a quantitative prediction market platform with a proprietary ML pricing engine (LightGBM ensemble, Venn-ABERS calibration, fair value estimation); and an AI-powered meal planning tool for a physician-led weight management practice. My most recent AI experiment: I built an end-to-end job search automation pipeline using Claude Code. It evaluates job descriptions against my profile, generates tailored CVs, scans career portals, batch-processes applications, and tracks everything in a structured pipeline. The system evaluates fit across six dimensions, generates personalized interview prep, and outputs ATS-optimized PDFs. GitHub: github.com/santifer/career-ops I approach AI as a product-minded builder. I spec architectures, design systems, and ship working products using AI-assisted development. I don't just use AI tools; I understand how they work well enough to design partner enablement programs around them."
+              - paragraph [ref=e208]:
+                - emphasis [ref=e209]: Share how you currently use AI in your work. If you have a project to showcase, feel free to describe it and include a link (e.g., Google Drive, Loom, GitHub, etc). Make sure your sharing settings allow access.
+            - generic [ref=e210]:
+              - 'group "Optional: Upload your AI example." [ref=e211]':
+                - generic [ref=e212]: "Optional: Upload your AI example."
+                - generic [ref=e214]:
+                  - generic [ref=e216]:
+                    - button "Attach" [ref=e217] [cursor=pointer]
+                    - generic [ref=e218]: Attach
+                    - button "Attach" [ref=e219]
+                  - button "Dropbox" [ref=e221] [cursor=pointer]
+                  - button "Google Drive" [ref=e223] [cursor=pointer]
+                  - paragraph [ref=e224]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - paragraph [ref=e227]:
+                - emphasis [ref=e228]: This field is completely optional. If you’d like to share a supporting example of your AI work (such as a PDF, screenshot, or presentation), you can upload it here.
+          - generic [ref=e229]:
+            - separator [ref=e230]
+            - generic [ref=e231]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e232]
+              - paragraph [ref=e233]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e234]: As set forth in Airtable’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e237]:
+              - generic [ref=e238]: Gender
+              - generic [ref=e239]:
+                - log [ref=e241]
+                - generic [ref=e243]:
+                  - generic [ref=e244]:
+                    - generic [ref=e245]: Select...
+                    - combobox "Gender" [ref=e247]
+                  - button "Toggle flyout" [ref=e249] [cursor=pointer]:
+                    - img [ref=e250]
+            - generic [ref=e252]:
+              - generic [ref=e254]:
+                - generic [ref=e255]: Are you Hispanic/Latino?
+                - generic [ref=e256]:
+                  - log [ref=e258]
+                  - generic [ref=e260]:
+                    - generic [ref=e261]:
+                      - generic [ref=e262]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e264]
+                    - button "Toggle flyout" [ref=e266] [cursor=pointer]:
+                      - img [ref=e267]
+              - link "Race & Ethnicity Definitions" [ref=e269] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e272]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e273]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e274]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e275]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e278]:
+              - generic [ref=e279]: Veteran Status
+              - generic [ref=e280]:
+                - log [ref=e282]
+                - generic [ref=e284]:
+                  - generic [ref=e285]:
+                    - generic [ref=e286]: Select...
+                    - combobox "Veteran Status" [ref=e288]
+                  - button "Toggle flyout" [ref=e290] [cursor=pointer]:
+                    - img [ref=e291]
+            - separator [ref=e293]
+            - generic [ref=e294]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e295]
+              - generic [ref=e296]:
+                - generic [ref=e297]:
+                  - generic [ref=e298]: Form CC-305
+                  - generic [ref=e299]: Page 1 of 1
+                - generic [ref=e300]:
+                  - generic [ref=e301]: OMB Control Number 1250-0005
+                  - generic [ref=e302]: Expires 04/30/2026
+              - strong [ref=e303]: Why are you being asked to complete this form?
+              - paragraph [ref=e304]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e305]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e306] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e307]: How do you know if you have a disability?
+              - paragraph [ref=e308]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e309]: "Disabilities include, but are not limited to:"
+              - list [ref=e310]:
+                - listitem [ref=e311]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e312]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e313]: Blind or low vision
+                - listitem [ref=e314]: Cancer (past or present)
+                - listitem [ref=e315]: Cardiovascular or heart disease
+                - listitem [ref=e316]: Celiac disease
+                - listitem [ref=e317]: Cerebral palsy
+                - listitem [ref=e318]: Deaf or serious difficulty hearing
+                - listitem [ref=e319]: Diabetes
+                - listitem [ref=e320]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e321]: Epilepsy or other seizure disorder
+                - listitem [ref=e322]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e323]: Intellectual or developmental disability
+                - listitem [ref=e324]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e325]: Missing limbs or partially missing limbs
+                - listitem [ref=e326]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e327]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e328]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e329]: Partial or complete paralysis (any cause)
+                - listitem [ref=e330]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e331]: Short stature (dwarfism)
+                - listitem [ref=e332]: Traumatic brain injury
+            - generic [ref=e335]:
+              - generic [ref=e336]: Disability Status
+              - generic [ref=e337]:
+                - log [ref=e339]
+                - generic [ref=e341]:
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: Select...
+                    - combobox "Disability Status" [ref=e345]
+                  - button "Toggle flyout" [ref=e347] [cursor=pointer]:
+                    - img [ref=e348]
+            - paragraph [ref=e351]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e353] [cursor=pointer]
+  - contentinfo [ref=e354]:
+    - generic [ref=e355]:
+      - paragraph [ref=e356]: Powered by
+      - link "Greenhouse logo" [ref=e357] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e358]
+  - iframe [ref=e372]:
+    - generic [ref=f2e6]:
+      - text: protected by
+      - strong [ref=f2e7]: reCAPTCHA

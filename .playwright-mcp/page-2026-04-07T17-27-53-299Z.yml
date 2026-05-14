@@ -1,0 +1,517 @@
+- generic [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Contentful Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://www.contentful.com/careers/
+        - img "Contentful Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/contentful
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Director, ISV & Marketplace Strategy" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Denver, Colorado, United States
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - heading "About the opportunity" [level=2] [ref=e24]
+            - paragraph [ref=e25]: Contentful is seeking a director-level leader to own and scale our marketplace and ecosystem strategy within the Corporate Development & Strategy organization. Reporting into our VP of Corporate Development & Strategy, this role will focus on aligning our ISV partner strategy with our broader Product and GTM strategy, building and growing the ISV partner ecosystem, and making it easier for customers and the field to realize value from our ecosystem.
+            - paragraph [ref=e26]: You will partner closely with Product, Product Marketing, and the Field to define where ISVs add the most value, recruit and enable the right partners, and ensure our marketplace becomes a meaningful differentiator in customer evaluations and expansion.
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: This is a hybrid role where office attendance in Denver is expected 2-3 days per week.
+            - heading "What to expect?" [level=2] [ref=e29]
+            - paragraph [ref=e30]:
+              - strong [ref=e31]: ISV partner ecosystem leadership
+            - list [ref=e32]:
+              - listitem [ref=e33]: Develop and execute a strategy to grow and optimize the ISV partner ecosystem, with clear priorities by use case, segment, and region.
+              - listitem [ref=e34]: Recruit, evaluate, and onboard independent software vendors into the Contentful app marketplace.
+              - listitem [ref=e35]: "Operate and continuously improve a technology partner program that includes:"
+              - list [ref=e36]:
+                - listitem [ref=e37]: Outbound partner marketing and recruitment motions to attract ISVs.
+                - listitem [ref=e38]: Business development motions focused on getting target ISVs engaged and building.
+                - listitem [ref=e39]: Solutions architecture / developer support in partnership with Product and SEs to help ISVs ship high-quality integrations quickly.
+                - listitem [ref=e40]: Commercial constructs that support mutual growth (e.g., lead sharing, joint marketing, co-selling, and appropriate economic structures).
+              - listitem [ref=e41]: Partner with Product Management and Partner Marketing to identify, recruit, and enable high-impact ISVs aligned to Contentful’s roadmap and key customer needs.
+              - listitem [ref=e42]: Identify and prioritize ISVs in key verticals (e.g., retail / commerce, financial services, media) where Contentful sees strong demand.
+              - listitem [ref=e43]: Run outbound campaigns in partnership with Marketing and the Field to engage and onboard top vertical ISVs into the marketplace.
+              - listitem [ref=e44]: Ensure vertical ISV solutions are packaged and positioned in a way that’s easy for Sales and customers to understand and adopt.
+              - listitem [ref=e45]: Drive building out GTM motions for strategic ISV partners (e.g., co-sell / re-sell) from identification through to launch (hand off to Partnership org for execution)
+            - paragraph [ref=e46]:
+              - strong [ref=e47]: App marketplace growth
+            - list [ref=e48]:
+              - listitem [ref=e49]: Own marketplace health and growth metrics (e.g., app coverage by use case, install / adoption rates, usage by segment).
+              - listitem [ref=e50]: "Collaborate with Product Marketing and Partner Marketing to:"
+              - list [ref=e51]:
+                - listitem [ref=e52]: Launch and promote priority integrations and solution bundles.
+                - listitem [ref=e53]: Build customer-facing stories and case studies that feature key apps and marketplaces use cases.
+              - listitem [ref=e54]: "Partner with Customer Success, Sales, and Solution Engineering to:"
+              - list [ref=e55]:
+                - listitem [ref=e56]: Make it easy for account teams to understand which apps matter, when, and why.
+                - listitem [ref=e57]: Incorporate marketplace solutions into sales plays and customer success motions.
+              - listitem [ref=e58]: Use data to show how marketplace usage correlates with customer value, satisfaction, and retention, and recommend iterative improvements.
+            - paragraph [ref=e59]:
+              - strong [ref=e60]: Team and stakeholder leadership
+            - list [ref=e61]:
+              - listitem [ref=e62]: Lead and mentor a small team focused on ISV and marketplace success (e.g., technology alliance managers and/or product ecosystem roles).
+              - listitem [ref=e63]:
+                - text: "Drive tight alignment with:"
+                - list [ref=e64]:
+                  - listitem [ref=e65]: Product and Engineering on integration standards, roadmap fit, and technical quality.
+                  - listitem [ref=e66]: Product Marketing and Marketing on messaging, launch plans, and campaigns.
+                  - listitem [ref=e67]: Sales, Customer Success, and Solution Engineering on where and how to use ISVs to win and expand deals.
+                  - listitem [ref=e68]: Partnership org for execution of strategic partnerships
+                  - listitem [ref=e69]: Represent Contentful’s marketplace and ISV ecosystem with partners and at select industry events, helping strengthen our position with key platforms and alliances.
+            - paragraph [ref=e70]:
+              - strong [ref=e71]: Expected outcomes
+            - paragraph [ref=e72]: "Within 12–18 months in role, success looks like:"
+            - list [ref=e73]:
+              - listitem [ref=e74]:
+                - list [ref=e75]:
+                  - listitem [ref=e76]: A refreshed ISV and marketplace program that is clearly understood internally and externally (who we target, what we offer, how we work with partners).
+                  - listitem [ref=e77]:
+                    - text: "Material growth in:"
+                    - list [ref=e78]:
+                      - listitem [ref=e79]: Number of high-quality apps in the marketplace in priority categories.
+                      - listitem [ref=e80]: Adoption and usage of those apps by customers.
+                      - listitem [ref=e81]: Contribution of ISV-influenced and ISV-sourced opportunities to pipeline and revenue.
+                  - listitem [ref=e82]: Clear, repeatable patterns for how the Field uses ISVs and apps to differentiate Contentful and solve customer problems.
+                  - listitem [ref=e83]: Strong, durable relationships with a core set of strategic ISVs that see Contentful as a priority platform.
+            - paragraph [ref=e84]:
+              - strong [ref=e85]: Required competencies
+            - list [ref=e86]:
+              - listitem [ref=e87]: "Program and ecosystem leadership:"
+              - list [ref=e88]:
+                - listitem [ref=e89]: Experience building or scaling a partner program (ideally ISV / marketplace) in a SaaS or enterprise technology company.
+                - listitem [ref=e90]: "Ability to balance strategy and execution: defining the model while also running day-to-day partner motions."
+              - listitem [ref=e91]: "Sales and business development:"
+              - list [ref=e92]:
+                - listitem [ref=e93]: Track record of recruiting partners and building a healthy partner pipeline.
+                - listitem [ref=e94]: Comfort engaging with partner sales and GTM leaders to align on joint go-to-market plans.
+              - listitem [ref=e95]: "Cross-functional leadership:"
+              - list [ref=e96]:
+                - listitem [ref=e97]: Demonstrated ability to work across Product, Marketing, Sales, and Customer Success to land and scale partnership initiatives.
+                - listitem [ref=e98]: Strong stakeholder management and communication skills, including with senior leaders and external executives.
+              - listitem [ref=e99]: "Strategic ecosystem thinking:"
+              - list [ref=e100]:
+                - listitem [ref=e101]: Ability to understand where partners add the most value across the customer lifecycle and prioritize accordingly.
+                - listitem [ref=e102]: Experience using data and customer feedback to refine partner and marketplace strategy.
+            - heading "What do you need to be successful?" [level=2] [ref=e103]
+            - list [ref=e104]:
+              - listitem [ref=e105]: 8+ years of experience in technology partnerships, business development, or ecosystem roles in SaaS or enterprise software.
+              - listitem [ref=e106]: Direct experience working with independent software vendors and/or app marketplaces (e.g., recruiting, enabling, and growing ISV relationships).
+              - listitem [ref=e107]: Experience working closely with Product and Engineering teams on integration requirements and partner enablement.
+              - listitem [ref=e108]: Experience partnering with Product Marketing, Marketing, and Field teams on joint messaging, launches, and go-to-market plays.
+              - listitem [ref=e109]: Comfortable operating in a fast-moving environment, with the ability to iterate quickly based on partner, customer, and internal feedback.
+              - listitem [ref=e110]: Strong written and verbal communication skills and the ability to represent Contentful externally with partners and customers.
+              - listitem [ref=e111]: Bachelor’s degree in business, technology, or a related field (or equivalent practical experience).
+            - heading "What's in it for you?" [level=2] [ref=e112]
+            - list [ref=e113]:
+              - listitem [ref=e114]: Join an ambitious tech company reshaping the way people build digital experiences
+              - listitem [ref=e115]: Full-time employees receive Stock Options for the opportunity to share in the success of our company
+              - listitem [ref=e116]: Comprehensive healthcare package covering 100% of monthly health premiums for employees and 85% of costs for your dependents.
+              - listitem [ref=e117]: Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.
+              - listitem [ref=e118]:
+                - text: We value
+                - strong [ref=e119]: Work-Life balance
+                - text: and
+                - strong [ref=e120]: You Time
+                - text: "!"
+                - strong [ref=e121]
+                - text: A generous amount of paid time off, including vacation days, sick days, compassion days for loss, education days, and volunteer days
+              - listitem [ref=e122]:
+                - strong [ref=e123]: Company paid parental leave
+                - text: to care for and focus on your growing family
+              - listitem [ref=e124]: Use your personal annual education budget to improve your skills and grow in your career
+              - listitem [ref=e125]: Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties
+              - listitem [ref=e126]: An annual wellbeing stipend to care for your physical, financial, or emotional health
+              - listitem [ref=e127]: A monthly communication stipend and phone hardware upgrade reimbursement.
+              - listitem [ref=e128]: New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.
+            - paragraph [ref=e129]:
+              - emphasis [ref=e130]: This role will need to be conducted in a state in which we are currently registered to do business. In addition, this position is
+              - strong [ref=e131]:
+                - emphasis [ref=e132]: not
+              - emphasis [ref=e133]: eligible for visa sponsorship. Applicants must be authorized to work without the need for visa sponsorship by the start date of employment.
+            - paragraph [ref=e134]: This position is eligible for equity awards in accordance with the terms of Contentful’s equity plans.
+            - paragraph [ref=e135]: The application deadline is 05/17/2026
+            - paragraph [ref=e136]: "Colorado Salary Statement: The salary range displayed is specifically for those potential hires who will work or reside in the state of Colorado if selected for the role. Any offered salary is determined based on internal equity, internal salary ranges, market data/ranges, applicant's skills and prior relevant experience, certain degrees and certifications (e.g. JD/technology), for example."
+            - paragraph [ref=e137]: "Colorado Salary: $240,000- $276,000"
+          - generic [ref=e138]:
+            - heading "Who are we?" [level=2] [ref=e139]:
+              - strong [ref=e140]: Who are we?
+            - paragraph [ref=e141]:
+              - text: Contentful is a leading
+              - strong [ref=e142]: digital experience platform
+              - text: that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native
+              - strong [ref=e143]: AI
+              - text: capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than
+              - strong [ref=e144]: 700 people
+              - text: from more than
+              - strong [ref=e145]: 70 nations
+              - text: contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.
+            - heading "Everyone is welcome here!" [level=2] [ref=e146]:
+              - strong [ref=e147]: Everyone is welcome here!
+            - paragraph [ref=e148]:
+              - generic [ref=e149]:
+                - strong [ref=e150]: “Everyone is welcome here”
+                - text: is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!
+            - paragraph [ref=e151]: If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.
+            - paragraph [ref=e152]:
+              - emphasis [ref=e154]:
+                - text: Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at
+                - link "security-esk@contentful.com" [ref=e155] [cursor=pointer]:
+                  - /url: mailto:security-esk@contentful.com
+              - emphasis [ref=e157]: with any information you may have.
+            - paragraph [ref=e158]:
+              - text: By clicking “Apply for this job,” I acknowledge that I have read the “
+              - link "Contentful’s Candidate Privacy Notice" [ref=e159] [cursor=pointer]:
+                - /url: https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/
+              - text: ” and hereby consent to the collection, processing, use, and storage of my personal information as described therein.
+      - separator [ref=e160]
+      - generic [ref=e161]:
+        - generic [ref=e163]:
+          - heading "Apply for this job" [level=2] [ref=e165]
+          - generic [ref=e166]:
+            - paragraph [ref=e168]: "*"
+            - paragraph [ref=e169]: indicates a required field
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: First Name*
+              - textbox "First Name" [ref=e176]: Ari
+            - generic [ref=e179]:
+              - generic [ref=e180]: Last Name*
+              - textbox "Last Name" [ref=e181]: Levine
+            - generic [ref=e184]:
+              - generic [ref=e185]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e186]: Ari
+            - generic [ref=e189]:
+              - generic [ref=e190]: Email*
+              - textbox "Email" [ref=e191]: ari.kyle.levine@gmail.com
+            - group "Phone" [ref=e193]:
+              - generic [ref=e194]: Phone
+              - generic [ref=e197]:
+                - generic [ref=e198]: Country*
+                - generic [ref=e199]:
+                  - log [ref=e201]: United States +1, 1 of 244.244 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+                  - generic [ref=e203]:
+                    - combobox "Country" [expanded] [active] [ref=e206]
+                    - button "Toggle flyout" [ref=e208] [cursor=pointer]:
+                      - img [ref=e209]
+                  - listbox [ref=e325]:
+                    - option "United States +1" [ref=e326]: United States +1
+                    - option "Afghanistan +93" [ref=e328]: Afghanistan +93
+                    - option "Åland Islands +358" [ref=e330]: Åland Islands +358
+                    - option "Albania +355" [ref=e332]: Albania +355
+                    - option "Algeria +213" [ref=e334]: Algeria +213
+                    - option "American Samoa +1" [ref=e336]: American Samoa +1
+                    - option "Andorra +376" [ref=e338]: Andorra +376
+                    - option "Angola +244" [ref=e340]: Angola +244
+                    - option "Anguilla +1" [ref=e342]: Anguilla +1
+                    - option "Antigua & Barbuda +1" [ref=e344]: Antigua & Barbuda +1
+                    - option "Argentina +54" [ref=e346]: Argentina +54
+                    - option "Armenia +374" [ref=e348]: Armenia +374
+                    - option "Aruba +297" [ref=e350]: Aruba +297
+                    - option "Ascension Island +247" [ref=e352]: Ascension Island +247
+                    - option "Australia +61" [ref=e354]: Australia +61
+                    - option "Austria +43" [ref=e356]: Austria +43
+                    - option "Azerbaijan +994" [ref=e358]: Azerbaijan +994
+                    - option "Bahamas +1" [ref=e360]: Bahamas +1
+                    - option "Bahrain +973" [ref=e362]: Bahrain +973
+                    - option "Bangladesh +880" [ref=e364]: Bangladesh +880
+                    - option "Barbados +1" [ref=e366]: Barbados +1
+                    - option "Belarus +375" [ref=e368]: Belarus +375
+                    - option "Belgium +32" [ref=e370]: Belgium +32
+                    - option "Belize +501" [ref=e372]: Belize +501
+                    - option "Benin +229" [ref=e374]: Benin +229
+                    - option "Bermuda +1" [ref=e376]: Bermuda +1
+                    - option "Bhutan +975" [ref=e378]: Bhutan +975
+                    - option "Bolivia +591" [ref=e380]: Bolivia +591
+                    - option "Bosnia & Herzegovina +387" [ref=e382]: Bosnia & Herzegovina +387
+                    - option "Botswana +267" [ref=e384]: Botswana +267
+                    - option "Brazil +55" [ref=e386]: Brazil +55
+                    - option "British Indian Ocean Territory +246" [ref=e388]: British Indian Ocean Territory +246
+                    - option "British Virgin Islands +1" [ref=e390]: British Virgin Islands +1
+                    - option "Brunei +673" [ref=e392]: Brunei +673
+                    - option "Bulgaria +359" [ref=e394]: Bulgaria +359
+                    - option "Burkina Faso +226" [ref=e396]: Burkina Faso +226
+                    - option "Burundi +257" [ref=e398]: Burundi +257
+                    - option "Cambodia +855" [ref=e400]: Cambodia +855
+                    - option "Cameroon +237" [ref=e402]: Cameroon +237
+                    - option "Canada +1" [ref=e404]: Canada +1
+                    - option "Cape Verde +238" [ref=e406]: Cape Verde +238
+                    - option "Caribbean Netherlands +599" [ref=e408]: Caribbean Netherlands +599
+                    - option "Cayman Islands +1" [ref=e410]: Cayman Islands +1
+                    - option "Central African Republic +236" [ref=e412]: Central African Republic +236
+                    - option "Chad +235" [ref=e414]: Chad +235
+                    - option "Chile +56" [ref=e416]: Chile +56
+                    - option "China +86" [ref=e418]: China +86
+                    - option "Christmas Island +61" [ref=e420]: Christmas Island +61
+                    - option "Cocos (Keeling) Islands +61" [ref=e422]: Cocos (Keeling) Islands +61
+                    - option "Colombia +57" [ref=e424]: Colombia +57
+                    - option "Comoros +269" [ref=e426]: Comoros +269
+                    - option "Congo - Brazzaville +242" [ref=e428]: Congo - Brazzaville +242
+                    - option "Congo - Kinshasa +243" [ref=e430]: Congo - Kinshasa +243
+                    - option "Cook Islands +682" [ref=e432]: Cook Islands +682
+                    - option "Costa Rica +506" [ref=e434]: Costa Rica +506
+                    - option "Côte d’Ivoire +225" [ref=e436]: Côte d’Ivoire +225
+                    - option "Croatia +385" [ref=e438]: Croatia +385
+                    - option "Cuba +53" [ref=e440]: Cuba +53
+                    - option "Curaçao +599" [ref=e442]: Curaçao +599
+                    - option "Cyprus +357" [ref=e444]: Cyprus +357
+                    - option "Czechia +420" [ref=e446]: Czechia +420
+                    - option "Denmark +45" [ref=e448]: Denmark +45
+                    - option "Djibouti +253" [ref=e450]: Djibouti +253
+                    - option "Dominica +1" [ref=e452]: Dominica +1
+                    - option "Dominican Republic +1" [ref=e454]: Dominican Republic +1
+                    - option "Ecuador +593" [ref=e456]: Ecuador +593
+                    - option "Egypt +20" [ref=e458]: Egypt +20
+                    - option "El Salvador +503" [ref=e460]: El Salvador +503
+                    - option "Equatorial Guinea +240" [ref=e462]: Equatorial Guinea +240
+                    - option "Eritrea +291" [ref=e464]: Eritrea +291
+                    - option "Estonia +372" [ref=e466]: Estonia +372
+                    - option "Eswatini +268" [ref=e468]: Eswatini +268
+                    - option "Ethiopia +251" [ref=e470]: Ethiopia +251
+                    - option "Falkland Islands +500" [ref=e472]: Falkland Islands +500
+                    - option "Faroe Islands +298" [ref=e474]: Faroe Islands +298
+                    - option "Fiji +679" [ref=e476]: Fiji +679
+                    - option "Finland +358" [ref=e478]: Finland +358
+                    - option "France +33" [ref=e480]: France +33
+                    - option "French Guiana +594" [ref=e482]: French Guiana +594
+                    - option "French Polynesia +689" [ref=e484]: French Polynesia +689
+                    - option "Gabon +241" [ref=e486]: Gabon +241
+                    - option "Gambia +220" [ref=e488]: Gambia +220
+                    - option "Georgia +995" [ref=e490]: Georgia +995
+                    - option "Germany +49" [ref=e492]: Germany +49
+                    - option "Ghana +233" [ref=e494]: Ghana +233
+                    - option "Gibraltar +350" [ref=e496]: Gibraltar +350
+                    - option "Greece +30" [ref=e498]: Greece +30
+                    - option "Greenland +299" [ref=e500]: Greenland +299
+                    - option "Grenada +1" [ref=e502]: Grenada +1
+                    - option "Guadeloupe +590" [ref=e504]: Guadeloupe +590
+                    - option "Guam +1" [ref=e506]: Guam +1
+                    - option "Guatemala +502" [ref=e508]: Guatemala +502
+                    - option "Guernsey +44" [ref=e510]: Guernsey +44
+                    - option "Guinea +224" [ref=e512]: Guinea +224
+                    - option "Guinea-Bissau +245" [ref=e514]: Guinea-Bissau +245
+                    - option "Guyana +592" [ref=e516]: Guyana +592
+                    - option "Haiti +509" [ref=e518]: Haiti +509
+                    - option "Honduras +504" [ref=e520]: Honduras +504
+                    - option "Hong Kong SAR China +852" [ref=e522]: Hong Kong SAR China +852
+                    - option "Hungary +36" [ref=e524]: Hungary +36
+                    - option "Iceland +354" [ref=e526]: Iceland +354
+                    - option "India +91" [ref=e528]: India +91
+                    - option "Indonesia +62" [ref=e530]: Indonesia +62
+                    - option "Iran +98" [ref=e532]: Iran +98
+                    - option "Iraq +964" [ref=e534]: Iraq +964
+                    - option "Ireland +353" [ref=e536]: Ireland +353
+                    - option "Isle of Man +44" [ref=e538]: Isle of Man +44
+                    - option "Israel +972" [ref=e540]: Israel +972
+                    - option "Italy +39" [ref=e542]: Italy +39
+                    - option "Jamaica +1" [ref=e544]: Jamaica +1
+                    - option "Japan +81" [ref=e546]: Japan +81
+                    - option "Jersey +44" [ref=e548]: Jersey +44
+                    - option "Jordan +962" [ref=e550]: Jordan +962
+                    - option "Kazakhstan +7" [ref=e552]: Kazakhstan +7
+                    - option "Kenya +254" [ref=e554]: Kenya +254
+                    - option "Kiribati +686" [ref=e556]: Kiribati +686
+                    - option "Kosovo +383" [ref=e558]: Kosovo +383
+                    - option "Kuwait +965" [ref=e560]: Kuwait +965
+                    - option "Kyrgyzstan +996" [ref=e562]: Kyrgyzstan +996
+                    - option "Laos +856" [ref=e564]: Laos +856
+                    - option "Latvia +371" [ref=e566]: Latvia +371
+                    - option "Lebanon +961" [ref=e568]: Lebanon +961
+                    - option "Lesotho +266" [ref=e570]: Lesotho +266
+                    - option "Liberia +231" [ref=e572]: Liberia +231
+                    - option "Libya +218" [ref=e574]: Libya +218
+                    - option "Liechtenstein +423" [ref=e576]: Liechtenstein +423
+                    - option "Lithuania +370" [ref=e578]: Lithuania +370
+                    - option "Luxembourg +352" [ref=e580]: Luxembourg +352
+                    - option "Macao SAR China +853" [ref=e582]: Macao SAR China +853
+                    - option "Madagascar +261" [ref=e584]: Madagascar +261
+                    - option "Malawi +265" [ref=e586]: Malawi +265
+                    - option "Malaysia +60" [ref=e588]: Malaysia +60
+                    - option "Maldives +960" [ref=e590]: Maldives +960
+                    - option "Mali +223" [ref=e592]: Mali +223
+                    - option "Malta +356" [ref=e594]: Malta +356
+                    - option "Marshall Islands +692" [ref=e596]: Marshall Islands +692
+                    - option "Martinique +596" [ref=e598]: Martinique +596
+                    - option "Mauritania +222" [ref=e600]: Mauritania +222
+                    - option "Mauritius +230" [ref=e602]: Mauritius +230
+                    - option "Mayotte +262" [ref=e604]: Mayotte +262
+                    - option "Mexico +52" [ref=e606]: Mexico +52
+                    - option "Micronesia +691" [ref=e608]: Micronesia +691
+                    - option "Moldova +373" [ref=e610]: Moldova +373
+                    - option "Monaco +377" [ref=e612]: Monaco +377
+                    - option "Mongolia +976" [ref=e614]: Mongolia +976
+                    - option "Montenegro +382" [ref=e616]: Montenegro +382
+                    - option "Montserrat +1" [ref=e618]: Montserrat +1
+                    - option "Morocco +212" [ref=e620]: Morocco +212
+                    - option "Mozambique +258" [ref=e622]: Mozambique +258
+                    - option "Myanmar (Burma) +95" [ref=e624]: Myanmar (Burma) +95
+                    - option "Namibia +264" [ref=e626]: Namibia +264
+                    - option "Nauru +674" [ref=e628]: Nauru +674
+                    - option "Nepal +977" [ref=e630]: Nepal +977
+                    - option "Netherlands +31" [ref=e632]: Netherlands +31
+                    - option "New Caledonia +687" [ref=e634]: New Caledonia +687
+                    - option "New Zealand +64" [ref=e636]: New Zealand +64
+                    - option "Nicaragua +505" [ref=e638]: Nicaragua +505
+                    - option "Niger +227" [ref=e640]: Niger +227
+                    - option "Nigeria +234" [ref=e642]: Nigeria +234
+                    - option "Niue +683" [ref=e644]: Niue +683
+                    - option "Norfolk Island +672" [ref=e646]: Norfolk Island +672
+                    - option "North Korea +850" [ref=e648]: North Korea +850
+                    - option "North Macedonia +389" [ref=e650]: North Macedonia +389
+                    - option "Northern Mariana Islands +1" [ref=e652]: Northern Mariana Islands +1
+                    - option "Norway +47" [ref=e654]: Norway +47
+                    - option "Oman +968" [ref=e656]: Oman +968
+                    - option "Pakistan +92" [ref=e658]: Pakistan +92
+                    - option "Palau +680" [ref=e660]: Palau +680
+                    - option "Palestinian Territories +970" [ref=e662]: Palestinian Territories +970
+                    - option "Panama +507" [ref=e664]: Panama +507
+                    - option "Papua New Guinea +675" [ref=e666]: Papua New Guinea +675
+                    - option "Paraguay +595" [ref=e668]: Paraguay +595
+                    - option "Peru +51" [ref=e670]: Peru +51
+                    - option "Philippines +63" [ref=e672]: Philippines +63
+                    - option "Poland +48" [ref=e674]: Poland +48
+                    - option "Portugal +351" [ref=e676]: Portugal +351
+                    - option "Puerto Rico +1" [ref=e678]: Puerto Rico +1
+                    - option "Qatar +974" [ref=e680]: Qatar +974
+                    - option "Réunion +262" [ref=e682]: Réunion +262
+                    - option "Romania +40" [ref=e684]: Romania +40
+                    - option "Russia +7" [ref=e686]: Russia +7
+                    - option "Rwanda +250" [ref=e688]: Rwanda +250
+                    - option "Samoa +685" [ref=e690]: Samoa +685
+                    - option "San Marino +378" [ref=e692]: San Marino +378
+                    - option "São Tomé & Príncipe +239" [ref=e694]: São Tomé & Príncipe +239
+                    - option "Saudi Arabia +966" [ref=e696]: Saudi Arabia +966
+                    - option "Senegal +221" [ref=e698]: Senegal +221
+                    - option "Serbia +381" [ref=e700]: Serbia +381
+                    - option "Seychelles +248" [ref=e702]: Seychelles +248
+                    - option "Sierra Leone +232" [ref=e704]: Sierra Leone +232
+                    - option "Singapore +65" [ref=e706]: Singapore +65
+                    - option "Sint Maarten +1" [ref=e708]: Sint Maarten +1
+                    - option "Slovakia +421" [ref=e710]: Slovakia +421
+                    - option "Slovenia +386" [ref=e712]: Slovenia +386
+                    - option "Solomon Islands +677" [ref=e714]: Solomon Islands +677
+                    - option "Somalia +252" [ref=e716]: Somalia +252
+                    - option "South Africa +27" [ref=e718]: South Africa +27
+                    - option "South Korea +82" [ref=e720]: South Korea +82
+                    - option "South Sudan +211" [ref=e722]: South Sudan +211
+                    - option "Spain +34" [ref=e724]: Spain +34
+                    - option "Sri Lanka +94" [ref=e726]: Sri Lanka +94
+                    - option "St. Barthélemy +590" [ref=e728]: St. Barthélemy +590
+                    - option "St. Helena +290" [ref=e730]: St. Helena +290
+                    - option "St. Kitts & Nevis +1" [ref=e732]: St. Kitts & Nevis +1
+                    - option "St. Lucia +1" [ref=e734]: St. Lucia +1
+                    - option "St. Martin +590" [ref=e736]: St. Martin +590
+                    - option "St. Pierre & Miquelon +508" [ref=e738]: St. Pierre & Miquelon +508
+                    - option "St. Vincent & Grenadines +1" [ref=e740]: St. Vincent & Grenadines +1
+                    - option "Sudan +249" [ref=e742]: Sudan +249
+                    - option "Suriname +597" [ref=e744]: Suriname +597
+                    - option "Svalbard & Jan Mayen +47" [ref=e746]: Svalbard & Jan Mayen +47
+                    - option "Sweden +46" [ref=e748]: Sweden +46
+                    - option "Switzerland +41" [ref=e750]: Switzerland +41
+                    - option "Syria +963" [ref=e752]: Syria +963
+                    - option "Taiwan +886" [ref=e754]: Taiwan +886
+                    - option "Tajikistan +992" [ref=e756]: Tajikistan +992
+                    - option "Tanzania +255" [ref=e758]: Tanzania +255
+                    - option "Thailand +66" [ref=e760]: Thailand +66
+                    - option "Timor-Leste +670" [ref=e762]: Timor-Leste +670
+                    - option "Togo +228" [ref=e764]: Togo +228
+                    - option "Tokelau +690" [ref=e766]: Tokelau +690
+                    - option "Tonga +676" [ref=e768]: Tonga +676
+                    - option "Trinidad & Tobago +1" [ref=e770]: Trinidad & Tobago +1
+                    - option "Tunisia +216" [ref=e772]: Tunisia +216
+                    - option "Turkey +90" [ref=e774]: Turkey +90
+                    - option "Turkmenistan +993" [ref=e776]: Turkmenistan +993
+                    - option "Turks & Caicos Islands +1" [ref=e778]: Turks & Caicos Islands +1
+                    - option "Tuvalu +688" [ref=e780]: Tuvalu +688
+                    - option "U.S. Virgin Islands +1" [ref=e782]: U.S. Virgin Islands +1
+                    - option "Uganda +256" [ref=e784]: Uganda +256
+                    - option "Ukraine +380" [ref=e786]: Ukraine +380
+                    - option "United Arab Emirates +971" [ref=e788]: United Arab Emirates +971
+                    - option "United Kingdom +44" [ref=e790]: United Kingdom +44
+                    - option "Uruguay +598" [ref=e792]: Uruguay +598
+                    - option "Uzbekistan +998" [ref=e794]: Uzbekistan +998
+                    - option "Vanuatu +678" [ref=e796]: Vanuatu +678
+                    - option "Vatican City +39" [ref=e798]: Vatican City +39
+                    - option "Venezuela +58" [ref=e800]: Venezuela +58
+                    - option "Vietnam +84" [ref=e802]: Vietnam +84
+                    - option "Wallis & Futuna +681" [ref=e804]: Wallis & Futuna +681
+                    - option "Western Sahara +212" [ref=e806]: Western Sahara +212
+                    - option "Yemen +967" [ref=e808]: Yemen +967
+                    - option "Zambia +260" [ref=e810]: Zambia +260
+                    - option "Zimbabwe +263" [ref=e812]: Zimbabwe +263
+                  - textbox
+              - generic [ref=e213]:
+                - generic [ref=e214]: Phone*
+                - textbox "Phone" [ref=e216]: "5105937215"
+            - generic [ref=e217]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: Location (City)*
+                - generic [ref=e221]:
+                  - log [ref=e223]
+                  - combobox "Location (City)" [ref=e228]
+                  - textbox
+              - button "Locate me" [ref=e229] [cursor=pointer]
+            - group "Resume/CV*" [ref=e231]:
+              - generic [ref=e232]: Resume/CV*
+              - generic [ref=e234]:
+                - generic [ref=e236]:
+                  - button "Attach" [ref=e237] [cursor=pointer]
+                  - generic [ref=e238]: Attach
+                  - button "Attach" [ref=e239]
+                - button "Dropbox" [ref=e241] [cursor=pointer]
+                - button "Google Drive" [ref=e243] [cursor=pointer]
+                - generic [ref=e245]:
+                  - button "Enter manually" [ref=e246] [cursor=pointer]
+                  - generic [ref=e247]: Enter manually
+                - paragraph [ref=e248]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e250]:
+              - generic [ref=e251]: Cover Letter
+              - generic [ref=e253]:
+                - generic [ref=e255]:
+                  - button "Attach" [ref=e256] [cursor=pointer]
+                  - generic [ref=e257]: Attach
+                  - button "Attach" [ref=e258]
+                - button "Dropbox" [ref=e260] [cursor=pointer]
+                - button "Google Drive" [ref=e262] [cursor=pointer]
+                - generic [ref=e264]:
+                  - button "Enter manually" [ref=e265] [cursor=pointer]
+                  - generic [ref=e266]: Enter manually
+                - paragraph [ref=e267]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e268]:
+            - separator [ref=e269]
+            - generic [ref=e272]:
+              - generic [ref=e273]: Are you eligible to work in the country you have applied to?*
+              - generic [ref=e274]:
+                - log [ref=e276]
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: Select...
+                    - combobox "Are you eligible to work in the country you have applied to?" [ref=e282]
+                  - button "Toggle flyout" [ref=e284] [cursor=pointer]:
+                    - img [ref=e285]
+                - textbox
+            - generic [ref=e289]:
+              - generic [ref=e290]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e291]: https://linkedin.com/in/arikyle
+            - generic [ref=e294]:
+              - generic [ref=e295]: Website
+              - textbox "Website" [ref=e296]
+          - button "Submit application" [ref=e298] [cursor=pointer]
+  - contentinfo [ref=e299]:
+    - generic [ref=e300]:
+      - paragraph [ref=e301]: Powered by
+      - link "Greenhouse logo" [ref=e302] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e303]
+  - iframe [ref=e317]:
+    - generic [ref=f3e6]:
+      - text: protected by
+      - strong [ref=f3e7]: reCAPTCHA
