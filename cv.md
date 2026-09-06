@@ -8,28 +8,28 @@ Product and partnerships leader with 10+ years of experience building and scalin
 
 ## Experience
 
-### i2o Retail — VP of Strategic Partnerships
+### i2o Retail - VP of Strategic Partnerships
 **Santa Monica, CA | Jan 2025 – Present**
 
-- Joined as first partnerships hire; expanded scope to own full GTM across partnerships, enterprise sales, product GTM, and go-to-market strategy. Led repositioning of i2o from a brand protection monitoring tool to a full-stack revenue and brand equity intelligence platform — solving the 3P problem (authorized and unauthorized sellers driving price erosion and marketplace inefficiency), breaking silos between ops, sales, marketing, and media to expose interconnected brand risk, and building Argus as the agentic AI layer that recommends the next action, not just the next insight.
+- Joined as first partnerships hire; expanded scope to own full GTM across partnerships, enterprise sales, product GTM, and go-to-market strategy. Led repositioning of i2o from a brand protection monitoring tool to a full-stack revenue and brand equity intelligence platform - solving the 3P problem (authorized and unauthorized sellers driving price erosion and marketplace inefficiency), breaking silos between ops, sales, marketing, and media to expose interconnected brand risk, and building Argus as the agentic AI layer that recommends the next action, not just the next insight.
 - Built the partnerships function from zero: partner archetypes, onboarding frameworks, enablement, incentives, and partner-influenced revenue tracking.
-- Signed Mars Snacking at ~$240K ARR; managing the account toward a significant upsell. Driving toward Reckitt as i2o's first $1M ARR client — supporting their full OMNI analytics and data strategy and co-building proprietary data infrastructure with their team.
+- Signed Mars Snacking at ~$240K ARR; managing the account toward a significant upsell. Driving toward Reckitt as i2o's first $1M ARR client - supporting their full OMNI analytics and data strategy and co-building proprietary data infrastructure with their team.
 - Closed $500K+ in new ARR across enterprise accounts including Nestlé, Mars, Speedo, Jabra, Owl Labs, and VacuVin.
-- Spearheaded the development of i2o's zip code-level price tracking product, originating from a Nestlé engagement to understand how Amazon and Walmart execute regional price optimization and competitive response. The product now powers strategic pricing intelligence for 20+ Fortune 50 CPG brands including Reckitt, Mars, Unilever, L'Oréal, and Nestlé — arming them with the data evidence to understand how large retail platforms operate and respond in real time.
+- Spearheaded the development of i2o's zip code-level price tracking product, originating from a Nestlé engagement to understand how Amazon and Walmart execute regional price optimization and competitive response. The product now powers strategic pricing intelligence for 20+ Fortune 50 CPG brands including Reckitt, Mars, Unilever, L'Oréal, and Nestlé - arming them with the data evidence to understand how large retail platforms operate and respond in real time.
 - Built $350K+ MRR pipeline; on pace to exceed annual new-business target in 2026.
-- Designed the Retail Media Risk Index (RMRI™), an original industry benchmark scoring brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Led all GTM — thesis, scoring model (v1 + v2), white paper, website redesign, sales enablement. Launching mid-October 2026.
+- Designed the Retail Media Risk Index (RMRI™), an original industry benchmark scoring brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Led all GTM - thesis, scoring model (v1 + v2), white paper, website redesign, sales enablement. Launching mid-October 2026.
 - Partnered with Product and Engineering to define data contracts, shape platform roadmap, and prioritize integrations. Leading upcoming Snowflake and Databricks integration strategy.
 - Driving go-to-market for Argus, i2o's native AI intelligence layer, launching early October 2026.
 - Developed partner-led distribution strategy to drive adoption of i2o's data and intelligence platform across enterprise and mid-market CPG brands.
 
-### Venture & Product Leadership — Founder / Operator
+### Venture & Product Leadership - Founder / Operator
 **2019 – Present**
 
 **Koqi / RealiFi Realty (PropTech / AI Platform / Real Estate Brokerage)**
 - Founded and led product strategy for an AI-driven real estate platform focused on crowdsourced property valuation, agent matching, transaction intelligence, and CRM automation.
 - Architected multi-tenant platform with explainable scoring models, adaptive search, and workflow automation for agents and brokerages.
 - First-named inventor on two utility patent filings (filed pro se), including one allowed by the USPTO and one pending.
-- Co-founded and scaled RealiFi Realty, a licensed California real estate brokerage, to seven-figure annual gross commission revenue with ~30 agents — validating the platform's economics and go-to-market model as an owner-operator (not an agent).
+- Co-founded and scaled RealiFi Realty, a licensed California real estate brokerage, to seven-figure annual gross commission revenue with ~30 agents - validating the platform's economics and go-to-market model as an owner-operator (not an agent).
 - Secured early external funding and a competitive grant from the Hedera (HBAR) Foundation.
 
 **Skyra Labs (Aviation SaaS / Enterprise Software)**
@@ -61,7 +61,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 - Enhanced market presence and partner retention through scalable onboarding and value proposition programs.
 - Developed compelling pitch materials and increased partner engagement, driving significant pipeline growth.
 
-### Profitero (Acquired by Publicis Groupe) — Director of Partnerships
+### Profitero (Acquired by Publicis Groupe) - Director of Partnerships
 **Santa Monica, CA | Nov 2020 – Apr 2023**
 
 - Built and scaled a value-added reseller program targeting Amazon specialty agencies, generating ~$400K ARR with a $3M+ pipeline in the first year.
@@ -71,7 +71,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 - Built Salesforce-based lead tracking and attribution to resolve channel conflicts and improve partner sales efficiency.
 - Partnered with marketing on co-branded webinars and podcasts, growing partner engagement and lead generation.
 
-### Amobee / Turn (acquired by Amobee/Singtel) — Partner Ops Coordinator → Sr. Business Development Manager
+### Amobee / Turn (acquired by Amobee/Singtel) - Partner Ops Coordinator → Sr. Business Development Manager
 **Santa Monica, CA | Aug 2015 – Oct 2020**
 
 - Ran the global launch of Audio, Connected TV, and Digital Out-of-Home advertising channels, including partner onboarding, contract negotiation, and sales training.
@@ -81,7 +81,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 - Built analytics dashboards to support data-driven investment decisions across the business development team.
 - Worked across Product, Engineering, Sales, and Marketing to maintain integration health and onboard new partners.
 
-### Google — Partner Operations Coordinator (Contract)
+### Google - Partner Operations Coordinator (Contract)
 **Los Angeles, CA | Aug 2014 – Aug 2015**
 
 - Managed global operations for 300+ film and television studio partners across YouTube and Google Play Store: content delivery, metadata accuracy, and partner compliance.
@@ -90,7 +90,7 @@ Product and partnerships leader with 10+ years of experience building and scalin
 
 ## Education
 
-**University of California, San Diego** — B.A., Interdisciplinary Computing and the Arts (ICAM) | Sep 2007 – Jun 2011
+**University of California, San Diego** - B.A., Interdisciplinary Computing and the Arts (ICAM) | Sep 2007 – Jun 2011
 
 ## Additional
 
