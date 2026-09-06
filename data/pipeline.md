@@ -103,7 +103,7 @@
 - [ ] https://job-boards.greenhouse.io/interfaceai/jobs/4589893006 | interface.ai | VP of Partnerships
 - [ ] https://jobs.ashbyhq.com/openai/c779c474-b4c0-4b88-a9d1-9371c5a575c8/application | OpenAI | Head of EMEA Product Partnerships
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5215052008 | Anthropic | Amazon GTM Partnership, Startups
-- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390022008 | Anthropic | Strategic Partner Development, Data & Product Partnerships - Beneficial Deployments
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5390022008 | Anthropic | Strategic Partner Development, Data & Product Partnerships - Beneficial Deployments
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391184008 | Anthropic | AWS GTM Partnership Lead, Global System Integrators
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5300430008 | Anthropic | Applied AI Architect, Partnerships
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139423008 | Anthropic | GTM Strategy & Operations, Enterprise Business Partner
