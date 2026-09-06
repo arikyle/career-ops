@@ -68,11 +68,11 @@ compensation:
   target_range: "$300K+"
   currency: "USD"
   minimum: "$180K base"
-  location_flexibility: "LA or SF based, open to hybrid/remote"
+  location_flexibility: "LA based, open to relocation for the right role (confirmed: SF Bay Area, NYC)"
 
 location:
   country: "United States"
   city: "Santa Monica"
   timezone: "PST"
   visa_status: "No sponsorship needed"
-  willing_to_relocate: "SF Bay Area only"
+  willing_to_relocate: "Open to relocation for the right role (confirmed: SF Bay Area, NYC)"
