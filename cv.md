@@ -11,10 +11,11 @@ Product and partnerships leader with 10+ years of experience building and scalin
 ### i2o Retail — VP of Strategic Partnerships
 **Santa Monica, CA | Jan 2025 – Present**
 
-- First partnerships hire; scope expanded to own full GTM across the company including partnerships, enterprise sales, product GTM, and go-to-market strategy.
+- Joined as first partnerships hire; expanded scope to own full GTM across partnerships, enterprise sales, product GTM, and go-to-market strategy. Led repositioning of i2o from a brand protection monitoring tool to a full-stack revenue and brand equity intelligence platform — solving the 3P problem (authorized and unauthorized sellers driving price erosion and marketplace inefficiency), breaking silos between ops, sales, marketing, and media to expose interconnected brand risk, and building Argus as the agentic AI layer that recommends the next action, not just the next insight.
 - Built the partnerships function from zero: partner archetypes, onboarding frameworks, enablement, incentives, and partner-influenced revenue tracking.
 - Signed Mars Snacking at ~$240K ARR; managing the account toward a significant upsell. Driving toward Reckitt as i2o's first $1M ARR client — supporting their full OMNI analytics and data strategy and co-building proprietary data infrastructure with their team.
-- Closed $500K+ in new ARR across enterprise accounts including Nestlé, Mars, Speedo, Jabra, Owl Labs, and VacuVin. Launched first-ever zip-code-level pricing intelligence product with Nestlé ($15K/mo).
+- Closed $500K+ in new ARR across enterprise accounts including Nestlé, Mars, Speedo, Jabra, Owl Labs, and VacuVin.
+- Spearheaded the development of i2o's zip code-level price tracking product, originating from a Nestlé engagement to understand how Amazon and Walmart execute regional price optimization and competitive response. The product now powers strategic pricing intelligence for 20+ Fortune 50 CPG brands including Reckitt, Mars, Unilever, L'Oréal, and Nestlé — arming them with the data evidence to understand how large retail platforms operate and respond in real time.
 - Built $350K+ MRR pipeline; on pace to exceed annual new-business target in 2026.
 - Designed the Retail Media Risk Index (RMRI™), an original industry benchmark scoring brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Led all GTM — thesis, scoring model (v1 + v2), white paper, website redesign, sales enablement. Launching mid-October 2026.
 - Partnered with Product and Engineering to define data contracts, shape platform roadmap, and prioritize integrations. Leading upcoming Snowflake and Databricks integration strategy.
