@@ -11,16 +11,15 @@ Product and partnerships leader with 10+ years of experience building and scalin
 ### i2o Retail — VP of Strategic Partnerships
 **Santa Monica, CA | Jan 2025 – Present**
 
-- First partnerships hire responsible for designing and executing i2o's partner strategy across agencies, platforms, and technology ecosystem partners.
-- Built the partnerships function from zero, including partner archetypes, onboarding frameworks, enablement, incentives, and partner-influenced revenue tracking.
-- Created the Retail Media Risk Index (RMRI™), an original industry benchmark that scores brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Authored the thesis, designed scoring models (v1 and v2), and led go-to-market strategy including website redesign, white paper, and sales enablement materials.
-- Closed ~$500K in new ARR across enterprise accounts including Nestlé, Speedo, Jabra, Owl Labs, and VacuVin. Launched first-ever zip-code-level pricing product with Nestlé ($15K/mo).
-- Generated $350K+ in MRR pipeline; on pace to exceed annual new-business target in 2026.
-- Led platform and API integrations with leading retail media and analytics platforms (e.g., Skai, Pacvue), enabling real-time data flows to inform media optimization and marketplace decisioning.
-- Partnered closely with Product and Engineering to prioritize integrations, define data contracts, and ensure scalable, repeatable partner implementations.
-- Developed partner-led distribution strategy to drive adoption of i2o's data and intelligence platform, increasing product stickiness and expansion across enterprise and mid-market customers.
-- Expanded role to include growth and product strategy, collaborating with leadership on roadmap prioritization, positioning, and the launch of new industry benchmark products leveraging proprietary data signals.
-- Led strategic enterprise deals with global brands (Nestlé, Panasonic, Speedo, Reckitt), supporting complex data, reporting, and platform integration requirements.
+- First partnerships hire; scope expanded to own full GTM across the company including partnerships, enterprise sales, product GTM, and go-to-market strategy.
+- Built the partnerships function from zero: partner archetypes, onboarding frameworks, enablement, incentives, and partner-influenced revenue tracking.
+- Signed Mars Snacking at ~$240K ARR; managing the account toward a significant upsell. Driving toward Reckitt as i2o's first $1M ARR client — supporting their full OMNI analytics and data strategy and co-building proprietary data infrastructure with their team.
+- Closed $500K+ in new ARR across enterprise accounts including Nestlé, Mars, Speedo, Jabra, Owl Labs, and VacuVin. Launched first-ever zip-code-level pricing intelligence product with Nestlé ($15K/mo).
+- Built $350K+ MRR pipeline; on pace to exceed annual new-business target in 2026.
+- Designed the Retail Media Risk Index (RMRI™), an original industry benchmark scoring brand risk across Buy Box integrity, search hijacking, price compression, and catalog pollution. Led all GTM — thesis, scoring model (v1 + v2), white paper, website redesign, sales enablement. Launching mid-October 2026.
+- Partnered with Product and Engineering to define data contracts, shape platform roadmap, and prioritize integrations. Leading upcoming Snowflake and Databricks integration strategy.
+- Driving go-to-market for Argus, i2o's native AI intelligence layer, launching early October 2026.
+- Developed partner-led distribution strategy to drive adoption of i2o's data and intelligence platform across enterprise and mid-market CPG brands.
 
 ### Venture & Product Leadership — Founder / Operator
 **2019 – Present**
