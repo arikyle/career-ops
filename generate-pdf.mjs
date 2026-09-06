@@ -13,9 +13,20 @@
 import { chromium } from 'playwright';
 import { resolve, dirname } from 'path';
 import { readFile } from 'fs/promises';
+import { readdirSync } from 'fs';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+
+function findChromiumExecutable() {
+  const base = process.env.PLAYWRIGHT_BROWSERS_PATH;
+  if (!base) return undefined;
+  try {
+    const dir = readdirSync(base).find(d => d.startsWith('chromium-'));
+    if (dir) return `${base}/${dir}/chrome-linux/chrome`;
+  } catch {}
+  return undefined;
+}
 
 async function generatePDF() {
   const args = process.argv.slice(2);
@@ -67,7 +78,10 @@ async function generatePDF() {
     `file://$1.woff2')`
   );
 
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({
+    headless: true,
+    executablePath: findChromiumExecutable(),
+  });
   const page = await browser.newPage();
 
   // Set content with file base URL for any relative resources
