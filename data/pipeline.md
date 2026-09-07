@@ -113,3 +113,45 @@
 - [ ] https://jobs.ashbyhq.com/blp-digital/3aafb6cf-35fc-4b53-83a9-4a5612eaf2b3 | BLP Digital AG | Head of Partnerships
 - [ ] https://jobs.ashbyhq.com/mimica/87425be0-a592-4ce2-9d5a-9f045cbb4d66 | Mimica | Head of Partnerships
 - [ ] https://jobs.ashbyhq.com/revin/eb46f295-d3b9-41f9-aab3-2da914a8a806 | Revin | Head of Partnerships
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4921998008 | Anthropic | GTM Strategy & Operations - Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4741210008 | Anthropic | Cloud GTM Partnerships, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391180008 | Anthropic | Amazon GTM Partnerships, Enterprise
+- [ ] https://jobs.ashbyhq.com/openai/6fa49e2b-6ec1-4bae-a2d9-26a355ec3ba2/application | OpenAI | Head of GTM Partnerships, EMEA
+- [ ] https://jobs.ashbyhq.com/openai/a51b521c-d3bf-4653-99c6-c9152827cfb8/application | OpenAI | Partner Director, HCL, Wipro & Cognizant
+- [ ] https://jobs.ashbyhq.com/openai/72412238-6d1c-4f3a-9330-673241be86ea | OpenAI | VC Partnerships Lead, APAC
+- [ ] https://jobs.ashbyhq.com/openai/2d5a5de9-abfe-464b-a5f4-7855f106d184/application | OpenAI | Partner Director GSIs - Cognizant and Infosys
+- [ ] https://jobs.ashbyhq.com/openai/bd3a367f-aa91-4b6f-b74e-451fb7fc3151 | OpenAI | GTM Strategy & Planning Manager
+- [ ] https://jobs.ashbyhq.com/openai/d254ffa5-2425-4c66-a76f-bc9dfee31617/application | OpenAI | Partner Director - AWS Alliance Partnership, APAC
+- [ ] https://jobs.ashbyhq.com/openai/2757e54a-1b24-4569-aa3b-e3242c110737/ | OpenAI | Partner Director, Global McKinsey Alliance
+- [ ] https://jobs.ashbyhq.com/openai/3a58c6d5-b7b4-4715-9b64-6dc53decc442/application | OpenAI | Partner Director, India
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4856054101 | Parloa | Principal Partnerships Manager France
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4715997005 | Glean | Director, Partner Marketing
+- [ ] https://job-boards.greenhouse.io/upbound/jobs/5678055004 | Upbound | Head of Alliances and Partnerships
+- [ ] https://job-boards.greenhouse.io/mozillaai/jobs/5162007007 | Mozilla.ai | Head of GTM
+- [ ] https://job-boards.greenhouse.io/soci/jobs/5988036004 | SOCi | Senior Director, GTM Strategy and Marketing Operations
+- [ ] https://job-boards.greenhouse.io/tekmetric/jobs/6016060004 | Tekmetric | Senior Director, GTM Operations & Strategy
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4716939005 | Flex | Senior Director, GTM Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/7993177 | Trace3 | VP, GTM Strategy & Operations
+- [ ] https://jobs.lever.co/foodsmart/1b80764d-30c5-4fee-8c1b-549593bab7fa | Foodsmart | VP, Partnerships
+- [ ] https://jobs.lever.co/Prysm/71489617-9941-4786-9b4c-3729543f537a | Prysm | Head of Partnerships, Startups
+- [ ] https://jobs.lever.co/employ/201a7195-3d67-4abe-87c5-11ffa180da81 | Employ | Director of Partnerships
+- [ ] https://jobs.lever.co/gouconnect/2d809947-f071-4d20-ae0f-ad0d5aab2f40 | uConnect | VP of Product and Partnerships
+- [ ] https://jobs.lever.co/januaryinc/13d98ce8-e0a9-415d-95a9-9195d2b25acb | January | Head of Partnerships
+- [ ] https://jobs.lever.co/quandri/26c82f71-2c0c-4961-851b-0ab19e0b6630 | Quandri | Director of Partnerships
+- [ ] https://jobs.lever.co/subsense/8e594f3a-8161-4b82-81cb-ef1388440170 | Subsense | Head of Partnerships
+- [ ] https://jobs.lever.co/Sprinto/0c1dd527-2960-4377-96f9-353309cf6b85 | Sprinto | Director - Partnerships
+- [ ] https://jobs.lever.co/walkme/241db490-3bd9-43ff-bd95-8998701e3b90 | WalkMe | VP Alliances & Channels (EMEA)
+- [ ] https://jobs.lever.co/simplybusiness/d7022ae4-fc68-4ab1-9fd6-ea37ab0051dd | Simply Business | Director of Go-to-Market (GTM)
+- [ ] https://jobs.lever.co/useinsider/8ca27a96-80a5-4b2e-8c0c-361b3e7a9a18 | Insider | VP of Go To Market Strategy
+- [ ] https://jobs.lever.co/regalvoice/8e1631c0-e1f7-43ee-89c4-e2affa78c36f | Regal | Director, Go-To-Market (GTM)
+- [ ] https://jobs.lever.co/mendix/179a537f-7977-4e70-9f97-c9ec9af4bbf5 | Mendix | Head of GTM Technology & Growth Operations - Americas
+- [ ] https://jobs.lever.co/talend/91ba3691-edf7-467b-a8db-a3859bd62e81 | Talend | Head of SMB Go-to-Market
+- [ ] https://jobs.ashbyhq.com/workwhilejobs/d55cd897-f998-407b-a5c3-8104eec4839c | WorkWhile | Head of GTM Strategy and Ops
+- [ ] https://jobs.ashbyhq.com/ivo-ai-inc/0cb161e1-849d-483e-814c-7efa2b15f635 | Ivo AI | Director, GTM Tech and Automation
+- [ ] https://jobs.ashbyhq.com/ema/90fa113d-c453-4415-ab25-1ca3099d0610 | Ema | Head of Partnerships & Alliances, North America
+- [ ] https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf | Cognition | Head of Partnerships - Japan
+- [ ] https://jobs.ashbyhq.com/pebl/43ef3e35-79e6-41ed-bf84-41328d4bd063 | Pebl | Head of Worldwide Partnerships
+- [ ] https://jobs.ashbyhq.com/gc-ai/b159e267-7cef-4f0e-8f09-33e3d9c53be6 | GC AI | Director of Product Partnerships
+- [ ] https://jobs.ashbyhq.com/rohlik/2e37ab66-697f-45d3-96b5-f4ae367e5caf | Rohlik | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/NorthwoodSpace/8e45a5fa-5005-4041-8bb0-18ba2cc250a3 | Northwood Space | Head of Partnerships
