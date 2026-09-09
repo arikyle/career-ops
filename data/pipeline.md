@@ -155,3 +155,16 @@
 - [ ] https://jobs.ashbyhq.com/gc-ai/b159e267-7cef-4f0e-8f09-33e3d9c53be6 | GC AI | Director of Product Partnerships
 - [ ] https://jobs.ashbyhq.com/rohlik/2e37ab66-697f-45d3-96b5-f4ae367e5caf | Rohlik | Head of Partnerships
 - [ ] https://jobs.ashbyhq.com/NorthwoodSpace/8e45a5fa-5005-4041-8bb0-18ba2cc250a3 | Northwood Space | Head of Partnerships
+
+- [ ] https://jobs.ashbyhq.com/color-health/aa27847c-9f8f-43ce-a027-7c4909b44105 | Color Health | Vice President, Strategic Partnerships
+- [ ] https://jobs.lever.co/secureframe/89f79a98-cc12-4f57-bc5f-55607c5e8e44 | Secureframe | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/bswift/jobs/4670600006 | bswift | VP, Product Marketing and GTM
+- [ ] https://job-boards.greenhouse.io/wrike/jobs/4725602005 | Wrike | Director, Global GTM Strategy & Operations
+- [ ] https://jobs.ashbyhq.com/openai/e6e8d9bc-9cf4-4408-b8c9-6a6a62d761c9 | OpenAI | Partner Director, SMB Partnerships
+- [ ] https://jobs.ashbyhq.com/openai/69f6c63c-ab4a-4a4b-8b99-e0e1fe488fa1 | OpenAI | Partner Director, Head of Technology Partnerships
+- [ ] https://jobs.ashbyhq.com/openai/ca7b3ef5-19f5-44c5-9a74-1415327ddc94/application | OpenAI | Partner Director, Global BCG Alliance
+- [ ] https://jobs.ashbyhq.com/openai/2d12be43-5d42-4319-a777-52fcab653b55 | OpenAI | Partner Director, AWS Alliances
+- [ ] https://jobs.ashbyhq.com/openai/90cf64cc-4276-433f-bdf0-7cf69309bbd2 | OpenAI | Partner Director, PwC
+- [ ] https://jobs.ashbyhq.com/openai/dbd6b389-ec4f-4330-a54a-8f794ba643bc/application | OpenAI | Partner Director, SI Partnerships
+- [ ] https://jobs.ashbyhq.com/openai/9ea666f7-9b16-481f-a16d-f533d45ca795/application | OpenAI | Partner Director, AWS Alliance Partnership, Japan
+- [ ] https://careers.abbvie.com/en/job/director-of-ai-external-innovation-and-partnerships-in-san-francisco-ca-jid-13031 | AbbVie | Director of AI External Innovation and Partnerships
