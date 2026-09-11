@@ -168,3 +168,16 @@
 - [ ] https://jobs.ashbyhq.com/openai/dbd6b389-ec4f-4330-a54a-8f794ba643bc/application | OpenAI | Partner Director, SI Partnerships
 - [ ] https://jobs.ashbyhq.com/openai/9ea666f7-9b16-481f-a16d-f533d45ca795/application | OpenAI | Partner Director, AWS Alliance Partnership, Japan
 - [ ] https://careers.abbvie.com/en/job/director-of-ai-external-innovation-and-partnerships-in-san-francisco-ca-jid-13031 | AbbVie | Director of AI External Innovation and Partnerships
+- [ ] https://jobs.ashbyhq.com/withpulley/dc633912-e23d-4d7c-b3bb-3d13a5dc7d98 | Pulley | Head of Business Development and Partnerships
+- [ ] https://job-boards.greenhouse.io/forwardnetworks/jobs/7770301003 | Forward Networks | VP - Strategic Partnerships & Channel Sales
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7932255003 | LaunchDarkly | VP, Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/later/jobs/8377485002 | Later | SVP Partnerships
+- [ ] https://job-boards.greenhouse.io/later/jobs/8501147002 | Later | Sr Director of Partnerships
+- [ ] https://jobs.ashbyhq.com/cryptio/281ef97f-6469-47b9-9981-86c1a71e5ae4 | Cryptio | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/scan-com/cb7007ae-d7c4-4d45-ba70-6333fc162370 | Scan.com | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/lemlist/23991f15-84a5-4085-b3f0-3710fc713048 | lemlist | Claap Partnership Manager
+- [ ] https://job-boards.greenhouse.io/indexindustries/jobs/4691376006 | Index Industries | Head of Business Development (Capital Raising)
+- [ ] https://job-boards.greenhouse.io/mergeworld/jobs/6785726 | Merge World | VP, Business Development - Platforms
+- [ ] https://job-boards.greenhouse.io/mergeworld/jobs/6785695 | Merge World | VP, Business Development - Platforms
+- [ ] https://job-boards.greenhouse.io/mergeworld/jobs/6772366 | Merge World | VP, Business Development - Platforms
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/6217210003 | Globalization Partners | Director, Product Led Growth Marketing
