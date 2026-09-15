@@ -191,3 +191,30 @@
 - [ ] https://jobs.lever.co/pigment/7846bb0b-f843-4e64-9637-2994548062db | Pigment | Global Alliance Director - GSIs USA
 - [ ] https://jobs.lever.co/pigment/b0658ac6-6e89-4490-af75-af7295624a13 | Pigment | Global Alliance Director - GSIs (EMEA)
 - [ ] https://jobs.lever.co/captivateiq/b41d5832-d185-4d14-b2e7-afba049222a4 | CaptivateIQ | Strategic Technology Partnerships Manager
+
+- [ ] https://jobs.lever.co/sitetracker/791913ce-7555-4bf1-99c6-79a4945b2534 | Sitetracker | Head of Partnerships - APAC
+- [ ] https://jobs.lever.co/vrchat/95bbe331-59bc-4a57-9b38-aecbb3da3e45 | VRChat | Head of Business Development
+- [ ] https://jobs.lever.co/jobgether/dc263ac1-659c-4924-a192-8a71dfdeb2e6 | Jobgether | Head of Business Development - Logos
+- [ ] https://jobs.lever.co/certifyos/89f692fc-5a13-43a0-93a7-5f837955e549 | Certify | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/ians/jobs/5181385007 | IANS | Head of Enterprise GTM, MCP
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7932255003 | LaunchDarkly | VP, Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/kodiak/jobs/4208454009 | Kodiak | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/velora/jobs/4296070009 | Velora | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/indexindustries/jobs/4696883006 | Index Industries | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/mergeworld/jobs/6807807 | MERGE | VP, Business Development - Platforms
+- [ ] https://job-boards.greenhouse.io/mergeworld/jobs/7961607 | MERGE | SVP, Business Development
+- [ ] https://job-boards.greenhouse.io/headoutcareers/jobs/4572267006 | Headout | Director Partnerships
+- [ ] https://job-boards.greenhouse.io/ada18/jobs/4976543007 | Ada | VP, Partnerships
+- [ ] https://job-boards.greenhouse.io/verygoodventures/jobs/4639260006 | Very Good Ventures | Head of Partnerships & Ecosystem Development
+- [ ] https://jobs.ashbyhq.com/flagright.com/110a2849-d50a-4ad6-9d89-62113a32034a | Flagright | Head of Partnerships - New York
+- [ ] https://jobs.ashbyhq.com/fundwell/0c1850aa-444f-4785-bd1f-4bb3bd01ae53 | Fundwell | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/outersignal/ce79b03e-0027-4b80-81b4-0ae74bcb19a8 | OuterSignal | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/thought-machine/caa35dc6-f5da-4d32-a8cc-be6a7bc4964c | Thought Machine | Global Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/commercetools/jobs/7667408003 | commercetools | Director Product - Ecosystem
+- [ ] https://job-boards.greenhouse.io/braze/jobs/7397620 | Braze | Director, AI Partner Solutions
+- [ ] https://job-boards.greenhouse.io/accuweather/jobs/7822253 | AccuWeather | Vice President, AI Business Development & Partnerships
+- [ ] https://job-boards.greenhouse.io/armada/jobs/5253165008 | Armada | Director, AI Capacity Partnerships, North America
+- [ ] https://job-boards.greenhouse.io/smartbear/jobs/7545069003 | SmartBear | Vice President of AI Ecosystem Partnerships
+- [ ] https://job-boards.greenhouse.io/pingcap/jobs/4324942009 | TiDB (PingCAP) | Director, AI Ecosystem Partnerships
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5070723007 | Temporal Technologies | Manager, Americas Partner GTM
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5192196007 | Fleetio | Director, Product Marketing, GTM Strategy
