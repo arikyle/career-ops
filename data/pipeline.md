@@ -218,3 +218,19 @@
 - [ ] https://job-boards.greenhouse.io/pingcap/jobs/4324942009 | TiDB (PingCAP) | Director, AI Ecosystem Partnerships
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5070723007 | Temporal Technologies | Manager, Americas Partner GTM
 - [ ] https://job-boards.greenhouse.io/fleetio/jobs/5192196007 | Fleetio | Director, Product Marketing, GTM Strategy
+
+- [ ] https://job-boards.greenhouse.io/sonymusic/jobs/7421529002 | Sony Music | VP Partnerships & Acquisitions-AWAL
+- [ ] https://job-boards.greenhouse.io/halcyon/jobs/5802354004 | Halcyon | VP, GTM Operations & Strategy
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4383331009 | StackAdapt | Partner Manager, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/2u/jobs/8577102002 | 2U | VP, Academic Innovation and Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4681915005 | Flex | Vice President, Business Development & Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/banyansoftware/jobs/5153334007 | Banyan Software | Vice President, Product Strategy & Strategic Partnerships
+- [ ] https://jobs.lever.co/prestashop/f6feae53-c880-4e14-b9d4-9ed7fde74628 | PrestaShop | Head of Partnerships - Americas
+- [ ] https://jobs.lever.co/pigment/a556c704-c27e-47d7-adbf-def0f55d160a | Pigment | Head of Technology Partnerships
+- [ ] https://jobs.lever.co/neighbor/4a28b1f5-fada-4d48-8cf4-7d70c09fdcb5 | Neighbor | Founding Partnerships Lead
+- [ ] https://jobs.lever.co/yuno/2ddd5722-2664-46ee-bd9a-f4944501d7e4 | Yuno | Head of Partnerships - North America
+- [ ] https://jobs.ashbyhq.com/zip/9192b000-1ba2-46b6-98a7-16880603428d | Zip | Senior GTM Strategy & Operations Manager
+- [ ] https://jobs.ashbyhq.com/vals-ai/ae3f0677-b069-40ec-a115-b46d32fec5cc | Vals AI | Founding Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/gc-ai/433a2055-3047-4981-a53d-ea2a0dc30c68 | GC AI | Senior Director of Strategic Technology Partnerships
+- [ ] https://jobs.lever.co/captivateiq/541b4f9f-7214-46d0-a2c5-79c1807f4013 | CaptivateIQ | Go-To-Market Enablement Director
+- [ ] https://jobs.lever.co/captivateiq/3b1c692d-a245-4aa8-b6db-e64e9b27c7dd | CaptivateIQ | VP, Revenue Marketing
