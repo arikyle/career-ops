@@ -234,3 +234,28 @@
 - [ ] https://jobs.ashbyhq.com/gc-ai/433a2055-3047-4981-a53d-ea2a0dc30c68 | GC AI | Senior Director of Strategic Technology Partnerships
 - [ ] https://jobs.lever.co/captivateiq/541b4f9f-7214-46d0-a2c5-79c1807f4013 | CaptivateIQ | Go-To-Market Enablement Director
 - [ ] https://jobs.lever.co/captivateiq/3b1c692d-a245-4aa8-b6db-e64e9b27c7dd | CaptivateIQ | VP, Revenue Marketing
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5016875008 | Anthropic | Business Development, Strategic Technology Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5235692008 | Anthropic | Startup Partnerships Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390952008 | Anthropic | GTM Strategy & Operations, Frontier
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390980008 | Anthropic | GTM Programs Manager, AMER
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5385602008 | Anthropic | Product Marketing Lead, GTM Strategy - Claude for Knowledge Work
+- [ ] https://jobs.ashbyhq.com/openai/12ab8606-7a7b-4122-8f05-721a02c6eeda | OpenAI | Head of Growth Partnerships
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7933604003 | LaunchDarkly | Strategic GTM Programs Director
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4718549005 | Glean | GTM Enablement Manager
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7984702 | Webflow | Senior Business Development Manager, Technology Partnerships
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7758434003 | Engine | Sr. Channel Partnerships Manager
+- [ ] https://job-boards.greenhouse.io/yotpo/jobs/7814535 | Yotpo | Director Of Product Partnerships & Business Development
+- [ ] https://job-boards.greenhouse.io/cardflight/jobs/8523646002 | CardFlight | Partnership Development Manager
+- [ ] https://www.linkedin.com/jobs/view/sr-director-business-development-and-strategic-alliances-ai-ecosystem-at-netskope-4367468323 | Netskope | Sr. Director, Business Development and Strategic Alliances (AI Ecosystem)
+- [ ] https://jobs.ashbyhq.com/lovable/58c123a0-9329-496a-aef2-da17fdbcc968 | Lovable | GTM Partnership Operations
+- [ ] https://jobs.ashbyhq.com/quicknode/90c1f4d7-897c-4b3a-ac73-97d8d2dbd800 | QuickNode | Business Development Manager
+- [ ] https://jobs.ashbyhq.com/edvisorly/5443f4fd-b118-4b1e-9a7d-ba11d6696248 | EdVisorly | Director of Partnerships
+- [ ] https://jobs.ashbyhq.com/sweedpos.com/d116bf2d-c335-4ff9-bfc7-4f68fc5aa8be | Sweed | Senior Director of Partnerships
+- [ ] https://jobs.ashbyhq.com/qumis/f85e2674-cc89-415e-b03b-87be107496da | Qumis | Director of Partnerships
+- [ ] https://jobs.ashbyhq.com/tremendous/4d9f7c29-373a-47e4-8a98-26857217eaf3 | Tremendous | Director of Partnerships
+- [ ] https://jobs.lever.co/jobgether/8a99f602-7b0e-4764-a1d1-a1d7af82cb84 | Jobgether | GTM Partnerships
+- [ ] https://jobs.lever.co/provectus/373a06c5-c7da-470e-b793-94998321783f | Provectus | Go to Market Partnerships & Alliances Manager – AI Consulting Solutions
+- [ ] https://jobs.lever.co/finix/9336aafa-f3a8-49bc-a133-e535517df24d | Finix | Strategic Partnerships Manager
+- [ ] https://jobs.lever.co/drivetrain/49078840-f419-4831-9f14-2e397cacdabc | Drivetrain | Partnerships Manager - CFO Solutions
