@@ -259,3 +259,29 @@
 - [ ] https://jobs.lever.co/provectus/373a06c5-c7da-470e-b793-94998321783f | Provectus | Go to Market Partnerships & Alliances Manager – AI Consulting Solutions
 - [ ] https://jobs.lever.co/finix/9336aafa-f3a8-49bc-a133-e535517df24d | Finix | Strategic Partnerships Manager
 - [ ] https://jobs.lever.co/drivetrain/49078840-f419-4831-9f14-2e397cacdabc | Drivetrain | Partnerships Manager - CFO Solutions
+
+- [ ] https://jobs.ashbyhq.com/mimica/02ca67ea-b630-4bdb-8033-144a2e377e38 | Mimica | Head/VP of Product (AI Process Insights & Automation)
+- [ ] https://jobs.ashbyhq.com/rho/6edbfa77-f58a-433b-87ea-e190f58e7fb0 | Rho | VP of Product
+- [ ] https://jobs.ashbyhq.com/sentient-foundation/7e8b8663-7b34-4966-a460-e2481b4b7bf1 | Sentient Foundation | Head of Product
+- [ ] https://jobs.ashbyhq.com/vizzia/80dd6ee2-5770-47fc-a98c-2a51fc6b24f1 | Vizzia | VP Product
+- [ ] https://jobs.ashbyhq.com/waystation/76d6cc6e-293f-4a3a-96a2-87bdb4864614 | Waystation AI | Head of Product
+- [ ] https://jobs.ashbyhq.com/swap/90f0910d-c5bb-4f2e-b410-8d39dc1cda18 | Swap | Director of Product
+- [ ] https://jobs.ashbyhq.com/openai/76d44b19-7586-446e-a21a-a073af1f0a00/application | OpenAI | GTM Business Operations & Strategy Lead, Platform
+- [ ] https://jobs.ashbyhq.com/openai/ffbd26ce-25fe-44af-931f-8939cb8a731b/application | OpenAI | GTM Business Operations & Strategy Lead, Codex
+- [ ] https://jobs.ashbyhq.com/scribe/188ad542-4212-4c41-a253-23259064c701 | Scribe | GTM Strategy Manager
+- [ ] https://jobs.ashbyhq.com/higgsfieldai/34aca283-f7db-4e16-bb9c-b66c956e5af8 | Higgsfield | Regional GTM Director, France
+- [ ] https://jobs.ashbyhq.com/regard/905865bf-57f9-4c19-8f14-8c8ceb09f35f | Regard | Senior Manager, GTM Operations
+- [ ] https://job-boards.greenhouse.io/muralhealth/jobs/4140610009 | Mural Health | Manager, GTM Strategy & Operations
+- [ ] https://wellfound.com/jobs/3055849-head-of-partnerships-business-development | Eco | Head of Partnerships & Business Development
+- [ ] https://wellfound.com/jobs/3027266-head-of-product | Nova Credit | Head of Product
+- [ ] https://builtin.com/job/executive-director-e-commerce-partnerships/9158567 | Forbes | Executive Director, E-Commerce Partnerships
+- [ ] https://builtin.com/job/vice-president-partnerships-north-america/8064053 | H2O.ai | VP of Partnerships, North America
+- [ ] https://builtin.com/job/head-partnerships/6670415 | Factored | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/ziro/jobs/4280993009 | ZIRO | Head of Product
+- [ ] https://job-boards.greenhouse.io/medrio/jobs/8498754002 | Medrio | Vice President of Product
+- [ ] https://job-boards.greenhouse.io/levelaccess/jobs/8548759002 | Level Access | VP, Product
+- [ ] https://job-boards.greenhouse.io/bluefishai/jobs/4943024008 | Bluefish AI | VP of Product
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8498819002 | StockX | Vice President, Product
+- [ ] https://job-boards.greenhouse.io/uareai/jobs/4186970009 | Uare.ai | Head of Product
+- [ ] https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514578002 | A11 | (Senior) VP Product
+- [ ] https://job-boards.greenhouse.io/neo4j/jobs/4674814006 | Neo4j | VP, Product Management - Agentic AI
