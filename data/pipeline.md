@@ -2,6 +2,32 @@
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973158008 | Anthropic | Google GTM Cosell Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5018203008 | Anthropic | Microsoft GTM Partnerships Manager, Digital Natives & Startups
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7895617 | DoorDash USA | Director, Enterprise Sales & Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5171124007 | Together AI | Head of Distribution Partnerships
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4360945005 | Glean | Channel Partner Manager (Northeast)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4619527005 | Glean | Head of Partnerships - EMEA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4720549005 | Glean | VP, Growth Marketing
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696681005 | Glean | GTM Strategic Finance Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7626322003 | Celonis | VP GTM Operations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7823974003 | Celonis | Strategic Solutions Director - Oracle
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820133003 | Celonis | GTM Program Manager and Program Office Leader
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7827537003 | Celonis | GTM Program Manager
+- [ ] https://job-boards.greenhouse.io/ahrefsjobs/jobs/6141629004 | Ahrefs | Head of Partnerships - Letaido
+- [ ] https://job-boards.greenhouse.io/maintainx/jobs/4962441007 | MaintainX | Head of Partnerships, LATAM
+- [ ] https://job-boards.greenhouse.io/emergentlabsinc/jobs/4203647009 | Emergent Labs | Head of Partnerships, SMB
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5031409008 | Honeycomb.io | Head of Partnerships and Ecosystem
+- [ ] https://job-boards.greenhouse.io/bluefishai/jobs/5187118008 | Bluefish AI | Strategic Partnerships Director
+- [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7776429 | Bandwidth | Director, Strategic AI Partnerships
+- [ ] https://jobs.lever.co/finix/7f883db9-3169-4eb5-8488-9a27d027a6c2 | Finix | Startup & VC Partnerships Manager
+- [ ] https://jobs.lever.co/heard/36d5b70e-1521-4300-a2a1-111c0849bd6e | Heard | Partnership Marketing Manager
+- [ ] https://jobs.ashbyhq.com/compscience/1fe02032-9553-4f63-bf2c-04005af0d59c | CompScience | VP of Business Development
+- [ ] https://jobs.ashbyhq.com/deel/ccf8a6cd-0a0d-4aa4-8f54-eb893baa89bc | Deel | Director, Business Development | Payspace
+- [ ] https://jobs.ashbyhq.com/virtahealth/0f338132-514d-46c1-b943-8e687a9b8e7f | Virta Health | Director of Business Development
+- [ ] https://jobs.ashbyhq.com/duck-duck-go/276ae352-55b5-4fb2-9b90-ed7db9f3df3e/application | DuckDuckGo | VP, Business Development
+- [ ] https://jobs.ashbyhq.com/meridianlink/981d73c9-ca10-4e93-83c5-9108ab44ef56 | MeridianLink | Director, Business Development
+
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5175017008 | Anthropic | Ecosystem Lead, Claude Marketplace
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153588008 | Anthropic | Head of Programmatic Outcomes — Partners
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173031008 | Anthropic | Manager, Applied AI Solutions Architecture - Partnerships
