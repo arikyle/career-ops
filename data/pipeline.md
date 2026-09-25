@@ -285,3 +285,27 @@
 - [ ] https://jobs.lever.co/provectus/373a06c5-c7da-470e-b793-94998321783f | Provectus | Go to Market Partnerships & Alliances Manager – AI Consulting Solutions
 - [ ] https://jobs.lever.co/finix/9336aafa-f3a8-49bc-a133-e535517df24d | Finix | Strategic Partnerships Manager
 - [ ] https://jobs.lever.co/drivetrain/49078840-f419-4831-9f14-2e397cacdabc | Drivetrain | Partnerships Manager - CFO Solutions
+
+- [ ] https://jobs.ashbyhq.com/substrate-bio/7efa991a-d2fc-48cc-8993-3f2f3d375208 | Substrate Bio | VP, Business Development
+- [ ] https://jobs.ashbyhq.com/virtahealth/f3b9a96c-795d-422a-aaac-d8a97405ffc7 | Virta Health | VP, Strategy and Business Development
+- [ ] https://jobs.ashbyhq.com/openai/c3029025-9f6e-429c-98da-01efc387b621 | OpenAI | GTM Strategy & Operations Lead - BDR
+- [ ] https://jobs.ashbyhq.com/openai/b75f6b5b-8a84-4796-9093-588cc9334c04 | OpenAI | GTM Partnerships Enablement Lead
+- [ ] https://jobs.ashbyhq.com/openai/373f1bd1-22cb-4b7e-ab2f-a1f5e7bff438/application | OpenAI | Partner Director, Global BCG Alliance
+- [ ] https://jobs.ashbyhq.com/instructure/65d04ca2-786a-4dbb-8008-ef859f4d9e57 | Instructure | VP, Partner Ecosystem
+- [ ] https://jobs.ashbyhq.com/quantexa/00070f66-6421-4d61-96f5-fe12252a70a1 | Quantexa | VP, North America Alliances
+- [ ] https://jobs.ashbyhq.com/Wisdom-AI/53612d8d-2663-4825-8df8-983e428fc913 | Wisdom AI | Head of Strategic Alliances & Marketplaces
+- [ ] https://jobs.ashbyhq.com/wordsmith/7c151337-2acc-40fc-9d9f-12a76f1a112a | Wordsmith AI | Strategic Partner Manager (Ecosystem & Frontier Alliances)
+- [ ] https://jobs.ashbyhq.com/omniscient/a614b259-9a99-47ba-b8f2-8b1527f9a7e6 | Omniscient | Partnerships & Ecosystem Manager
+- [ ] https://jobs.ashbyhq.com/yolabs/a1898dcf-14c8-4ee9-8e65-2324ca697759 | Yo Labs | Head of Ecosystem
+- [ ] https://jobs.ashbyhq.com/runway-ml/409d3e12-0b5c-4e71-b3c2-49fdd84bdab9 | Runway | Member of Partnerships Staff, Physical AI
+- [ ] https://jobs.ashbyhq.com/netboxlabs/58400b30-dccb-4b10-aa64-cb01ca805494 | NetBox Labs | Technology Alliances Manager
+- [ ] https://job-boards.greenhouse.io/muralhealth/jobs/4140610009 | Mural Health | Manager, GTM Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4070439009 | Oura | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4260098009 | Oura | Director, Hardware Partnerships
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4343962009 | Oura | Director, Partnerships & Enterprise International Growth
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4250110009 | Oura | Senior Manager, Revenue Operations (Strategy & Insights)
+- [ ] https://job-boards.greenhouse.io/gongio/jobs/4707807006 | Gong.io | Director, Partnerships (AWS, Microsoft, GCP)
+- [ ] https://jobs.lever.co/fampay/90a5d3d5-8fb6-4961-ab7a-43a8f8b48ef7 | Fam | Senior Director, Revenue & Partnerships
+- [ ] https://jobs.lever.co/jobgether/8f3dbe16-81ec-46be-bf46-6c07afb91b2e | Jobgether | Director of Revenue Operations
+- [ ] https://jobs.lever.co/wpromote/16dbfc6c-2e50-4742-a1e1-f7ed9dd63765 | Wpromote | Director, Revenue Enablement
+- [ ] https://careers-inc.nttdata.com/job/Plano-VP,-Global-Strategic-Alliances-with-Open-AI-partnerships-Remote-in-USA-TX/1301127000/ | NTT DATA | VP, Global Strategic Alliances with Open AI partnerships
