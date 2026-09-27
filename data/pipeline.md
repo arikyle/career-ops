@@ -309,3 +309,24 @@
 - [ ] https://jobs.lever.co/jobgether/8f3dbe16-81ec-46be-bf46-6c07afb91b2e | Jobgether | Director of Revenue Operations
 - [ ] https://jobs.lever.co/wpromote/16dbfc6c-2e50-4742-a1e1-f7ed9dd63765 | Wpromote | Director, Revenue Enablement
 - [ ] https://careers-inc.nttdata.com/job/Plano-VP,-Global-Strategic-Alliances-with-Open-AI-partnerships-Remote-in-USA-TX/1301127000/ | NTT DATA | VP, Global Strategic Alliances with Open AI partnerships
+
+- [ ] https://job-boards.greenhouse.io/ncinoinc/jobs/4415501009 | nCino | VP - Global Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196986008 | Anthropic | Partnership Strategy & Operations Lead, International
+- [ ] https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c | OpenAI | GTM Strategy & Operations, India & South East Asia
+- [ ] https://jobs.ashbyhq.com/openai/32165323-afce-4a65-b74a-c7d5be23998e | OpenAI | Partner Manager, Cloud Service Provider Partnerships
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5719278004 | ClickHouse | Director, Partnerships - AWS
+- [ ] https://job-boards.greenhouse.io/emergentlabsinc/jobs/4053966009 | Emergent Labs | Head of Partnerships
+- [ ] https://jobs.lever.co/creatordeck/4350161b-39af-472b-8c91-63c048b8229b | Creator Deck | Director of Partnerships
+- [ ] https://jobs.lever.co/colibrigroup/7b527ba7-908c-4506-ad06-bd9ec2cf0127 | Colibri Group | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/ujet/jobs/4732582005 | UJET | GTM Chief of Staff - Revenue Operations
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6188898004 | Vercel | Strategic Product Partnerships Lead
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5825469004 | Vercel | Strategic Cloud Partnerships Lead
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5978967004 | Arize AI | Partner Product & Solutions Lead
+- [ ] https://jobs.ashbyhq.com/hebbia-ai/1c1cd3eb-4d2a-42e6-98ed-832a95315cbe | Hebbia AI | Strategic Partnerships Manager
+- [ ] https://jobs.ashbyhq.com/plaid/195a6c75-b7a1-4c3e-bdcd-e2781205dc54 | Plaid | AI Partner Development - GTM Pod
+- [ ] https://jobs.ashbyhq.com/sarvam/1c4b959f-b9df-41d4-91c7-c815771b013c | Sarvam | GTM Director, On-Device AI
+- [ ] https://jobs.ashbyhq.com/socure/94c8b34d-6891-4490-af26-603c0b1f53e5 | Socure | Head of GTM Strategy - Tech, AI, and Startups
+- [ ] https://jobs.lever.co/yuno/e601c8be-d03a-4aa4-b89a-ee784acf6921 | Yuno | Global Head of Go To Markets
+- [ ] https://jobs.lever.co/captivateiq/82417995-b1c1-44e8-873b-5c2b61083ae5 | CaptivateIQ | Head of GTM, Sales Planning
+- [ ] https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8 | 360Learning | Head of GTM Systems & AI
+- [ ] https://job-boards.greenhouse.io/amplemarket/jobs/4650038101 | Amplemarket | Senior Revenue Operations Manager
