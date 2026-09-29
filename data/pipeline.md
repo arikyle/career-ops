@@ -330,3 +330,25 @@
 - [ ] https://jobs.lever.co/captivateiq/82417995-b1c1-44e8-873b-5c2b61083ae5 | CaptivateIQ | Head of GTM, Sales Planning
 - [ ] https://jobs.lever.co/360learning/c86995fe-f898-4ee1-b851-f220deab6ce8 | 360Learning | Head of GTM Systems & AI
 - [ ] https://job-boards.greenhouse.io/amplemarket/jobs/4650038101 | Amplemarket | Senior Revenue Operations Manager
+
+- [ ] https://jobs.ashbyhq.com/spekit/e650c488-531a-4c98-a7e5-5d97c3915391 | Spekit | Director of Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5024708007 | Safari AI | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/stargate-foundation/88ab7c8e-f486-4004-bd33-de8237ab3d3c | Stargate Foundation | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/character/deff7d37-d005-4032-83ce-5bc6bb8de67f | Character.AI | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/civicmarketplace/1a1b5b1f-b702-4e62-927a-b6030205b371 | CivicMarketplace | VP of Partnerships
+- [ ] https://jobs.ashbyhq.com/gretel/aa0bea3f-ba97-4173-83c7-baacb970042c | Gretel | VP of Partnerships
+- [ ] https://jobs.ashbyhq.com/Arlo/85ec52cd-364f-444c-95c2-d36b203770af/application | Arlo | Senior Director/VP, MGU Partnerships
+- [ ] https://jobs.ashbyhq.com/jerry.ai/6a08f676-447c-438e-bfdc-1839c91ba060 | Jerry.ai | Director, Business Development & Partnerships
+- [ ] https://jobs.ashbyhq.com/ramp/224449f1-5164-41af-8c5b-d3cb33cf6621 | Ramp | Director, Product Partnerships
+- [ ] https://jobs.ashbyhq.com/legora/d107905d-b2ef-4964-834b-a17d6e93e971 | Legora | Director, Cloud & AI Partnerships
+- [ ] https://jobs.lever.co/pattern/fc621c26-c2ef-40bf-9fb4-3fee3d341436 | Pattern | Director of Partnerships, EMEA
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5808432004 | Dataiku | Strategic Alliances Director
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/8048848 | Dropbox | Business Development Manager, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/balsambrands/jobs/4259610009 | Balsam Brands | Director, Business Development & Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/swordhealth/jobs/4395886009 | Sword Health | Head of Go-to-Market - Thrive
+- [ ] https://jobs.ashbyhq.com/runway-ml/636424a5-280e-474f-a68b-d55d190ef0aa | Runway | VP/Director, Growth & Emerging Revenue
+- [ ] https://jobs.ashbyhq.com/sentient/aff4a300-f268-4962-806e-0ad2a132511c | Sentient | Developer Relations & Ecosystem Growth Lead
+- [ ] https://jobs.ashbyhq.com/andela/7e31f2f5-e7ca-42a6-b7ff-31dcf370c8bb | Andela | Sr Director, Revenue Marketing
+- [ ] https://jobs.ashbyhq.com/curvionblue/d2770be0-e1e2-4f39-9a6f-6335222631d7 | Curvion Blue | Director of Revenue Strategy & Growth
+- [ ] https://jobs.ashbyhq.com/runway-ml/2da1665a-81c0-4757-a6da-7a875156ce31 | Runway | Director/VP Revenue Operations
+- [ ] https://jobs.ashbyhq.com/cubesoftware/ee1233f6-735b-4e94-a28e-c1952ba60d03 | Cube | VP of Revenue
