@@ -352,3 +352,44 @@
 - [ ] https://jobs.ashbyhq.com/curvionblue/d2770be0-e1e2-4f39-9a6f-6335222631d7 | Curvion Blue | Director of Revenue Strategy & Growth
 - [ ] https://jobs.ashbyhq.com/runway-ml/2da1665a-81c0-4757-a6da-7a875156ce31 | Runway | Director/VP Revenue Operations
 - [ ] https://jobs.ashbyhq.com/cubesoftware/ee1233f6-735b-4e94-a28e-c1952ba60d03 | Cube | VP of Revenue
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4803982008 | Anthropic | Cloud GTM Partnerships Lead, India
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4942440008 | Anthropic | Cloud GTM Partnerships Lead, Japan
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4962959008 | Anthropic | Cloud GTM Partnerships Lead, South Korea
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4890975008 | Anthropic | Cloud GTM Partnerships Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5018195008 | Anthropic | Cloud GTM Partnerships Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5018520008 | Anthropic | Cloud GTM Partnerships Lead, EMEA
+- [ ] https://job-boards.greenhouse.io/workera/jobs/4620944005 | Workera AI | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/dorsia/jobs/5234713007 | Dorsia | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/creativex/jobs/5661373004 | CreativeX | Partnerships Director
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/6302848003 | Lightning AI | Strategic Partnerships Director
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7654063003 | G-P | Sr. Director, GTM Operations
+- [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4568279006 | Couchbase | Director, Cloud Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/operantai/jobs/4972849008 | Operant AI | Director of Strategic Alliances
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4985095008 | you.com | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/globalwebindex/jobs/8301393002 | GlobalWebIndex | VP, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/zipcolimited/jobs/4627696006 | Zip | Director, US Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/accordion/jobs/8082217 | Accordion | Head of Data & AI Alliances
+- [ ] https://job-boards.greenhouse.io/answerrocket/jobs/5171707008 | AnswerRocket | Director of Strategic Alliances
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8316210002 | Workato | Director, Business Development - AI Partnerships
+- [ ] https://job-boards.eu.greenhouse.io/unframe/jobs/4918422101 | Unframe | VP, Partnerships & Alliances
+- [ ] https://job-boards.eu.greenhouse.io/unframe/jobs/4918417101 | Unframe | VP, Partnerships & Alliances (Germany)
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/5916219004 | 66degrees | Director of Alliances
+- [ ] https://job-boards.greenhouse.io/grammarly/jobs/7583759 | Grammarly | Strategic Technology Partnerships
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8209466 | Customer.io | Partner Manager, AI Native Ecosystems
+- [ ] https://job-boards.greenhouse.io/upboundext/jobs/5678056004 | Upbound | Head of Partnerships & Alliances
+- [ ] https://jobs.ashbyhq.com/middesk/b5d72aa4-6fa0-492f-beb8-b4c4a8a4d423 | Middesk | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/doinstruct/ca6c5da8-a139-43ea-9eb9-393ccfd354fe | doinstruct | Partnerships Lead
+- [ ] https://jobs.lever.co/rackspace/0c570db0-e65e-4b18-bcba-89a7c2f5704f | Rackspace | VP, Global Business Development and Solutions for AI
+- [ ] https://jobs.lever.co/jobgether/82356a2e-2dd6-41a2-83cc-c0c56132ee67 | Jobgether | VP, Partnerships
+- [ ] https://jobs.lever.co/jobgether/da53e9fb-d264-4651-82bf-7f2f6f387267 | Jobgether | Strategic Partnerships Director
+- [ ] https://jobs.lever.co/jobgether/3d7a854f-3b7b-43a2-87ab-5c85bdc4bfcc | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/d5a31612-e568-4233-8d2d-ef11c7b3bd63 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/5c4fd0a1-32a8-4cfd-b05b-384f8993a55d | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/15937703-e9b0-4338-b47f-2c9c4e0de34f | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/9752bb5b-1069-4763-a325-afe3c0348d20 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/98a476a5-aa44-4cc6-a0d5-cc7454a5a9c4 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/836fac8a-053d-4f93-9e35-6b9efc5a3b93 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/a9934cc7-852d-4566-aedf-d708a035d5f6 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/fe717f22-e08c-46da-9bb9-2013adb0a279 | Jobgether | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/7ed99405-c1b5-4a4b-828a-18da2b8ad5d9 | Jobgether | Head of Partnerships
