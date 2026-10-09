@@ -393,3 +393,30 @@
 - [ ] https://jobs.lever.co/jobgether/a9934cc7-852d-4566-aedf-d708a035d5f6 | Jobgether | Head of Partnerships
 - [ ] https://jobs.lever.co/jobgether/fe717f22-e08c-46da-9bb9-2013adb0a279 | Jobgether | Head of Partnerships
 - [ ] https://jobs.lever.co/jobgether/7ed99405-c1b5-4a4b-828a-18da2b8ad5d9 | Jobgether | Head of Partnerships
+
+- [ ] https://jobs.ashbyhq.com/claritymovescapital/0c480db5-ebc6-401e-b975-ccc340db40f8 | Clarity Moves Capital | Director, Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/airwallex/fea86caa-5446-4253-ab63-cda20194a7d1 | Airwallex | Head of Strategic Partnerships, Americas
+- [ ] https://jobs.ashbyhq.com/miter/6908168d-3e95-4243-a2df-9186428af6b2 | Miter | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/AIC/5462e227-5a99-4b46-9aea-bf5c77f8cd7c | AIC | Head of Business Development
+- [ ] https://jobs.ashbyhq.com/life-space-digital/a3585bf2-f8d0-4707-99dc-7bd55b49ed0f | Life Space Digital | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/8128670 | OpenSesame | Director of Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/compunetinc/jobs/4955070008 | Compunet | Director of Strategic Partnership - Enterprise Networking
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4732775005 | Flex | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/weave/jobs/4012125009 | Weave | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/7615826002 | WPP | VP, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/imaginepediatrics/jobs/4716141005 | Imagine Pediatrics | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/skyryse/jobs/7167350 | Skyryse | VP, Business Development
+- [ ] https://job-boards.greenhouse.io/vestwell/jobs/7742592003 | Vestwell | VP, Business Development
+- [ ] https://job-boards.greenhouse.io/doubleverify/jobs/8468723002 | DoubleVerify | VP, Business Development - Activation
+- [ ] https://job-boards.greenhouse.io/shift4/jobs/5088006007 | Shift4 | Business Development Director - Crypto/FX
+- [ ] https://job-boards.greenhouse.io/tubitv/jobs/6420051 | Tubi | VP, Business Development
+- [ ] https://jobs.lever.co/nextech/bbeb1bb4-404c-43c8-bd22-b31f05dc3729 | Nextech | VP Business Development
+- [ ] https://jobs.lever.co/jobgether/ba4d1b3b-e50b-4f6e-9142-d380188dbfe8 | Jobgether | Business Development Director
+- [ ] https://jobs.lever.co/sambatv/13a63a76-78e9-4d12-8d8f-f8b98a81502f | Samba | Director, Publishers and Platforms
+- [ ] https://jobs.ashbyhq.com/openai/ffbd26ce-25fe-44af-931f-8939cb8a731b/application | OpenAI | GTM Business Operations & Strategy Lead, Codex
+- [ ] https://jobs.ashbyhq.com/liquid/34fb0997-42ff-49f3-bcf3-231a54d204db | Liquid | Member of GTM - Head of Growth
+- [ ] https://jobs.ashbyhq.com/harvey/99c7e2f7-9fe9-4373-9bf3-5470044bcd77 | Harvey | Head of GTM Finance
+- [ ] https://job-boards.greenhouse.io/swordhealth/jobs/4422190009 | Sword Health | Head of Go-to-Market, AI Care Operations
+- [ ] https://job-boards.greenhouse.io/finitestate/jobs/6013215004 | Finite State | Director, GTM Operations
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8097481 | Customer.io | Director, GTM Finance
+- [ ] https://www.heygen.com/careers/5255976007 | HeyGen | Head of Strategic Partnerships
