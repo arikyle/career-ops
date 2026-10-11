@@ -420,3 +420,17 @@
 - [ ] https://job-boards.greenhouse.io/finitestate/jobs/6013215004 | Finite State | Director, GTM Operations
 - [ ] https://job-boards.greenhouse.io/customerio/jobs/8097481 | Customer.io | Director, GTM Finance
 - [ ] https://www.heygen.com/careers/5255976007 | HeyGen | Head of Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5274969008 | Anthropic | Partnerships Lead - ANZ
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973162008 | Anthropic | GTM Partner Enablement
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951738008 | Anthropic | Strategic Alliances Lead, India
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5644963004 | Vercel | Senior Partner Development Manager
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5825462004 | Vercel | Senior Partner Manager
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4640564005 | Glean | Partner Development Manager, Boutique & RSI Partners
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4528497005 | Glean | Regional Partner Manager (Singapore)
+- [ ] https://job-boards.greenhouse.io/portagecareers/jobs/4539852005 | Portage Careers (Sagard) | Go-to-Market Principal
+- [ ] https://jobs.lever.co/jobgether/60f2b903-0c8b-47fa-9768-7b4033de2676 | Jobgether | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/roboflow/234f55df-7a8c-4790-b653-63abeaf71c7d | Roboflow | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/ramp/ef89f419-f294-43eb-8b34-d514018bcd61 | Ramp | AI Partnerships Manager
+- [ ] https://jobs.ashbyhq.com/singular/bd912c6b-17a3-4b24-be8c-5905b4080b6d | Singular | Partnership Lead
+- [ ] https://jobs.lever.co/livefront/aa974e03-a184-440f-b351-6aa1b3edc651 | Livefront | VP, Business Development
