@@ -434,3 +434,20 @@
 - [ ] https://jobs.ashbyhq.com/ramp/ef89f419-f294-43eb-8b34-d514018bcd61 | Ramp | AI Partnerships Manager
 - [ ] https://jobs.ashbyhq.com/singular/bd912c6b-17a3-4b24-be8c-5905b4080b6d | Singular | Partnership Lead
 - [ ] https://jobs.lever.co/livefront/aa974e03-a184-440f-b351-6aa1b3edc651 | Livefront | VP, Business Development
+
+- [ ] https://jobs.ashbyhq.com/taaraconnect/3d74e79c-a3b5-4eb7-85ee-f6435ed3fa4d | Taara | Director Business Development & Partnerships
+- [ ] https://jobs.ashbyhq.com/echeloncareers/8b3ecc1f-f811-4a81-a4a4-5fd6f87369ac | Echelon | Head of Partner Development
+- [ ] https://jobs.ashbyhq.com/oscilar/95631d31-5a1c-410c-bd89-5ca5fc67fea4 | Oscilar | VP/Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/perscholashires/jobs/4703872006 | Per Scholas | Director or VP, Development, Corporate Partnerships
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4694855005 | Flex | Director, Strategic Partnerships (New Verticals)
+- [ ] https://job-boards.greenhouse.io/usenourish/jobs/5180920008 | Nourish | Payer Partnerships Director
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4672252006 | ParetoHealth | SVP, Ecosystems Strategy and Partnerships
+- [ ] https://job-boards.greenhouse.io/shieldshealthsolutions/jobs/7819223003 | Shields Health Solutions | VP of Commercial Partnerships
+- [ ] https://job-boards.greenhouse.io/forbes/jobs/5798314004 | Forbes | Director, Creator Partnerships
+- [ ] https://job-boards.greenhouse.io/justworks/jobs/6637455 | Justworks | VP of Partnerships
+- [ ] https://job-boards.greenhouse.io/inmarket/jobs/7713499 | InMarket | Director, GTM Marketing
+- [ ] https://job-boards.greenhouse.io/vaco/jobs/5950378003 | Vaco | Business Development Director
+- [ ] https://job-boards.greenhouse.io/tyreeanddangelo/jobs/7742585002 | Tyree and Dangelo | Business Development Director
+- [ ] https://jobs.lever.co/includedhealth/6c4f332d-7eb5-46c2-9dea-23a9b6127b41 | Included Health | Business Development & Strategic Partnerships Director
+- [ ] https://jobs.lever.co/toptal/5c1ea6ba-7d5d-48c8-84ef-7c3bfc4c1ba0 | Toptal | Director, Partnerships
+- [ ] https://jobs.lever.co/openx/05b043ff-e436-4431-bdd5-50542fd1f597 | OpenX | Business Development Director
