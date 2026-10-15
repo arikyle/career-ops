@@ -451,3 +451,9 @@
 - [ ] https://jobs.lever.co/includedhealth/6c4f332d-7eb5-46c2-9dea-23a9b6127b41 | Included Health | Business Development & Strategic Partnerships Director
 - [ ] https://jobs.lever.co/toptal/5c1ea6ba-7d5d-48c8-84ef-7c3bfc4c1ba0 | Toptal | Director, Partnerships
 - [ ] https://jobs.lever.co/openx/05b043ff-e436-4431-bdd5-50542fd1f597 | OpenX | Business Development Director
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4652256005 | Scale AI | Head of Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/starbridge/f2e9fcb4-46b4-4366-97f4-b1859b01aa2e | Starbridge | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/crackenagi/a8c55527-0db1-4f89-be01-8b97a0fded47 | Cracken | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7822158003 | Engine | Director, Sales Strategy and Operations - Partnerships
+- [ ] https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8660068002 | Sony Music | Director/VP, Artist & Label Partnerships - AWAL
