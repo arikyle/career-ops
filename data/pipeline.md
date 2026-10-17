@@ -451,3 +451,14 @@
 - [ ] https://jobs.lever.co/includedhealth/6c4f332d-7eb5-46c2-9dea-23a9b6127b41 | Included Health | Business Development & Strategic Partnerships Director
 - [ ] https://jobs.lever.co/toptal/5c1ea6ba-7d5d-48c8-84ef-7c3bfc4c1ba0 | Toptal | Director, Partnerships
 - [ ] https://jobs.lever.co/openx/05b043ff-e436-4431-bdd5-50542fd1f597 | OpenX | Business Development Director
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5054997008 | Anthropic | Head of North America Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4565262008 | Anthropic | Startup Partnerships, UK
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391219008 | Anthropic | AWS Partnerships Lead, DACH
+- [ ] https://jobs.ashbyhq.com/openai/3b634f98-b639-4cfa-a151-43e13d99ce45 | OpenAI | Partner Director, GTM Cloud Partnerships
+- [ ] https://jobs.ashbyhq.com/openai/bd4cdb4e-ecd7-45d6-8cab-0e9fa155104e | OpenAI | Business Development Manager, Product Partnerships (Paris)
+- [ ] https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939 | OpenAI | Business Development Manager, Product Partnerships (Munich)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4652256005 | Scale AI | Head of Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/suno/f4bfe672-895a-4cff-93d0-2408afa49f22 | Suno | Director, Business Development, Publishing Partnerships
+- [ ] https://jobs.ashbyhq.com/cursor/aa50a09b-2413-44a0-a1b1-04381b03cc30/application | Cursor | Regional Vice President, Business Development
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5832337004 | Vercel | Partner Manager, Growth
+- [ ] https://elevenlabs.io/careers/f73b607d-81fe-4f5c-b04b-0b8c826989bf/revenue-partnerships | ElevenLabs | Revenue Partnerships
