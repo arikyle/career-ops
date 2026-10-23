@@ -462,3 +462,12 @@
 - [ ] https://jobs.ashbyhq.com/cursor/aa50a09b-2413-44a0-a1b1-04381b03cc30/application | Cursor | Regional Vice President, Business Development
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5832337004 | Vercel | Partner Manager, Growth
 - [ ] https://elevenlabs.io/careers/f73b607d-81fe-4f5c-b04b-0b8c826989bf/revenue-partnerships | ElevenLabs | Revenue Partnerships
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391227008 | Anthropic | AWS GTM Partnership Lead, Public Sector & Nonprofits
+- [ ] https://jobs.ashbyhq.com/openai/071511ff-940e-46b9-8c21-58b2a6ac4b7a/application | OpenAI | Strategic Partner Manager, Monetization Partnerships
+- [ ] https://jobs.ashbyhq.com/linktree/8efc13d0-45da-40ea-81f3-64a8044dacee | Linktree | Director, Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/crackenagi/a8c55527-0db1-4f89-be01-8b97a0fded47 | Cracken | Head of Commercial Partnerships
+- [ ] https://jobs.ashbyhq.com/starbridge/f2e9fcb4-46b4-4366-97f4-b1859b01aa2e | Starbridge | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/eyetell/d5c7d08e-b1fe-48a5-8a0e-e78c23c6584a | EyeTell | Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/pivotal-health/a8cd0b6b-ef4a-467d-908a-0eafb8251e82 | Pivotal Health | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/janeasystems/jobs/5505838004 | Janea Systems | Head of Partnerships
