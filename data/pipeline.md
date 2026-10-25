@@ -471,3 +471,18 @@
 - [ ] https://jobs.ashbyhq.com/eyetell/d5c7d08e-b1fe-48a5-8a0e-e78c23c6584a | EyeTell | Head of Partnerships
 - [ ] https://jobs.ashbyhq.com/pivotal-health/a8cd0b6b-ef4a-467d-908a-0eafb8251e82 | Pivotal Health | Head of Partnerships
 - [ ] https://job-boards.greenhouse.io/janeasystems/jobs/5505838004 | Janea Systems | Head of Partnerships
+
+- [ ] https://job-boards.greenhouse.io/wppmedia/jobs/5233932008 | WPP Media | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/later/jobs/8377478002 | Later | VP Partnerships
+- [ ] https://job-boards.greenhouse.io/homesolutions/jobs/4722075005 | Home Solutions | Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/semafor/jobs/4647083005 | Semafor | Director, Sales & Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/humanagency/jobs/7697102003 | Human Agency | Head of Business Development
+- [ ] https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4402255009 | LLR Partners | Managing Director, Go-to-Market Value Creation
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5194035007 | Temporal Technologies | Director, GTM Strategy & Analytics
+- [ ] https://job-boards.greenhouse.io/leagueinc/jobs/5719461004 | League Inc. | Director, Product Marketing - Growth Enablement
+- [ ] https://job-boards.greenhouse.io/tebra/jobs/4708633005 | Tebra | Director, GTM Operations
+- [ ] https://job-boards.greenhouse.io/intelluminc/jobs/5451039008 | Intellum | Director, Growth Marketing
+- [ ] https://jobs.ashbyhq.com/Perk/3b6f4287-b26f-4b24-80eb-d5b0f2706323 | Perk | Director of GTM Engineering
+- [ ] https://jobs.ashbyhq.com/openai/fd0a10a9-80e5-48c4-b313-c2403f009761/application | OpenAI | Head of GTM Planning & Incentives
+- [ ] https://jobs.ashbyhq.com/mutiny/b1d69184-0117-432d-96bf-3fafd6bf26f2 | Mutiny | Head of GTM
+- [ ] https://jobs.lever.co/jobgether/c2ba02df-191f-41a6-ae99-bf207c53b1c2 | Jobgether | VP, Payor Partnerships
