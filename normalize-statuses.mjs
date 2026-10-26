@@ -3,7 +3,7 @@
  * normalize-statuses.mjs — Clean non-canonical states in applications.md
  *
  * Maps all non-canonical statuses to canonical ones per states.yml:
- *   Evaluada, Aplicado, Respondido, Entrevista, Oferta, Rechazado, Descartado, NO APLICAR
+ *   Evaluated, Applied, Responded, Assessment, Interview, Offer, Hired, Rejected, Discarded, SKIP
  *
  * Also strips markdown bold (**) and dates from the status field,
  * moving DUPLICADO info to the notes column.
@@ -11,111 +11,182 @@
  * Run: node career-ops/normalize-statuses.mjs [--dry-run]
  */
 
-import { readFileSync, writeFileSync, copyFileSync, existsSync } from 'fs';
-import { join } from 'path';
+import { readFileSync, copyFileSync, existsSync, mkdirSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+import { getCareerOpsRoot, resolveTrackerPath } from './path-resolver.mjs';
+import {
+  openTrackerTransaction, rebuildRow,
+  loadCanonicalStates, resolveCanonicalState,
+} from './tracker-utils.mjs';
+import { resolveColumns, parseTrackerRow, splitTrackerCells, trackerRowSeparator } from './tracker-parse.mjs';
+import { validateFlags } from './lib/cli-flags.mjs';
+import { isMainModule } from './lib/is-main-module.mjs';
 
-const CAREER_OPS = new URL('.', import.meta.url).pathname;
-// Support both layouts: data/applications.md (boilerplate) and applications.md (original)
-const APPS_FILE = existsSync(join(CAREER_OPS, 'data/applications.md'))
-  ? join(CAREER_OPS, 'data/applications.md')
-  : join(CAREER_OPS, 'applications.md');
-const DRY_RUN = process.argv.includes('--dry-run');
+// System Layer files (templates/, modes/, scripts) live in the codebase and are
+// resolved from this module's own directory; only User Layer data follows the
+// configurable data root. Binding both to getCareerOpsRoot() made states.yml
+// unreadable under CAREER_OPS_ROOT / .career-ops-data, and the catch below
+// turned that into a silent "everything is unknown" (#3500).
+const CODEBASE_ROOT = dirname(fileURLToPath(import.meta.url));
+const CAREER_OPS = getCareerOpsRoot();
+const APPS_FILE = resolveTrackerPath(CAREER_OPS);
+
+// Ensure required directories exist (fresh setup)
+mkdirSync(join(CAREER_OPS, 'data'), { recursive: true });
 
 // Canonical status mapping
+let statesCache = null;
+/** Canonical states from templates/states.yml, read once per CLI run. */
+function canonicalStates() {
+  if (statesCache) return statesCache;
+  const statesFile = join(CODEBASE_ROOT, 'templates', 'states.yml');
+  try {
+    statesCache = loadCanonicalStates(statesFile);
+  } catch (err) {
+    // Broken install: fall through to "unknown", never a stale copy — but say
+    // so. The silent [] is what made #3500 invisible: a states.yml looked up in
+    // the wrong tree is indistinguishable from one that is genuinely missing,
+    // and the whole tracker normalized to unknown without a word.
+    console.error(`[normalize-statuses] cannot read canonical states from ${statesFile}: ${err.message}`);
+    console.error('[normalize-statuses] every status will be reported as unknown until this is fixed.');
+    statesCache = [];
+  }
+  return statesCache;
+}
+
 function normalizeStatus(raw) {
   // Strip markdown bold
   let s = raw.replace(/\*\*/g, '').trim();
   const lower = s.toLowerCase();
 
-  // DUPLICADO variants → Descartado
+  // DUPLICADO variants → Discarded
   if (/^duplicado/i.test(s) || /^dup\b/i.test(s)) {
-    return { status: 'Descartado', moveToNotes: raw.trim() };
+    return { status: 'Discarded', moveToNotes: raw.trim() };
   }
 
-  // CERRADA → Descartado
-  if (/^cerrada$/i.test(s)) return { status: 'Descartado' };
+  // CERRADA / Cancelada / Descartada → Discarded
+  if (/^cerrada$/i.test(s)) return { status: 'Discarded' };
+  if (/^cancelada/i.test(s)) return { status: 'Discarded' };
+  if (/^descartada$/i.test(s)) return { status: 'Discarded' };
+  if (/^descartado$/i.test(s)) return { status: 'Discarded' };
 
-  // Cancelada (possibly with date) → Descartado
-  if (/^cancelada/i.test(s)) return { status: 'Descartado' };
+  // Rechazada / Rechazado → Rejected
+  // `rechazada?` reads as "rechazad" + an OPTIONAL trailing "a", so it accepted
+  // "rechazada" and the bare stem "rechazad" but never "rechazado" — the masculine
+  // form this comment claims to handle, that states.yml lists as an alias, and that
+  // the header of this file names. A bare "Rechazado" fell through to unknown.
+  if (/^rechazad[oa]$/i.test(s)) return { status: 'Rejected' };
+  if (/^rechazado\s+\d{4}/i.test(s)) return { status: 'Rejected' };
 
-  // Descartada → Descartado
-  if (/^descartada$/i.test(s)) return { status: 'Descartado' };
+  // Aplicado with date → Applied (strip date)
+  if (/^aplicado\s+\d{4}/i.test(s)) return { status: 'Applied' };
 
-  // Rechazada → Rechazado
-  if (/^rechazada$/i.test(s)) return { status: 'Rechazado' };
+  // CONDICIONAL / HOLD / EVALUAR / Verificar → Evaluated
+  if (/^(condicional|hold|evaluar|verificar)$/i.test(s)) return { status: 'Evaluated' };
 
-  // Rechazado with date → Rechazado (strip date)
-  if (/^rechazado\s+\d{4}/i.test(s)) return { status: 'Rechazado' };
+  // MONITOR → SKIP
+  if (/^monitor$/i.test(s)) return { status: 'SKIP' };
 
-  // Aplicado with date → Aplicado (strip date)
-  if (/^aplicado\s+\d{4}/i.test(s)) return { status: 'Aplicado' };
+  // GEO BLOCKER → SKIP
+  if (/geo.?blocker/i.test(s)) return { status: 'SKIP' };
 
-  // CONDICIONAL → Evaluada
-  if (/^condicional$/i.test(s)) return { status: 'Evaluada' };
+  // Repost #NNN → Discarded
+  if (/^repost/i.test(s)) return { status: 'Discarded', moveToNotes: raw.trim() };
 
-  // HOLD → Evaluada
-  if (/^hold$/i.test(s)) return { status: 'Evaluada' };
+  // "—" (em dash, no status) → Discarded
+  if (s === '—' || s === '-' || s === '') return { status: 'Discarded' };
 
-  // MONITOR → Evaluada
-  if (/^monitor$/i.test(s)) return { status: 'Evaluada' };
-
-  // EVALUAR → Evaluada
-  if (/^evaluar$/i.test(s)) return { status: 'Evaluada' };
-
-  // Verificar → Evaluada
-  if (/^verificar$/i.test(s)) return { status: 'Evaluada' };
-
-  // GEO BLOCKER → NO APLICAR
-  if (/geo.?blocker/i.test(s)) return { status: 'NO APLICAR' };
-
-  // Repost #NNN → Descartado
-  if (/^repost/i.test(s)) return { status: 'Descartado', moveToNotes: raw.trim() };
-
-  // "—" (em dash, no status) → Descartado
-  if (s === '—' || s === '-' || s === '') return { status: 'Descartado' };
-
-  // Already canonical — just fix casing/bold
+  // Already canonical (English, per states.yml) — just fix casing/bold
   const canonical = [
-    'Evaluada', 'Aplicado', 'Respondido', 'Entrevista',
-    'Oferta', 'Rechazado', 'Descartado', 'NO APLICAR',
+    'Evaluated', 'Applied', 'Responded', 'Assessment', 'Interview',
+    'Offer', 'Hired', 'Rejected', 'Discarded', 'SKIP',
   ];
   for (const c of canonical) {
     if (lower === c.toLowerCase()) return { status: c };
   }
 
-  // Aliases from states.yml
-  if (['enviada', 'aplicada', 'applied', 'sent'].includes(lower)) return { status: 'Aplicado' };
-  if (['cerrada', 'descartada'].includes(lower)) return { status: 'Descartado' };
-  if (['no aplicar', 'no_aplicar', 'skip'].includes(lower)) return { status: 'NO APLICAR' };
+  // Every remaining alias comes from templates/states.yml, not a list here.
+  // The hand-written list this replaces had drifted: it carried the Spanish
+  // aliases and none of the Turkish ones, so a `Mülakat` row was reported as
+  // an unknown status by the very tool whose job is normalizing statuses
+  // (#2704). test-all already asserted states.yml ⊆ this function; deriving
+  // makes that hold by construction instead of by remembering.
+  const fromStates = resolveCanonicalState(lower, canonicalStates());
+  if (fromStates) return { status: fromStates };
 
   // Unknown — flag it
   return { status: null, unknown: true };
 }
+
+export { normalizeStatus };
+
+const KNOWN_FLAGS = ['--help', '-h', '--dry-run'];
+const USAGE = `Usage: node normalize-statuses.mjs [options]
+
+  Options:
+  --dry-run        Report what would change without writing applications.md
+  -h, --help       Show this help and exit
+  `;
+
+// Everything below is the CLI. It is guarded because importing this module used to
+// run it: the import alone opened a tracker transaction and rewrote applications.md.
+// That is why tests could only scrape this file's source with regexes instead of
+// calling the function, and why the rechazado gap went unnoticed.
+const IS_CLI = isMainModule(import.meta.url);
+
+if (IS_CLI) {
+const args = process.argv.slice(2);
+
+// Unrecognized flags exit 1 naming the flag; --help/-h print USAGE and exit 0.
+validateFlags(args, KNOWN_FLAGS, USAGE);
 
 // Read applications.md
 if (!existsSync(APPS_FILE)) {
   console.log('No applications.md found. Nothing to normalize.');
   process.exit(0);
 }
-const content = readFileSync(APPS_FILE, 'utf-8');
+
+const DRY_RUN = process.argv.includes('--dry-run');
+let trackerTransaction = null;
+if (!DRY_RUN) {
+  try {
+    trackerTransaction = await openTrackerTransaction(APPS_FILE);
+  } catch (err) {
+    console.error(`Cannot acquire tracker lock: ${err.message}`);
+    process.exit(1);
+  }
+  process.once('exit', () => {
+    try { trackerTransaction.close(); } catch {}
+  });
+}
+try {
+const content = trackerTransaction ? trackerTransaction.read() : readFileSync(APPS_FILE, 'utf-8');
 const lines = content.split('\n');
 
 let changes = 0;
 let unknowns = [];
 
+// Map columns by header name (tracker-parse.mjs, #954/#1596). Fixed indices
+// assumed the original 9-column layout, so a customized tracker — an inserted
+// Location or Via column — shifted every field one to the left: the Score cell
+// was normalized as if it were the status and overwritten, while the real
+// status was left alone and reported as unknown (#1955).
+// Legacy tab-layout rows are readable here the same way set-status.mjs and
+// mark-pdf-ready.mjs already read them: opt in explicitly, keep the layout on
+// the way out (a pipe-only writer must not migrate the table as a side effect).
+const PARSE_OPTS = { allowTabs: true };
+const COLS = resolveColumns(lines, PARSE_OPTS);
+
 for (let i = 0; i < lines.length; i++) {
   const line = lines[i];
-  if (!line.startsWith('|')) continue;
+  const row = parseTrackerRow(line, COLS, PARSE_OPTS);
+  if (!row) continue; // header, separator, non-row, or a row missing cells
 
-  const parts = line.split('|').map(s => s.trim());
-  // Format: ['', '#', 'fecha', 'empresa', 'rol', 'score', 'STATUS', 'pdf', 'report', 'notas', '']
-  if (parts.length < 9) continue;
-  if (parts[1] === '#' || parts[1] === '---' || parts[1] === '') continue;
-
-  const num = parseInt(parts[1]);
-  if (isNaN(num)) continue;
-
-  const rawStatus = parts[6];
+  const separator = trackerRowSeparator(line);
+  const parts = splitTrackerCells(line).map(s => s.trim());
+  const num = row.num;
+  const rawStatus = row.status;
   const result = normalizeStatus(rawStatus);
 
   if (result.unknown) {
@@ -127,25 +198,29 @@ for (let i = 0; i < lines.length; i++) {
 
   // Apply change
   const oldStatus = rawStatus;
-  parts[6] = result.status;
+  parts[COLS.status] = result.status;
 
-  // Move DUPLICADO info to notes if needed
-  if (result.moveToNotes && parts[9]) {
-    const existing = parts[9] || '';
+  // Move DUPLICADO info to notes if needed. A layout without a Notes column
+  // has nowhere to put it — dropping the provenance beats appending a cell the
+  // table has no header for.
+  if (result.moveToNotes && COLS.notes != null) {
+    const existing = parts[COLS.notes] || '';
     if (!existing.includes(result.moveToNotes)) {
-      parts[9] = result.moveToNotes + (existing ? '. ' + existing : '');
+      parts[COLS.notes] = result.moveToNotes + (existing ? '. ' + existing : '');
     }
-  } else if (result.moveToNotes && !parts[9]) {
-    parts[9] = result.moveToNotes;
   }
 
   // Also strip bold from score field
-  if (parts[5]) {
-    parts[5] = parts[5].replace(/\*\*/g, '');
+  if (parts[COLS.score]) {
+    parts[COLS.score] = parts[COLS.score].replace(/\*\*/g, '');
   }
 
-  // Reconstruct line
-  const newLine = '| ' + parts.slice(1, -1).join(' | ') + ' |';
+  // Reconstruct line, preserving the row's own layout: rebuildRow is the
+  // pipe writer; a tab row goes back out tab-delimited, same canonical shape
+  // set-status.mjs writes (`|a\tb\tc|`).
+  let cells = parts.slice(1);
+  if (cells.length > 0 && cells[cells.length - 1] === '') cells = cells.slice(0, -1);
+  const newLine = separator === '\t' ? '|' + cells.join('\t') + '|' : rebuildRow(parts);
   lines[i] = newLine;
   changes++;
 
@@ -163,11 +238,16 @@ console.log(`\n📊 ${changes} statuses normalized`);
 
 if (!DRY_RUN && changes > 0) {
   // Backup first
-  copyFileSync(APPS_FILE, APPS_FILE + '.bak');
-  writeFileSync(APPS_FILE, lines.join('\n'));
-  console.log('✅ Written to applications.md (backup: applications.md.bak)');
+  const backupPath = `${APPS_FILE}.bak`;
+  copyFileSync(APPS_FILE, backupPath);
+  trackerTransaction.replace(lines.join('\n'));
+  console.log(`✅ Written to ${APPS_FILE} (backup: ${backupPath})`);
 } else if (DRY_RUN) {
   console.log('(dry-run — no changes written)');
 } else {
   console.log('✅ No changes needed');
 }
+} finally {
+  trackerTransaction?.close();
+}
+} // end IS_CLI

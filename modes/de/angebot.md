@@ -102,7 +102,7 @@ Außerdem aufnehmen:
 
 Die vollständige Bewertung in `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` ablegen.
 
-- `{###}` = nächste fortlaufende Nummer (3-stellig, mit führenden Nullen)
+- `{###}` = nächste fortlaufende Nummer (3-stellig, mit führenden Nullen). Um diese Nummer atomar zuzuweisen und Race-Conditions zu vermeiden, MÜSSEN Sie `node reserve-report-num.mjs` ausführen, um die Nummer zu reservieren (die Ausgabe gibt `{###}` zurück), den Report schreiben und dann `node reserve-report-num.mjs --release {###}` ausführen, um den Sentinel freizugeben.
 - `{company-slug}` = Firmenname in Kleinbuchstaben, ohne Leerzeichen (Bindestriche verwenden)
 - `{YYYY-MM-DD}` = aktuelles Datum
 
@@ -114,8 +114,11 @@ Die vollständige Bewertung in `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` ab
 **Datum:** {YYYY-MM-DD}
 **Archetyp:** {erkannt}
 **Score:** {X/5}
+**Entscheidung:** {Bewerben | Prüfen | Zuerst recherchieren | Überspringen}
 **URL:** {URL der Stellenanzeige}
 **PDF:** {Pfad oder ausstehend}
+
+{der Bewerbungssatz, wortgleich kopiert}
 
 ---
 
@@ -148,7 +151,7 @@ Die vollständige Bewertung in `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` ab
 
 ### 2. Im Tracker eintragen
 
-**IMMER** in `data/applications.md` eintragen:
+**IMMER** im Tracker eintragen. Dazu eine TSV schreiben (Regel 9 in `_shared.md`) und mit `node merge-tracker.mjs` zusammenführen; niemals eine Zeile direkt in `data/applications.md` schreiben. Felder:
 - Nächste fortlaufende Nummer
 - Aktuelles Datum
 - Firma
