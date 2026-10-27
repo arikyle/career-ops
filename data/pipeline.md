@@ -471,3 +471,19 @@
 - [ ] https://jobs.ashbyhq.com/eyetell/d5c7d08e-b1fe-48a5-8a0e-e78c23c6584a | EyeTell | Head of Partnerships
 - [ ] https://jobs.ashbyhq.com/pivotal-health/a8cd0b6b-ef4a-467d-908a-0eafb8251e82 | Pivotal Health | Head of Partnerships
 - [ ] https://job-boards.greenhouse.io/janeasystems/jobs/5505838004 | Janea Systems | Head of Partnerships
+
+- [ ] https://job-boards.greenhouse.io/wppmedia/jobs/5233932008 | WPP Media | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/later/jobs/8377478002 | Later | VP Partnerships
+- [ ] https://jobs.ashbyhq.com/demandbase/e0d55d53-d8e3-4018-9450-5bea536daeb9 | Demandbase | Strategic Partnerships Director
+- [ ] https://jobs.ashbyhq.com/prior-labs/c0bba086-41fa-400f-8ac1-3b022d82b4bc | Prior Labs | Head of Partnerships (SAP)
+- [ ] https://jobs.ashbyhq.com/openai/fd0a10a9-80e5-48c4-b313-c2403f009761/application | OpenAI | Head of GTM Planning & Incentives
+- [ ] https://jobs.ashbyhq.com/mutiny/b1d69184-0117-432d-96bf-3fafd6bf26f2 | Mutiny | Head of GTM (Path to COO)
+- [ ] https://jobs.ashbyhq.com/permitflow/a2b7fcae-9134-4355-b40e-b358c7e484aa | PermitFlow | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/learnupon/jobs/8556362002 | LearnUpon | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5116533007 | Power Digital | Director of GTM, Partnerships
+- [ ] https://jobs.lever.co/AIFund/936e92b1-ad22-4990-bc2f-c6e7d70168db | AI Fund | VP of Partnerships & Business Development
+- [ ] https://jobs.lever.co/jobgether/ab26e8a7-0306-4309-b22e-d8be2b10ecda | Jobgether | VP, Global Partner Strategic Growth
+- [ ] https://jobs.lever.co/jobgether/47d3e33a-c597-42da-ac65-eff517f4a596 | Jobgether | VP of Strategic Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/instawork/jobs/4712601006 | Instawork | Head of Partnerships - Instawork Robotics Labs
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4646677005 | Glean | National Channel Partner Manager
+- [ ] https://job-boards.greenhouse.io/semafor/jobs/4647083005 | Semafor | Director, Sales & Strategic Partnerships
