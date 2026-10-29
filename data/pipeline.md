@@ -487,3 +487,17 @@
 - [ ] https://job-boards.greenhouse.io/instawork/jobs/4712601006 | Instawork | Head of Partnerships - Instawork Robotics Labs
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4646677005 | Glean | National Channel Partner Manager
 - [ ] https://job-boards.greenhouse.io/semafor/jobs/4647083005 | Semafor | Director, Sales & Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/justworks/jobs/8002694 | Justworks | Senior Business Development Manager, Strategic Alliances
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4743370005 | Scale AI | Head of Strategic Partnerships, Labs
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/8048847 | Dropbox | Business Development Manager
+- [ ] https://job-boards.greenhouse.io/diligentcorporation/jobs/6192814004 | Diligent | Director, Strategic Alliances EMEA
+- [ ] https://job-boards.greenhouse.io/well/jobs/8364884002 | Well | Director, Go-to-Market Operations
+- [ ] https://job-boards.greenhouse.io/shopmy/jobs/5128243008 | ShopMy | Director, Product Go-to-Market
+- [ ] https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4737165005 | NPR | SVP, Content Strategy & Business Development
+- [ ] https://jobs.ashbyhq.com/hedge/f8ac5dd4-b1f0-4ff1-8929-f1a4c1b36dde | Hedge Specialty | Founding Head of Partnerships
+- [ ] https://jobs.ashbyhq.com/openai/e5c39e03-6121-47be-8bd3-f6128557b38f/application | OpenAI | Head of GTM Business Operations & Strategy, Safety & Security
+- [ ] https://jobs.ashbyhq.com/creatoriq/beae8c91-b25c-4bf0-9a6d-6600933ad5f8 | CreatorIQ | Vice President, GTM Operations
+- [ ] https://jobs.ashbyhq.com/claylabs/0df88e24-28da-4376-956d-926111832a32 | Clay Labs | Head of GTM Strategy & Ops
+- [ ] https://jobs.ashbyhq.com/Blossom-Health/b8bc3cbc-c0f2-4a9e-a8cc-3b25ed552e33 | Blossom Health | Head of GTM, Strategy & Ops
+- [ ] https://jobs.lever.co/jobgether/3a98d7d2-22f2-42a6-8430-350f0e5ae359 | Jobgether | GTM Strategy & Operations Director
