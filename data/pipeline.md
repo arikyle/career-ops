@@ -501,3 +501,9 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/0df88e24-28da-4376-956d-926111832a32 | Clay Labs | Head of GTM Strategy & Ops
 - [ ] https://jobs.ashbyhq.com/Blossom-Health/b8bc3cbc-c0f2-4a9e-a8cc-3b25ed552e33 | Blossom Health | Head of GTM, Strategy & Ops
 - [ ] https://jobs.lever.co/jobgether/3a98d7d2-22f2-42a6-8430-350f0e5ae359 | Jobgether | GTM Strategy & Operations Director
+
+- [ ] https://jobs.lever.co/jobgether/cedb30d7-fe60-45ad-ad3f-8fda05edbbb9 | Jobgether | Director of Partnerships
+- [ ] https://jobs.lever.co/vidsy/d463c560-d894-4b47-ae06-64723aeb6604 | Vidsy | VP Partnerships
+- [ ] https://jobs.lever.co/rovio-2/d915dfef-61b3-448a-a5ae-43c104c83901 | Rovio | Head of Business Development
+- [ ] https://jobs.lever.co/tryjeeves/f119bb97-f7a7-4d8d-8e9f-55b376ca393f | Jeeves | Head of Global Partnerships
+- [ ] https://job-boards.greenhouse.io/headoutlinkedin/jobs/4621542006 | Headout | Manager, Strategic Partnerships
