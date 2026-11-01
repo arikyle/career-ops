@@ -507,3 +507,9 @@
 - [ ] https://jobs.lever.co/rovio-2/d915dfef-61b3-448a-a5ae-43c104c83901 | Rovio | Head of Business Development
 - [ ] https://jobs.lever.co/tryjeeves/f119bb97-f7a7-4d8d-8e9f-55b376ca393f | Jeeves | Head of Global Partnerships
 - [ ] https://job-boards.greenhouse.io/headoutlinkedin/jobs/4621542006 | Headout | Manager, Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432583008 | Anthropic | [London] Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229558008 | Anthropic | Manager, Startup Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277044008 | Anthropic | Partnerships Lead Southern Europe
+- [ ] https://job-boards.greenhouse.io/withcoverage/jobs/4244469009 | WithCoverage | Director of Channel Partnerships
+- [ ] https://jobs.ashbyhq.com/outset/79716492-fb05-49e6-9594-200283bd65a0 | Outset | Global Head of Partnerships
