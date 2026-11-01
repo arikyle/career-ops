@@ -10,6 +10,10 @@ permissions:
 jobs:
   dependency-review:
     runs-on: ubuntu-latest
+    # Dependency Graph is not enabled on this fork, so the action always
+    # errors with "not supported on this repository". continue-on-error
+    # keeps this informational rather than a hard blocker.
+    continue-on-error: true
     steps:
       - name: Checkout
         uses: actions/checkout@v7
