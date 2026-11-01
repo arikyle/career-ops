@@ -63,8 +63,8 @@ jobs:
             ];
             // Tracked scaffolding that legitimately lives under those dirs.
             //
-            // batch/ and documents/ get an exact allowlist instead of the
-            // filename rule. The batch workers write user-layer output into
+            // batch/, documents/, and data/ get an exact allowlist instead of
+            // the filename rule. The batch workers write user-layer output into
             // batch/ (tailored CV and cover-letter JSON, prefetched JD text,
             // per-run state), and documents/ is where the user drops their own
             // files for intake (a LinkedIn export, a folder of references). A
@@ -75,7 +75,11 @@ jobs:
             // dirs a path is exempt only by being on its list, which also means
             // a new tracked file there has to be added on purpose.
             //
-            // Everywhere else the filename rule stands: data/, reports/, jds/,
+            // data/ is the same: pipeline.md, scan-history.tsv, and
+            // applications.md are the intentionally-tracked pipeline files in
+            // this fork; everything else under data/ is private user output.
+            //
+            // Everywhere else the filename rule stands: reports/, jds/,
             // output/, interview-prep/ and writing-samples/ track real .gitkeep
             // keepers and dir READMEs, and narrowing this globally would fail
             // every PR that touches one.
@@ -94,12 +98,18 @@ jobs:
                 'documents/.gitkeep',
                 'documents/README.md',
               ]),
+              'data/': new Set([
+                'data/.gitkeep',
+                'data/applications.md',
+                'data/pipeline.md',
+                'data/scan-history.tsv',
+              ]),
             };
             const isScaffold = (f) => {
               const dir = Object.keys(EXACT_SCAFFOLD).find((d) => f.startsWith(d));
               return dir
                 ? EXACT_SCAFFOLD[dir].has(f)
-                : /(^|\/)\.gitkeep$/.test(f) || /(^|\/)README\.md$/.test(f);
+                : /(^|\/)\..gitkeep$/.test(f) || /(^|\/)README\.md$/.test(f);
             };
 
             const bad = files
