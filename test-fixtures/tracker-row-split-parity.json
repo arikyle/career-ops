@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "name": "standard pipe row",
+      "line": "| 1 | 2026-01-01 | Acme Corp | Engineer | 4.0/5 | Applied | ❌ | [1](reports/001.md) | first note |",
+      "cells": ["1", "2026-01-01", "Acme Corp", "Engineer", "4.0/5", "Applied", "❌", "[1](reports/001.md)", "first note"]
+    },
+    {
+      "name": "tab-delimited legacy row",
+      "line": "| 2\t2026-02-01\tGlobex\tPlatform Engineer\t4.2/5\tEvaluated\t✅\t[2](reports/002.md)\tsecond note |",
+      "cells": ["2", "2026-02-01", "Globex", "Platform Engineer", "4.2/5", "Evaluated", "✅", "[2](reports/002.md)", "second note"]
+    },
+    {
+      "name": "pipe row with tab in notes cell",
+      "line": "| 3 | 2026-03-01 | Initech | DevOps | 3.8/5 | Responded | — | [3](reports/003.md) | recruiter said:\tcall Tue |",
+      "cells": ["3", "2026-03-01", "Initech", "DevOps", "3.8/5", "Responded", "—", "[3](reports/003.md)", "recruiter said:\tcall Tue"]
+    },
+    {
+      "name": "separator row returns separator cells",
+      "line": "|---|---|---|---|---|---|---|---|---|",
+      "cells": ["---", "---", "---", "---", "---", "---", "---", "---", "---"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cases": [
+    {"name": "empty cell", "cell": "", "href": ""},
+    {"name": "bare http URL", "cell": "https://jobs.example.com/1", "href": "https://jobs.example.com/1"},
+    {"name": "bare https URL", "cell": "https://boards.greenhouse.io/acme/jobs/9?gh_jid=123", "href": "https://boards.greenhouse.io/acme/jobs/9?gh_jid=123"},
+    {"name": "linked with host label", "cell": "[jobs.example.com](https://jobs.example.com/1)", "href": "https://jobs.example.com/1"},
+    {"name": "linked with ATS label", "cell": "[ashby](https://jobs.ashbyhq.com/temporal/8a65908d)", "href": "https://jobs.ashbyhq.com/temporal/8a65908d"},
+    {"name": "angle-bracketed destination", "cell": "[example.com](<https://example.com/jobs/1>)", "href": "https://example.com/jobs/1"},
+    {"name": "balanced parens in href", "cell": "[example.com](https://example.com/jobs/eng(remote))", "href": "https://example.com/jobs/eng(remote)"},
+    {"name": "query string survives", "cell": "[greenhouse](https://boards.greenhouse.io/acme/jobs/9?gh_jid=123)", "href": "https://boards.greenhouse.io/acme/jobs/9?gh_jid=123"},
+    {"name": "placeholder passed through", "cell": "—", "href": "—"},
+    {"name": "non-http link not mistaken for URL", "cell": "[jd](local:jds/acme.md)", "href": "[jd](local:jds/acme.md)"},
+    {"name": "unmatched close paren bare", "cell": "https://example.com/jobs/a)b", "href": "https://example.com/jobs/a)b"},
+    {"name": "encoded space linked", "cell": "[example.com](https://example.com/jobs/a%20b)", "href": "https://example.com/jobs/a%20b"}
+  ]
+}
