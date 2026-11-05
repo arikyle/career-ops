@@ -507,3 +507,8 @@
 - [ ] https://jobs.lever.co/rovio-2/d915dfef-61b3-448a-a5ae-43c104c83901 | Rovio | Head of Business Development
 - [ ] https://jobs.lever.co/tryjeeves/f119bb97-f7a7-4d8d-8e9f-55b376ca393f | Jeeves | Head of Global Partnerships
 - [ ] https://job-boards.greenhouse.io/headoutlinkedin/jobs/4621542006 | Headout | Manager, Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/fireworks/637ac49a-7ff1-4791-8e59-598a991bcde5 | Fireworks | Head of GTM Strategy & Ops, Global Partnerships
+- [ ] https://job-boards.greenhouse.io/withcoverage/jobs/4244469009 | WithCoverage | Director of Channel Partnerships
+- [ ] https://job-boards.greenhouse.io/horizenlabs/jobs/6234325004 | Horizen Labs | Head of Business Development
+- [ ] https://job-boards.greenhouse.io/tanium/jobs/7739888 | Tanium | Director, Product Partnerships - Technical Partnerships & Programs
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4692932005 | Flex | Senior Director, Strategic Partnerships
