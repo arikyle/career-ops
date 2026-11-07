@@ -512,3 +512,39 @@
 - [ ] https://job-boards.greenhouse.io/horizenlabs/jobs/6234325004 | Horizen Labs | Head of Business Development
 - [ ] https://job-boards.greenhouse.io/tanium/jobs/7739888 | Tanium | Director, Product Partnerships - Technical Partnerships & Programs
 - [ ] https://job-boards.greenhouse.io/flex/jobs/4692932005 | Flex | Senior Director, Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982149008 | Anthropic | Head of UK & Northern Europe Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5019566008 | Anthropic | Head of International Business Development
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391207008 | Anthropic | Head of Partnerships, Japan
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5224507008 | Anthropic | Head of Partner Programs
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5471925008 | Anthropic | Head of Partner Services Delivery and Success
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5043487008 | Anthropic | Head of Global Reseller Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5082397008 | Anthropic | Head of Azure Partnership
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5182866008 | Anthropic | Cloud Partner Enablement Lead
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5576793004 | Vercel | Director of Partnerships, North America
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5678141004 | Vercel | Director of Partnerships, Commerce & Channels
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5496225004 | Vercel | Senior Partner Manager, Benelux & Southern Europe
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6087001004 | Vercel | Partner Operations Lead
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5687792004 | Vercel | Partner Lead, EMEA
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7211726003 | Celonis | VP, Technology Partnerships
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7657909003 | Celonis | Director, Partner Engagement - UKI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7746731003 | Celonis | Cloud Partner Director, North Europe
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7703570003 | Celonis | VP, Cloud and AI Partnerships
+- [ ] https://job-boards.greenhouse.io/grammarly/jobs/6872971 | Grammarly | Head of Partner Solutions
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8110410 | Braze | Director, ISV Partnerships
+- [ ] https://job-boards.greenhouse.io/braze/jobs/7778126 | Braze | Senior Partner Account Director
+- [ ] https://job-boards.greenhouse.io/braze/jobs/7859617 | Braze | AVP, Partner Sales
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4601648005 | Glean | Director, Partner Operations
+- [ ] https://job-boards.greenhouse.io/renpsg/jobs/4803316008 | renpsg | Director, Partnership Firms
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/5194035007 | Temporal | Director, GTM Strategy & Analytics
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5719282004 | ClickHouse | Director of Partnerships, Tech & ISV/OEM
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6001252004 | ClickHouse | Director, GSI Partnerships
+- [ ] https://job-boards.greenhouse.io/gong/jobs/4589562006 | Gong | Sr. Director of Technology Partnership
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7663549003 | LaunchDarkly | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5542821004 | Dataiku | Head of Partners, APJ
+- [ ] https://jobs.lever.co/jobgether/6bebebcd-0420-4868-8b05-3e3932a1831b | Jobgether | Global Data Partnership Director
+- [ ] https://jobs.lever.co/jobgether/727d360b-ac3b-4c4e-97aa-c9cfdbe82b96 | Jobgether | Director, US Strategic Partnerships
+- [ ] https://jobs.lever.co/jobgether/37c7a3f6-1dda-4c25-a910-aba59697d1ca | Jobgether | Partner Director
+- [ ] https://jobs.lever.co/jobgether/f4446b14-54dd-4be6-b418-d68aadcbfe28 | Jobgether | Director, Partnerships & Alliances
+- [ ] https://jobs.ashbyhq.com/openai/9f586619-7190-4b91-9002-d3826eaed72f | OpenAI | Partner Director, ANZ
+- [ ] https://jobs.ashbyhq.com/cohere/a3b95835-c86d-4ad1-ab76-5aa7e685f488 | Cohere | Head of Corporate Development
