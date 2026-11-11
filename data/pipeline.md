@@ -512,3 +512,25 @@
 - [ ] https://job-boards.greenhouse.io/horizenlabs/jobs/6234325004 | Horizen Labs | Head of Business Development
 - [ ] https://job-boards.greenhouse.io/tanium/jobs/7739888 | Tanium | Director, Product Partnerships - Technical Partnerships & Programs
 - [ ] https://job-boards.greenhouse.io/flex/jobs/4692932005 | Flex | Senior Director, Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/osano/jobs/4926837008 | Osano | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/topsort/jobs/4739401008 | Topsort | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/inflect/jobs/4612043006 | Inflect | VP of Partnerships
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/4603957008 | Honeycomb | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/showpad/jobs/7530056 | Showpad | VP Global Partnerships
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5678141004 | Vercel | Director of Partnerships, North America
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5576793004 | Vercel | Director of Partnerships, Commerce & Channels
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7663549003 | LaunchDarkly | Head of Partnerships
+- [ ] https://job-boards.greenhouse.io/later/jobs/8501147002 | Later | Sr Director of Partnerships
+- [ ] https://job-boards.greenhouse.io/partnerstack/jobs/4631261005 | PartnerStack | Director, Partnerships
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4005607009 | Rhino Federated Computing | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001842009 | Rhino Federated Computing | VP, Business Development
+- [ ] https://job-boards.greenhouse.io/konovo/jobs/5109004008 | Konovo | VP, Business Development, Growth & Commercial Development
+- [ ] https://job-boards.greenhouse.io/iterativehealth/jobs/4583510006 | Iterative Health | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/automatticcareers/jobs/7215387 | Automattic | Director, Business Development, VIP
+- [ ] https://job-boards.greenhouse.io/phasev/jobs/4063854009 | PhaseV | Senior Director, Business Development
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4157844009 | Rhino Federated Computing | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/definitivehc/jobs/5740542004 | Definitive Healthcare | Director, GTM Technology
+- [ ] https://job-boards.greenhouse.io/vivodyne/jobs/5006359007 | Vivodyne | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6660504 | Contentful | Director, Product Marketing - GTM
+- [ ] https://jobs.lever.co/hso/bc19d3ac-bd7d-4a5e-bce9-07e4e53a3bed | HSO | Strategic Partnership Manager
