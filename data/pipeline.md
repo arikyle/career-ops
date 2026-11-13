@@ -534,3 +534,10 @@
 - [ ] https://job-boards.greenhouse.io/vivodyne/jobs/5006359007 | Vivodyne | Director, Business Development
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/6660504 | Contentful | Director, Product Marketing - GTM
 - [ ] https://jobs.lever.co/hso/bc19d3ac-bd7d-4a5e-bce9-07e4e53a3bed | HSO | Strategic Partnership Manager
+- [ ] https://job-boards.greenhouse.io/maintainx/jobs/4905160007 | MaintainX | Director of AI GTM
+- [ ] https://job-boards.greenhouse.io/labviva/jobs/5197290008 | Labviva | Director, Business Development (Supplier Partnerships)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4628643006 | Chainguard | Director, Technology Partnerships
+- [ ] https://openai.com/careers/head-of-partnerships-digital-natives-san-francisco/ | OpenAI | Head of Partnerships, Digital Natives
+- [ ] https://jobs.lever.co/jobgether/66d7b308-2e62-4b5c-94f8-2b6fac3aa697 | Jobgether | Director of Partnerships & Client Success
+- [ ] https://jobs.lever.co/jobgether/22d0747a-cf0b-4512-bc22-ff86a7568650 | Jobgether | VP of Alliances
+- [ ] https://jobs.lever.co/jobgether/727d360b-ac3b-4c4e-97aa-c9cfdbe82b96 | Jobgether | Director, US Strategic Partnerships
