@@ -541,3 +541,6 @@
 - [ ] https://jobs.lever.co/jobgether/66d7b308-2e62-4b5c-94f8-2b6fac3aa697 | Jobgether | Director of Partnerships & Client Success
 - [ ] https://jobs.lever.co/jobgether/22d0747a-cf0b-4512-bc22-ff86a7568650 | Jobgether | VP of Alliances
 - [ ] https://jobs.lever.co/jobgether/727d360b-ac3b-4c4e-97aa-c9cfdbe82b96 | Jobgether | Director, US Strategic Partnerships
+
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4066721009 | Rhino Federated Computing | Director, Business Development
+- [ ] https://jobs.lever.co/wpromote/52f7af5c-8803-41af-b4d3-3afd936e90bd | Wpromote | Senior Manager, Strategic Partnerships
