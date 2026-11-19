@@ -544,3 +544,20 @@
 
 - [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4066721009 | Rhino Federated Computing | Director, Business Development
 - [ ] https://jobs.lever.co/wpromote/52f7af5c-8803-41af-b4d3-3afd936e90bd | Wpromote | Senior Manager, Strategic Partnerships
+
+- [ ] https://jobs.ashbyhq.com/docker/88de21a4-028a-4d79-980e-1abd7bf4e4c8 | Docker | Director, Business Development
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7428796 | Cloudflare | Head of GTM, AI Inference
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4743504005 | AssemblyAI | Head of GTM, Europe
+- [ ] https://jobs.ashbyhq.com/eliseai/ce06ce21-eb62-4f45-ba08-7638a737169a | EliseAI | Director of GTM Strategy and Operations
+- [ ] https://jobs.ashbyhq.com/higgsfieldai/e43724ff-a7a4-4c7b-a1a5-2469d87f9f2b | Higgsfield AI | GTM Director, LatAM
+- [ ] https://jobs.lever.co/theathletic/cc74f12b-10f1-4862-bf93-f472e8d4bc3e | The Athletic | Business Development and Partnerships Director
+- [ ] https://jobs.ashbyhq.com/MUBI/f67544f3-5bdd-4e77-9c11-fbfa05aad185 | MUBI | Head of Business Development
+- [ ] https://job-boards.greenhouse.io/6sense/jobs/8327143 | 6sense | Agency Partnerships Director
+- [ ] https://jobs.ashbyhq.com/dualentry/9fe46cba-c9c1-41e8-b360-84794b9018c2 | DualEntry | Head of Strategic Partnerships
+- [ ] https://jobs.ashbyhq.com/envision-horizons/a6ea4068-da0d-418d-94d7-17d0f2645c12 | Envision Horizons | VP of Partnerships
+- [ ] https://jobs.ashbyhq.com/kamino/d317234a-6f79-46dd-ae87-0c9e4e89aae0 | Kamino | Head of Business Development
+- [ ] https://jobs.ashbyhq.com/strategic-growth-partners/7ad5be92-4d06-4400-ab69-c34e2e3bd1a9 | Strategic Growth Partners | SVP, Business Development
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5995664004 | Algolia | VP, AI-Native GTM & Automation
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8652627002 | Addepar | Sr. Director, GTM Strategy & Planning
+- [ ] https://jobs.ashbyhq.com/neuroscale/66d227bf-c29c-48b3-8085-3c55b32a6646 | Neuroscale AI | Director, Strategic Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/humanagency/jobs/7619322003 | Human Agency | Head of Business Development
