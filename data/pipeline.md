@@ -561,3 +561,12 @@
 - [ ] https://job-boards.greenhouse.io/addepar1/jobs/8652627002 | Addepar | Sr. Director, GTM Strategy & Planning
 - [ ] https://jobs.ashbyhq.com/neuroscale/66d227bf-c29c-48b3-8085-3c55b32a6646 | Neuroscale AI | Director, Strategic Partnerships & Alliances
 - [ ] https://job-boards.greenhouse.io/humanagency/jobs/7619322003 | Human Agency | Head of Business Development
+
+- [ ] https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf/application | OpenAI | Partner Director, GTM Cloud Partnerships
+- [ ] https://jobs.ashbyhq.com/footprint/d2ad412f-979d-48ca-b453-76900b2aa5c5 | Footprint | Head of Partnerships
+- [ ] https://jobs.lever.co/jobgether/4f3cec0b-f836-4c8a-95df-a33bb43c333c | Jobgether | Partnerships Lead
+- [ ] https://jobs.lever.co/jobgether/826025ca-a960-4ad5-8d36-0b99d0cf2138 | Jobgether | Partnerships Lead
+- [ ] https://jobs.lever.co/jobgether/da7f46d1-ca59-4ac9-809e-035c427cf526 | Jobgether | Commercial GTM Strategist, Partnerships
+- [ ] https://jobs.lever.co/jobgether/e964bdfd-d67b-42af-9126-845bd76048db | Jobgether | GSI Partnership Lead
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7875615 | Greenhouse | Senior Business Development Manager
+- [ ] https://job-boards.greenhouse.io/crunchbase/jobs/4589542006 | Crunchbase | Director of Business Development
