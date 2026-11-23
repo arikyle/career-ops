@@ -570,3 +570,14 @@
 - [ ] https://jobs.lever.co/jobgether/e964bdfd-d67b-42af-9126-845bd76048db | Jobgether | GSI Partnership Lead
 - [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7875615 | Greenhouse | Senior Business Development Manager
 - [ ] https://job-boards.greenhouse.io/crunchbase/jobs/4589542006 | Crunchbase | Director of Business Development
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390992008 | Anthropic | Head of GTM Programs EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126650008 | Anthropic | Head of GTM Systems
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4662232005 | Scale AI | Head of GTM Strategy & Operations, Enterprise
+- [ ] https://job-boards.greenhouse.io/diligentcorporation/jobs/5470764004 | Diligent | Director, GTM Technology
+- [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8932349002 | Maven Clinic | Director, GTM Operations & Architecture
+- [ ] https://job-boards.greenhouse.io/sigmacomputing/jobs/7686016003 | Sigma Computing | Director, GTM Architecture
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5005154007 | xAI | Head of GTM - Systems & Agents
+- [ ] https://job-boards.greenhouse.io/netlifyexplorecareers/jobs/8122446002 | Netlify | Director of GTM Partnerships
+- [ ] https://jobs.ashbyhq.com/f2-ai/a5fc19a6-e1e8-4ab5-97d0-5d9627e288cd | F2 AI | Head of Partnerships
+- [ ] https://jobs.lever.co/d2l/bd1b446e-80d1-4743-9be6-d771078990a6 | D2L | Strategic Partnership Manager
