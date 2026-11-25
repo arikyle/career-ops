@@ -581,3 +581,5 @@
 - [ ] https://job-boards.greenhouse.io/netlifyexplorecareers/jobs/8122446002 | Netlify | Director of GTM Partnerships
 - [ ] https://jobs.ashbyhq.com/f2-ai/a5fc19a6-e1e8-4ab5-97d0-5d9627e288cd | F2 AI | Head of Partnerships
 - [ ] https://jobs.lever.co/d2l/bd1b446e-80d1-4743-9be6-d771078990a6 | D2L | Strategic Partnership Manager
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7345308 | Contentful | Strategic Partner Manager
+- [ ] https://job-boards.greenhouse.io/6sense/jobs/8273672 | 6sense | VP, Technology & Data Partnerships
