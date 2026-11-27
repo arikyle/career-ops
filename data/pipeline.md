@@ -583,3 +583,10 @@
 - [ ] https://jobs.lever.co/d2l/bd1b446e-80d1-4743-9be6-d771078990a6 | D2L | Strategic Partnership Manager
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7345308 | Contentful | Strategic Partner Manager
 - [ ] https://job-boards.greenhouse.io/6sense/jobs/8273672 | 6sense | VP, Technology & Data Partnerships
+- [ ] https://job-boards.greenhouse.io/6sense/jobs/8116166 | 6sense | VP Partnerships & Alliances
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001842009 | Rhino Federated Computing | VP, Business Development
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4005607009 | Rhino Federated Computing | Director, Strategic Partnerships
+- [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5823420004 | Goodway Group | Commerce Media Director – Performance & Partnerships
+- [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5689230004 | Goodway Group | Media Director – Retail Media
+- [ ] https://jobs.lever.co/gr0/8acd4e5a-ff4f-4b56-8734-48d772ec552d | GR0 | Director, Amazon & Retail Media
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7482840 | Intercom | Head of Global Partnerships
